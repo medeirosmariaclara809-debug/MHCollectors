@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Catálogo de bonecas Monster High para colecionadores.">
+    <meta name="keywords" content="Monster High, bonecas, G1, G3, Mattel, checklist">
+    <meta name="author" content="Maria">    
+    <link rel="stylesheet" href="../index.css"> <!-- CSS corrigido para voltar uma pasta -->
+    <title>MH Collectors - Bonecas</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="nav-brand">
+              
+                <a href="../index.html">
+                    <img src="../imagens/MH.svg" class="Logo" id="mh" alt="Ícone MH">
+                </a>
+                <a href="../index.html">
+                    <img src="../imagens/logo.svg" alt="MH Collector Logo" class="logo"/>
+                </a>
+            </div>
+
+            <button class="btn-menu-unico">
+                <div class="traco"></div>
+                <div class="traco"></div>
+                <div class="traco"></div>
+            </button>
+
+        
+            <ul class="nav-menu">
+                <li class="textoheader">
+                    <img src="../imagens/pessoas.svg" alt="Personagens" />
+                    <a href="../personagens/personagens.html">Personagens</a>
+                </li>
+                <li class="textoheader">
+                    <img src="../imagens/diamante.svg" alt="Bonecas" />
+                    <a href="../bonecas/bonecas.html">Bonecas</a>
+                </li>
+                <li class="textoheader">
+                    <img src="../imagens/check.svg" alt="Checklist" />
+                    <a href="../checklist/checklist.html">Checklist</a>
+                </li>
+                <li class="textoheader">
+                    <img src="../imagens/comunidade.svg" alt="Comunidade" />
+                    <a href="../comunidade/comunidade.html">Comunidade</a>
+                </li>
+            </ul>
+
+            <div class="nav-actions">
+                <a href="../conta.html" class="conta">
+                    <img class="logoconta" src="../imagens/conta.svg" alt="Conta"/>
+                </a>
+                <button class="btn-engrenagem">
+                    <img src="../imagens/engrenagem.svg" class="engrenagem" alt="Configurações"/>
+                </button>
+            </div>
+        </nav>
+    </header>
+
+   
+    <section class="perso-secao">
+        <h2 class="perso-titulo">BONECAS</h2>
+        <p class="perso-subtitulo">Conheça as bonecas de Monster High</p>
+
+        <div class="perso-busca-container">
+            <div class="perso-input-wrapper">
+                <input type="text" class="perso-busca" placeholder="Buscar por bonecas" id="campo-busca">
+                <img src="../imagens/busca.svg" alt="Buscar" class="perso-icone-busca">
+            </div>
+            
+            <select class="categoria" id="filtro-categoria" onchange="filtrarPorCategoria(this.value)">
+                <option value="todos">Todas as Categorias</option>
+                <option value="femininos">Femininos</option>
+                <option value="masculinos">Masculinos</option>
+                <option value="a-z">A-Z</option>
+                <option value="z-a">Z-A</option>
+            </select>
+
+            <select class="categoria" id="filtro-colecoes" onchange="filtrarPorColecao(this.value)">
+                <option value="todos">Coleções</option>
+            </select>
+
+             <select class="categoria" id="filtro-nomes" onchange="filtrarPorNome(this.value)">
+                <option value="todos">Personagens</option>
+            </select>
+            <span id="contador-resultados" class="contador-busca"></span>
+        </div>
+
+        <div class="perso-grid" id="lista-bonecas"></div>
+    </section>
+
+    <a href="#" class="voltar">Voltar para cima</a>
+
+    <footer></footer>
+
+    <script src="../componentes.js"></script>
+    <script src="script5.js"></script>
+    
+</body>
+</html>
