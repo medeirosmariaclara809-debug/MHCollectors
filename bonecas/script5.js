@@ -10,21 +10,21 @@ const bonecas = [
     { nome: "Holt Hyde", imagem: "../imagens/imagens bonecas/HoltBasic.jpg", genero: "Masculino", colecao: "Básicas" },
 
     // --- DAWN OF THE DANCE ---
-    { nome: "Clawdeen Wolf", imagem: "../imagens/imagens bonecas/ClawdeenDOTD.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
-    { nome: "Cleo de Nile", imagem: "../imagens/imagens bonecas/CleoDOTD.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
-    { nome: "Frankie Stein", imagem: "../imagens/imagens bonecas/FrankieDOTD.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
-    { nome: "Deuce Gorgon", imagem: "../imagens/imagens bonecas/DeuceDOTD.jpg", genero: "Masculino", colecao: "Dawn of the Dance" },
-    { nome: "Draculaura", imagem: "../imagens/imagens bonecas/DraculauraDOTD.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
-    { nome: "Lagoona Blue", imagem: "../imagens/imagens bonecas/LagoonaDOTD.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
-    { nome: "Ghoulia Yelps", imagem: "../imagens/imagens bonecas/GhouliaDOTD.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
+    { nome: "Clawdeen Wolf", imagem: "../imagens/imagens bonecas/ClawdeenDotd.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
+    { nome: "Cleo de Nile", imagem: "../imagens/imagens bonecas/CleoDotd.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
+    { nome: "Frankie Stein", imagem: "../imagens/imagens bonecas/FrankieDotd.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
+    { nome: "Deuce Gorgon", imagem: "../imagens/imagens bonecas/DeuceDotd.jpg", genero: "Masculino", colecao: "Dawn of the Dance" },
+    { nome: "Draculaura", imagem: "../imagens/imagens bonecas/DraculauraDotd.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
+    { nome: "Lagoona Blue", imagem: "../imagens/imagens bonecas/LagoonaDotd.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
+    { nome: "Ghoulia Yelps", imagem: "../imagens/imagens bonecas/GhouliaDotd.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
 
     // --- GLOOM BEACH ---
     { nome: "Draculaura", imagem: "../imagens/imagens bonecas/DraculauraGB.jpg", genero: "Feminino", colecao: "Gloom Beach" },
-    { nome: "Ghoulia Yelps", imagem: "../imagens/imagens bonecas/GhouliaGB.jpg", genero: "Feminino", colecao: "Gloom Beach" },
+    { nome: "Ghoulia Yelps", imagem: "../imagens/imagens bonecas/GhouliaGb.jpg", genero: "Feminino", colecao: "Gloom Beach" },
     { nome: "Clawdeen Wolf", imagem: "../imagens/imagens bonecas/ClawdeenGB.jpg", genero: "Feminino", colecao: "Gloom Beach" },
-    { nome: "Cleo de Nile", imagem: "../imagens/imagens bonecas/CleoGB.jpg", genero: "Gloom Beach", colecao: "Gloom Beach" },
+    { nome: "Cleo de Nile", imagem: "../imagens/imagens bonecas/CleoGb.jpg", genero: "Gloom Beach", colecao: "Gloom Beach" },
     { nome: "Frankie Stein", imagem: "../imagens/imagens bonecas/FrankieGB.jpg", genero: "Feminino", colecao: "Gloom Beach" },
-    { nome: "Jackson Jekyll", imagem: "../imagens/imagens bonecas/JacksonGB.jpg", genero: "Masculino", colecao: "Gloom Beach" },
+    { nome: "Jackson Jekyll", imagem: "../imagens/imagens bonecas/JacksonGb.jpg", genero: "Masculino", colecao: "Gloom Beach" },
 
     // --- SCHOOL'S OUT ---
     { nome: "Abbey Bominable", imagem: "../imagens/imagens bonecas/AbbeySO.jpg", genero: "Feminino", colecao: "School's Out" },
@@ -339,10 +339,10 @@ const bonecas = [
     { nome: "Catrine DeMew", imagem: "../imagens/imagens bonecas/CatrineChat.jpg", genero: "Feminino", colecao: "Ghoul Chat" },
 
     // --- COLECÃO: A PACK OF TROUBLE ---
-    { nome: "Clawdeen Wolf ", imagem: "../imagens/imagens bonecas/ClawdeenTrouble.jpg", genero: "Feminino", colecao: "A Pack of Trouble" },
-    { nome: "Clawd Wolf ", imagem: "../imagens/imagens bonecas/ClawdTrouble.jpg", genero: "Masculino", colecao: "A Pack of Trouble" },
-    { nome: "Clawdia Wolf ", imagem: "../imagens/imagens bonecas/ClawdiaTrouble.jpg", genero: "Feminino", colecao: "A Pack of Trouble" },
-    { nome: "Howleen Wolf ", imagem: "../imagens/imagens bonecas/HowleenTrouble.jpg", genero: "Feminino", colecao: "A Pack of Trouble" },
+    { nome: "Clawdeen Wolf ", imagem: "../imagens/imagens bonecas/Clawdeentrouble.jpg", genero: "Feminino", colecao: "A Pack of Trouble" },
+    { nome: "Clawd Wolf ", imagem: "../imagens/imagens bonecas/Clawdtrouble.jpg", genero: "Masculino", colecao: "A Pack of Trouble" },
+    { nome: "Clawdia Wolf ", imagem: "../imagens/imagens bonecas/Clawdiatrouble.jpg", genero: "Feminino", colecao: "A Pack of Trouble" },
+    { nome: "Howleen Wolf ", imagem: "../imagens/imagens bonecas/Howleentrouble.jpg", genero: "Feminino", colecao: "A Pack of Trouble" },
 
     // --- COLECÃO: MONSTER EXCHANGE PROGRAM ---
     { nome: "Marisol Coxi", imagem: "../imagens/imagens bonecas/MarisolExchange.jpg", genero: "Feminino", colecao: "Monster Exchange Program" },
@@ -416,7 +416,7 @@ const bonecas = [
     { nome: "Catty Noir", imagem: "../imagens/imagens bonecas/CattyBooYork2.jpg", genero: "Feminino", colecao: "Boo York, Boo York" },
 
     // --- COLECÃO: WHEEL LOVE ---
-    { nome: "Lagoona Blue", imagem: "../imagens/imagens bonecas/LagoonaWheel.jpg", genero: "Feminino", colecao: "Wheel Love" },
+    { nome: "Lagoona Blue", imagem: "../imagens/imagens bonecas/lagoonaWheel.jpg", genero: "Feminino", colecao: "Wheel Love" },
     { nome: "Gil Webber ", imagem: "../imagens/imagens bonecas/GilWheel.jpg", genero: "Masculino", colecao: "Wheel Love" },
 
     // --- COLECÃO: FREAK DU CHIC ---
@@ -503,7 +503,7 @@ const bonecas = [
     // --- COLECÃO: FIERCE ROCKERS ---
     { nome: "Catty Noir", imagem: "../imagens/imagens bonecas/CattyireRockers.jpg", genero: "Feminino", colecao: "Fierce Rockers" },
     { nome: "Toralei Stripe ", imagem: "../imagens/imagens bonecas/ToraleiireRockers.jpg", genero: "Feminino", colecao: "Fierce Rockers" },
-    { nome: "Jinafire Long", imagem: "../imagens/imagens bonecas/JinaFireireRockers.jpg", genero: "Feminino", colecao: "Fierce Rockers" },
+    { nome: "Jinafire Long", imagem: "../imagens/imagens bonecas/JinafireireRockers.jpg", genero: "Feminino", colecao: "Fierce Rockers" },
      { nome: "Clawdeen Wolf", imagem: "../imagens/imagens bonecas/ClawdeenireRockers.jpg", genero: "Feminino", colecao: "Fierce Rockers" },
     { nome: "Venus McFlytrap", imagem: "../imagens/imagens bonecas/VenusireRockers.jpg", genero: "Feminino", colecao: "Fierce Rockers" },
 
@@ -655,13 +655,13 @@ const bonecas = [
     // 3. COLEÇÃO: HORROR MOVIE DOLLS (SKULLECTOR)
     // ==========================================
     { nome: "IT Pennywise (2020)", imagem: "../imagens/imagens bonecas/PennywiseeHorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },
-    { nome: "Grady Twins - The Shining  (2020)", imagem: "../imagens/imagens bonecas/TheshiningehorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },
+    { nome: "Grady Twins - The Shining  (2020)", imagem: "../imagens/imagens bonecas/TheShiningeHorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },
     { nome: "Beetlejuice (2021)", imagem: "../imagens/imagens bonecas/BeetlejuiceeHorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },
-    { nome: "Lydia Deetz (2021)", imagem: "../imagens/imagens bonecas/LydiahorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },
+    { nome: "Lydia Deetz (2021)", imagem: "../imagens/imagens bonecas/LydiaHorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },
     { nome: "Greta Gremlin (2021)", imagem: "../imagens/imagens bonecas/GretaHorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },
     { nome: "Dracula (2022)", imagem: "../imagens/imagens bonecas/DraculaHorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },
     { nome: "Frankenstein (2022)", imagem: "../imagens/imagens bonecas/FrankesteinHorrorMovie.jpg", genero: "Masculino", colecao: "Horror Movie Dolls" },
-    { nome: "Bride of Frankenstein (2022)", imagem: "../imagens/imagens bonecas/theBrideHorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },
+    { nome: "Bride of Frankenstein (2022)", imagem: "../imagens/imagens bonecas/TheBrideHorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },
     { nome: "Elvira Mistress of the Dark (2023)", imagem: "../imagens/imagens bonecas/ElviraHorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },
     { nome: "Chucky (2023)", imagem: "../imagens/imagens bonecas/ChuckyeHorrorMovie.jpg", genero: "Masculino", colecao: "Horror Movie Dolls" },
     { nome: "Tiffany (2023)", imagem: "../imagens/imagens bonecas/TiffanyeHorrorMovie.jpg", genero: "Feminino", colecao: "Horror Movie Dolls" },

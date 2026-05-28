@@ -13,7 +13,7 @@ const personagens = [
     { nome: "Clawd Wolf", imagem: "../imagens/imagens personagens/Clawd_basic.webp" ,genero: "Masculino"},
     { nome: "Meowlody", imagem: "../imagens/imagens personagens/Meowlody.png" ,genero: "Feminino"},
     { nome: "Purrsephone", imagem: "../imagens/imagens personagens/Purrsephone.png" ,genero: "Feminino"},
-    { nome: "Toralei Stripe", imagem: "../imagens/imagens personagens/toralei_basic.webp" ,genero: "Feminino"},
+    { nome: "Toralei Stripe", imagem: "../imagens/imagens personagens/Toralei_basic.webp" ,genero: "Feminino"},
     { nome: "Nefera de Nile", imagem: "../imagens/imagens personagens/nefera.png" ,genero: "Feminino"},
     { nome: "Rochelle Goyle ", imagem: "../imagens/imagens personagens/rochelle.png" ,genero: "Feminino"},
     { nome: "Venus McFlytrap", imagem: "../imagens/imagens personagens/venus.png" ,genero: "Feminino"},
