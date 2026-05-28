@@ -10,7 +10,7 @@ const bonecas = [
     { nome: "Holt Hyde", imagem: "../imagens/imagens bonecas/HoltBasic.jpg", genero: "Masculino", colecao: "Básicas" },
 
     // --- DAWN OF THE DANCE ---
-    { nome: "Clawdeen Wolf", imagem: "../imagens/imagens bonecas/ClawdeenDotd.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
+    { nome: "Clawdeen Wolf", imagem: "../imagens/imagens bonecas/Clawdeendotd.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
     { nome: "Cleo de Nile", imagem: "../imagens/imagens bonecas/CleoDotd.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
     { nome: "Frankie Stein", imagem: "../imagens/imagens bonecas/FrankieDotd.jpg", genero: "Feminino", colecao: "Dawn of the Dance" },
     { nome: "Deuce Gorgon", imagem: "../imagens/imagens bonecas/DeuceDotd.jpg", genero: "Masculino", colecao: "Dawn of the Dance" },
@@ -180,7 +180,7 @@ const bonecas = [
     { nome: "Clawdeen Wolf", imagem: "../imagens/imagens bonecas/ClawdeenAlive.jpg", genero: "Feminino", colecao: "Ghouls Alive!" },
     { nome: "Spectra Vondergeist", imagem: "../imagens/imagens bonecas/SpectraAlive.jpg", genero: "Feminino", colecao: "Ghouls Alive!" },
     { nome: "Toralei Stripe", imagem: "../imagens/imagens bonecas/ToraleiAlive.jpg", genero: "Feminino", colecao: "Ghouls Alive!" },
-    { nome: "Deuce Gorgon", imagem: "../imagens/imagens bonecas/DeuceAlive.jpg", genero: "Masculino", colecao: "Ghouls Alive!" },
+    { nome: "Deuce Gorgon", imagem: "../imagens/imagens bonecas/DeuceAlive.JPG", genero: "Masculino", colecao: "Ghouls Alive!" },
     { nome: "Robecca Steam", imagem: "../imagens/imagens bonecas/RobeccaAlive.jpg", genero: "Feminino", colecao: "Ghouls Alive!" },
 
     // --- COLECÃO: POWER GHOULS ---
