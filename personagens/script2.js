@@ -79,17 +79,17 @@ const selectCategoria = document.getElementById('filtro-categoria');
 function renderizar(lista) {
     if (!container) return;
     
- 
+    // O segredo está no href apontando para ../perfil.html?personagem=
+    // Usamos o p.id (ou p.slug) que está cadastrado nos dados do personagem
     container.innerHTML = lista.map(p => `
         <div class="perso-card">
             <div class="perso-img-container">
                 <img src="${p.imagem}" alt="${p.nome}" loading="lazy">
             </div>
             <h3 class="perso-nome">${p.nome}</h3>
-            <a href="#" class="perso-link">Explorar</a>
+            <a href="../paginapersonagens/perfil.html?personagem=${p.id || p.slug || p.nome.toLowerCase().replace(/ /g, '-')}" class="perso-link">Explorar</a>
         </div>
     `).join('');
-
 
     const cards = container.querySelectorAll('.perso-card');
     cards.forEach((card, index) => {
@@ -98,7 +98,6 @@ function renderizar(lista) {
         }, index * 35);
     });
 }
-
 
 function atualizarContador(quantidade) {
     const contador = document.getElementById("contador-resultados");

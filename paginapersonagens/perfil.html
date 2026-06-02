@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MH Collectors - Perfil do Personagem</title>
+    <link rel="stylesheet" href="../index.css">
+    <link rel="stylesheet" href="perfil.css">
+</head>
+<body class="perfil-personagem">
+
+   <header>
+        <nav>
+            <div class="nav-brand">
+                <a href="../index.html">
+                    <img src="../imagens/MH.svg" class="Logo" id="mh" alt="Ícone MH">
+                </a>
+                <a href="../index.html">
+                    <img src="../imagens/logo.svg" alt="MH Collector Logo" class="logo"/>
+                </a>
+            </div>
+
+            <button class="btn-menu-unico">
+                <div class="traco"></div>
+                <div class="traco"></div>
+                <div class="traco"></div>
+            </button>
+
+            <ul class="nav-menu">
+                <li class="textoheader">
+                    <img src="../imagens/pessoas.svg" alt="Personagens" />
+                    <a href="../personagens/personagens.html">Personagens</a>
+                </li>
+                <li class="textoheader">
+                    <img src="../imagens/diamante.svg" alt="Bonecas" />
+                    <a href="../bonecas/bonecas.html">Bonecas</a>
+                </li>
+                <li class="textoheader">
+                    <img src="../imagens/check.svg" alt="Checklist" />
+                    <a href="../checklist/checklist.html">Checklist</a>
+                </li>
+                <li class="textoheader">
+                    <img src="../imagens/comunidade.svg" alt="Comunidade" />
+                    <a href="../comunidade/comunidade.html">Comunidade</a>
+                </li>
+            </ul>
+
+            <div class="nav-actions">
+                <a href="../conta.html" class="conta">
+                    <img class="logoconta" src="../imagens/conta.svg" alt="Conta"/>
+                </a>
+                <button class="btn-engrenagem">
+                    <img src="../imagens/engrenagem.svg" class="engrenagem" alt="Configurações"/>
+                </button>
+            </div>
+        </nav>
+    </header>
+
+    <!-- CONTAINER PRINCIPAL DA PÁGINA -->
+    <main class="container-perfil">
+        
+
+        <!-- Seta de Voltar (Fica isolada no topo esquerdo) -->
+        <a href="../personagens/personagens.html" class="botao-voltar">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        </a>
+
+        <!-- Bloco de Conteúdo Superior (Foto + Informações) -->
+        <div class="conteudo-superior">
+            
+            <!-- COLUNA DA ESQUERDA: Card de Destaque da Personagem -->
+            <section class="bloco-foto-destaque">
+                <!-- O JS vai mudar as cores do gradiente de listras aqui de acordo com o monstrinho -->
+                <div id="card-foto-personagem" class="moldura-neon-foto">
+                    <img id="foto-personagem" src="" alt="Foto Principal da Personagem">
+                </div>
+            </section>
+
+            <!-- COLUNA DA DIREITA: Informações e Biografia -->
+            <section class="bloco-informacoes">
+                
+                <!-- Identificação Principal -->
+                <div class="cabecalho-perfil">
+                    <span id="tag-especie" class="tag-especie">---</span>
+                    <h1 id="nome-personagem">Carregando...</h1>
+                    <p class="rotulo-resumo">RESUMO</p>
+                </div>
+
+                <!-- Grid de Três Colunas (Aniversário, Nacionalidade, Idade) -->
+                <div id="grid-dados-rapidos" class="grid-tres-colunas">
+                    <!-- JS injeta: Card Aniversário, Card Nacionalidade, Card Idade -->
+                </div>
+
+               <div class="colunas-detalhes-layout">
+    
+    <div id="coluna-detalhes-esquerda" class="coluna-cards-fluxo">
+        </div>
+
+    <div class="coluna-cards-direita-fluxo">
+    
+    <div class="card-informacao-item">
+        <div class="titulo-info-card">Melhores Amigas</div>
+        <div id="grid-melhores-amigas" class="grid-amigas-fotos">
+        </div>
+    </div>
+
+    <div id="coluna-detalhes-direita-inferior" class="coluna-cards-fluxo">
+    </div>
+
+</div>
+
+    </div>
+</div>
+                        <!-- Cards que ficam abaixo das Amigas -->
+                        <div id="coluna-detalhes-direita-inferior" class="coluna-cards-fluxo">
+                            <!-- JS injeta: O que mais te irrita?, Atividade Favorita, Dito monstro, Matéria menos favorita -->
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+ 
+ <section class="secao-bonecas-rodape">
+    <h2 class="titulo-secao-bonecas">COLEÇÃO DE BONECAS</h2>
+    <!-- Alterado para grid-bonecas -->
+    <div id="grid-bonecas" class="sua-classe-de-grid"></div>
+</section>
+    </main>
+  <footer></footer>
+
+   <script src="js/componente.js"></script>
+    <script src="js/dados.js"></script>
+</body>
+</html>

@@ -495,10 +495,6 @@ const bonecas = [
     { nome: "Spectra Vondergeist", imagem: "../imagens/imagens bonecas/SpectraGetaway.jpg", genero: "Feminino", colecao: "Ghouls Getaway" },
     { nome: "Elissabat", imagem: "../imagens/imagens bonecas/ElissabatGetaway.jpg", genero: "Feminino", colecao: "Ghouls Getaway" },
 
-    // --- COLECÃO: BEACH BEASTIES ---
-    { nome: "Draculaura", imagem: "../imagens/imagens bonecas/DraculauraBeach.jpg", genero: "Feminino", colecao: "Beach Beasties" },
-    { nome: "Lagoona Blue", imagem: "../imagens/imagens bonecas/LagoonaBeach.jpg", genero: "Feminino", colecao: "Beach Beasties" },
-    { nome: "Venus McFlytrap", imagem: "../imagens/imagens bonecas/VenusBeach.jpg", genero: "Feminino", colecao: "Beach Beasties" },
 
     // --- COLECÃO: FIERCE ROCKERS ---
     { nome: "Catty Noir", imagem: "../imagens/imagens bonecas/CattyireRockers.jpg", genero: "Feminino", colecao: "Fierce Rockers" },
@@ -615,7 +611,7 @@ const bonecas = [
     { nome: "Clawdeen Wolf - Howliday Winter (2023)", imagem: "../imagens/imagens bonecas/ClawdeenHowliday.jpg", genero: "Feminino", colecao: "Howliday" },
     { nome: "Skelita Calaveras - Howliday Dia de Muertos (2023)", imagem: "../imagens/imagens bonecas/SkelitaHowliday.jpg", genero: "Feminino", colecao: "Howliday" },
     { nome: "Clawd Wolf - Howliday Love (2024)", imagem: "../imagens/imagens bonecas/ClawdHowliday.jpg", genero: "Masculino", colecao: "Howliday" },
-    { nome: "Draculaura - Howliday Love (2024)", imagem: "../imagens/imagens bonecas/DraculauraHowliday.jpg", genero: "Feminino", colecao: "Howliday" },
+    { nome: "Draculaura - Howliday Love (2024)", imagem: "../imagens/imagens bonecas/DraculauraHowliday2.jpg", genero: "Feminino", colecao: "Howliday" },
     { nome: "Skelita Calaveras - Howliday Dia de Muertos (2024)", imagem: "../imagens/imagens bonecas/SkelitaHowliday2.jpg", genero: "Feminino", colecao: "Howliday" },
     { nome: "Cleo de Nile - Howliday Gala (2024)", imagem: "../imagens/imagens bonecas/CleoHowliday2.jpg", genero: "Feminino", colecao: "Howliday" },
     
@@ -711,17 +707,31 @@ const busca = document.getElementById('campo-busca');
 const selectCategoria = document.getElementById('filtro-categoria');
 const selectNomes = document.getElementById('filtro-nomes');
 const selectColecoes = document.getElementById('filtro-colecoes');
+const selectStatus = document.getElementById('filtro-status'); // Seleciona o novo filtro do HTML
 
+document.addEventListener("DOMContentLoaded", () => {
+    // 1. Pega o termo de busca enviado pela URL (Ex: ?busca=DRACULAURA)
+    const parametros = new URLSearchParams(window.location.search);
+    const termoEnviado = parametros.get('busca');
+
+    // 2. Se veio um termo e o seu input 'busca' existe na página
+    if (termoEnviado && busca) {
+        // Injeta o nome da monstrinha direto no seu campo-busca
+        busca.value = termoEnviado.trim();
+        
+        // Executa a sua função para filtrar o grid na hora!
+        aplicarFiltrosCombinados();
+    }
+});
 
 function renderizar(lista) {
     if (!container) return;
     
     const htmlCards = lista.map(b => {
-        
         const bonecaId = b.id || `${b.nome}-${b.colecao}`.replace(/\s+/g, '-').toLowerCase();
 
         return `
-        <div class="perso-card" data-id="${bonecaId}">
+        <div class="perso-card" data-id="${bonecaId}" data-foto="${b.imagem}">
             <div class="perso-img-container">
                 <img src="${b.imagem}" alt="${b.nome} ${b.colecao}" loading="lazy">
             </div>
@@ -742,14 +752,11 @@ function renderizar(lista) {
         </div>
         `;
     }).join('');
-
     container.innerHTML = htmlCards; 
-    
     
     atualizarEstadoVisualBotoes();
     observarCards();
 }
-
 
 function observarCards() {
     const cards = document.querySelectorAll('.perso-card');
@@ -780,12 +787,14 @@ function atualizarContador(quantidade) {
 
 function aplicarFiltrosCombinados() {
     const categoria = selectCategoria ? selectCategoria.value : 'todos';
+    const statusSelecionado = selectStatus ? selectStatus.value : 'todos'; // Captura Checklist ou Wishlist
     const nomeSelecionado = selectNomes ? selectNomes.value : 'todos';
     const colecaoSelecionada = selectColecoes ? selectColecoes.value : 'todos';
     const termoBusca = busca ? busca.value.trim().toLowerCase() : '';
 
     let filtrados = [...bonecas];
 
+    // 1. Filtro por caixa de Texto (Busca)
     if (termoBusca) {
         filtrados = filtrados.filter(b => 
             b.nome.toLowerCase().includes(termoBusca) || 
@@ -793,20 +802,39 @@ function aplicarFiltrosCombinados() {
         );
     }
 
+    // 2. Filtro por Nome da Personagem
     if (nomeSelecionado !== "todos") {
         filtrados = filtrados.filter(b => b.nome.trim().split(" ")[0] === nomeSelecionado);
     }
 
+    // 3. Filtro por Nome da Coleção
     if (colecaoSelecionada !== "todos") {
         filtrados = filtrados.filter(b => b.colecao === colecaoSelecionada);
     }
 
+    // 4. Filtro por Gênero (Feminino / Masculino)
     if (categoria === "femininos") {
         filtrados = filtrados.filter(b => b.genero === "Feminino"); 
     } else if (categoria === "masculinos") {
         filtrados = filtrados.filter(b => b.genero === "Masculino");
     }
 
+    // 5. NOVO: Filtro Independente de Status (Checklist / Wishlist) baseado na foto
+    if (statusSelecionado === "checklist") {
+        const obtidas = JSON.parse(localStorage.getItem('mh-obtidas')) || [];
+        filtrados = filtrados.filter(b => {
+            const nomeArquivo = b.imagem.split('/').pop();
+            return obtidas.includes(nomeArquivo);
+        });
+    } else if (statusSelecionado === "wishlist") {
+        const favoritos = JSON.parse(localStorage.getItem('mh-favoritos')) || [];
+        filtrados = filtrados.filter(b => {
+            const nomeArquivo = b.imagem.split('/').pop();
+            return favoritos.includes(nomeArquivo);
+        });
+    }
+
+    // 6. Filtros de Ordenação Alfabética
     if (categoria === "a-z") {
         filtrados.sort((a, b) => a.nome.localeCompare(b.nome));
     } else if (categoria === "z-a") {
@@ -817,11 +845,9 @@ function aplicarFiltrosCombinados() {
     atualizarContador(filtrados.length);
 }
 
-
 function filtrarPorCategoria(valor) { aplicarFiltrosCombinados(); }
 function filtrarPorColecao(valor) { aplicarFiltrosCombinados(); }
 function filtrarPorNome(valor) { aplicarFiltrosCombinados(); }
-
 
 function gerarFiltrosDeColecoes() {
     if (!selectColecoes) return;
@@ -843,9 +869,13 @@ function gerarFiltrosDeNomes() {
     });
 }
 
-
 if (busca) {
     busca.addEventListener('input', aplicarFiltrosCombinados);
+}
+
+// Escuta as mudanças no novo select de status
+if (selectStatus) {
+    selectStatus.addEventListener('change', aplicarFiltrosCombinados);
 }
 
 const btnAbrir = document.querySelector('.btn-menu-unico');
@@ -866,8 +896,6 @@ if (btnAbrir && btnFechar && overlay) {
 
 if (container) {
     container.addEventListener('click', (e) => {
-        
-        
         if (e.target.classList.contains('link-filtro-nome')) {
             const primeiroNome = e.target.getAttribute('data-nome');
             if (selectNomes) {
@@ -878,7 +906,6 @@ if (container) {
             return;
         }
         
-       
         if (e.target.classList.contains('link-filtro-colecao')) {
             const colecaoClicada = e.target.getAttribute('data-colecao');
             if (selectColecoes) {
@@ -889,37 +916,48 @@ if (container) {
             return;
         }
 
-       
         const btn = e.target.closest('.btn-acao');
         if (!btn) return;
 
         e.preventDefault();
         const card = btn.closest('.perso-card');
-        const bonecaId = card.getAttribute('data-id');
-
+        
+        // Pega o caminho da foto e isola apenas o nome do arquivo final (ex: MissArgentinaeHorrorMovie.jpg)
+        const caminhoImagem = card.getAttribute('data-foto') || '';
+        const nomeArquivo = caminhoImagem.split('/').pop();
 
         if (btn.classList.contains('btn-check')) {
             let obtidas = JSON.parse(localStorage.getItem('mh-obtidas')) || [];
-            if (obtidas.includes(bonecaId)) {
-                obtidas = obtidas.filter(id => id !== bonecaId);
+            if (obtidas.includes(nomeArquivo)) {
+                obtidas = obtidas.filter(id => id !== nomeArquivo);
                 btn.classList.remove('ativo');
             } else {
-                obtidas.push(bonecaId);
+                obtidas.push(nomeArquivo);
                 btn.classList.add('ativo');
             }
             localStorage.setItem('mh-obtidas', JSON.stringify(obtidas));
+            
+            // Se estiver filtrando pelo checklist, atualiza a tela na hora pro card sumir
+            if (selectStatus && selectStatus.value === "checklist") {
+                aplicarFiltrosCombinados();
+            }
         }
 
         if (btn.classList.contains('btn-favorito')) {
             let favoritos = JSON.parse(localStorage.getItem('mh-favoritos')) || [];
-            if (favoritos.includes(bonecaId)) {
-                favoritos = favoritos.filter(id => id !== bonecaId);
+            if (favoritos.includes(nomeArquivo)) {
+                favoritos = favoritos.filter(id => id !== nomeArquivo);
                 btn.classList.remove('ativo');
             } else {
-                favoritos.push(bonecaId);
+                favoritos.push(nomeArquivo);
                 btn.classList.add('ativo');
             }
             localStorage.setItem('mh-favoritos', JSON.stringify(favoritos));
+            
+            // Se estiver filtrando pela wishlist, atualiza a tela na hora pro card sumir
+            if (selectStatus && selectStatus.value === "wishlist") {
+                aplicarFiltrosCombinados();
+            }
         }
     });
 }
@@ -929,20 +967,29 @@ function atualizarEstadoVisualBotoes() {
     const favoritos = JSON.parse(localStorage.getItem('mh-favoritos')) || [];
 
     document.querySelectorAll('.perso-card').forEach(card => {
-        const bonecaId = card.getAttribute('data-id');
+        const caminhoImagem = card.getAttribute('data-foto') || '';
+        const nomeArquivo = caminhoImagem.split('/').pop();
         
         const btnCheck = card.querySelector('.btn-check');
         const btnFav = card.querySelector('.btn-favorito');
 
-        if (btnCheck && obtidas.includes(bonecaId)) {
-            btnCheck.classList.add('ativo');
+        if (btnCheck) {
+            if (obtidas.includes(nomeArquivo)) {
+                btnCheck.classList.add('ativo');
+            } else {
+                btnCheck.classList.remove('ativo');
+            }
         }
-        if (btnFav && favoritos.includes(bonecaId)) {
-            btnFav.classList.add('ativo');
+        
+        if (btnFav) {
+            if (favoritos.includes(nomeArquivo)) {
+                btnFav.classList.add('ativo');
+            } else {
+                btnFav.classList.remove('ativo');
+            }
         }
     });
 }
-
 
 gerarFiltrosDeNomes();
 gerarFiltrosDeColecoes(); 

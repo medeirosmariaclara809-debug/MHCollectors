@@ -86,6 +86,12 @@
              <select class="categoria" id="filtro-nomes" onchange="filtrarPorNome(this.value)">
                 <option value="todos">Personagens</option>
             </select>
+
+            <select class="categoria" id="filtro-status" onchange="filtrarPorStatus(this.value)">
+           <option value="todos">Todos (Status)</option>
+           <option value="checklist">Minha Coleção (Checklist)</option>
+          <option value="wishlist">Lista de Desejos (Wishlist)</option>
+         </select>
             <span id="contador-resultados" class="contador-busca"></span>
         </div>
 
