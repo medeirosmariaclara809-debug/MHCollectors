@@ -1423,7 +1423,7 @@
 "holt-hyde": {
     "nome": "Holt Hyde",
     "especie": "Elementar de Fogo",
-    "fotoPrincipal": "imagens/imagens personagens/Holt_basic.webp",
+    "fotoPrincipal": "imagens/imagens personagens/Holt_Basic.webp",
     "corTema": "#ff6a00",
     "corFundoListras": [
       "#ff6a00",
@@ -1711,7 +1711,7 @@
   "abbey-bominable": {
     "nome": "Abbey Bominable",
     "especie": "Filha do Ieti",
-    "fotoPrincipal": "imagens/imagens personagens/Abbey.png",
+    "fotoPrincipal": "imagens/imagens personagens/abbey.png",
     "corTema": "#a3e5ff",
     "corFundoListras": [
       "#a3e5ff",
