@@ -1,0 +1,1666 @@
+{
+  "Draculaura": [
+    {
+      "nome": "Básicas",
+      "foto": "../imagens/imagens bonecas/DraculauraBasic.jpg"
+    },
+    {
+      "nome": "Dawn of the Dance",
+      "foto": "../imagens/imagens bonecas/DraculauraDotd.jpg"
+    },
+    {
+      "nome": "Gloom Beach",
+      "foto": "../imagens/imagens bonecas/DraculauraGB.jpg"
+    },
+    {
+      "nome": "School's Out",
+      "foto": "../imagens/imagens bonecas/DraculauraSO.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/Draculaura DT.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/DraculauraDT2.jpg"
+    },
+    {
+      "nome": "Killer Style",
+      "foto": "../imagens/imagens bonecas/DraculauraKS.jpg"
+    },
+    {
+      "nome": "Go Monster High Team!!!",
+      "foto": "../imagens/imagens bonecas/DraculauraGo Monster High Team!!!.jpg"
+    },
+    {
+      "nome": "Skull Shores",
+      "foto": "../imagens/imagens bonecas/DraculauraSkull.jpg"
+    },
+    {
+      "nome": "Sweet 1600",
+      "foto": "../imagens/imagens bonecas/DraculauraSweet.jpg"
+    },
+    {
+      "nome": "Dot Dead Gorgeous",
+      "foto": "../imagens/imagens bonecas/DraculauraDDG.jpg"
+    },
+    {
+      "nome": "Ghouls Rule",
+      "foto": "../imagens/imagens bonecas/DraculauraGhouls.jpg"
+    },
+    {
+      "nome": "Scarily Ever After",
+      "foto": "../imagens/imagens bonecas/DraculauraFairytale.jpg"
+    },
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/DraculauraScaris.jpg"
+    },
+    {
+      "nome": "Picture Day",
+      "foto": "../imagens/imagens bonecas/DraculauraPicture.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/DraculauraSplash.jpg"
+    },
+    {
+      "nome": "Music Festival",
+      "foto": "../imagens/imagens bonecas/DraculauraMusic.jpg"
+    },
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/DraculauraWishes.jpg"
+    },
+    {
+      "nome": "I Heart Shoes",
+      "foto": "../imagens/imagens bonecas/DraculauraShoes.jpg"
+    },
+    {
+      "nome": "Art Class",
+      "foto": "../imagens/imagens bonecas/DraculauraArt.jpg"
+    },
+    {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/DraculauraFCA.jpg"
+    },
+    {
+      "nome": "Sweet Screams",
+      "foto": "../imagens/imagens bonecas/DraculauraSScreams.jpg"
+    },
+    {
+      "nome": "Creepateria",
+      "foto": "../imagens/imagens bonecas/DraculauraCreepateria.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/DraculauraFusion.jpg"
+    },
+    {
+      "nome": "Monster Exchange Program",
+      "foto": "../imagens/imagens bonecas/DraculauraExchange.jpg"
+    },
+    {
+      "nome": "Haunted",
+      "foto": "../imagens/imagens bonecas/DraculauraHaunted.jpg"
+    },
+    {
+      "nome": "Original Ghouls Collection",
+      "foto": "../imagens/imagens bonecas/DraculauraOriginalGhouls.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/DraculauraBooYork.jpg"
+    },
+    {
+      "nome": "Scarnival",
+      "foto": "../imagens/imagens bonecas/DraculauraScarnival.jpg"
+    },
+    {
+      "nome": "Frightfully Tall",
+      "foto": "../imagens/imagens bonecas/DraculauraTall.jpg"
+    },
+    {
+      "nome": "Maul Monsteristas",
+      "foto": "../imagens/imagens bonecas/DraculauraMonsteristas.jpg"
+    },
+    {
+      "nome": "Great Scarrier Reef",
+      "foto": "../imagens/imagens bonecas/DraculauraScarrier.jpg"
+    },
+    {
+      "nome": "Budget Basic",
+      "foto": "../imagens/imagens bonecas/DraculauraBudgetBasic.jpg"
+    },
+    {
+      "nome": "Budget Sleepover",
+      "foto": "../imagens/imagens bonecas/DraculauraBudgetSleep.jpg"
+    },
+    {
+      "nome": "Beast Bites Café",
+      "foto": "../imagens/imagens bonecas/DraculauraCafe.jpg"
+    },
+    {
+      "nome": "Die-Ner",
+      "foto": "../imagens/imagens bonecas/DraculauraDieNer.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/DraculauraCreeproduction.jpg"
+    },
+    {
+      "nome": "Reel Drama",
+      "foto": "../imagens/imagens bonecas/DraculauraReelDrama.jpg"
+    }
+  ],
+  "Clawdeen Wolf": [
+    {
+      "nome": "Básicas",
+      "foto": "../imagens/imagens bonecas/ClawdeenBasic.jpg"
+    },
+    {
+      "nome": "Dawn of the Dance",
+      "foto": "../imagens/imagens bonecas/Clawdeendotd.jpg"
+    },
+    {
+      "nome": "Gloom Beach",
+      "foto": "../imagens/imagens bonecas/ClawdeenGB.jpg"
+    },
+    {
+      "nome": "School's Out",
+      "foto": "../imagens/imagens bonecas/ClawdeenSO.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/ClawdeenDT.jpg"
+    },
+    {
+      "nome": "Killer Style",
+      "foto": "../imagens/imagens bonecas/ClawdeenKS.jpg"
+    },
+    {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/ClawdeenCampus.jpg"
+    },
+    {
+      "nome": "Skull Shores",
+      "foto": "../imagens/imagens bonecas/ClawdeenSkull.jpg"
+    },
+    {
+      "nome": "Sweet 1600",
+      "foto": "../imagens/imagens bonecas/ClawdeenSweet.jpg"
+    },
+    {
+      "nome": "Ghouls Rule",
+      "foto": "../imagens/imagens bonecas/ClawdeenGhouls.jpg"
+    },
+    {
+      "nome": "Skultimate Roller Maze",
+      "foto": "../imagens/imagens bonecas/ClawdeenRoller.jpg"
+    },
+    {
+      "nome": "Scarily Ever After",
+      "foto": "../imagens/imagens bonecas/ClawdeenFairytale.jpg"
+    },
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/ClawdeenScaris.jpg"
+    },
+    {
+      "nome": "Ghouls Alive!",
+      "foto": "../imagens/imagens bonecas/ClawdeenAlive.jpg"
+    },
+    {
+      "nome": "Power Ghouls",
+      "foto": "../imagens/imagens bonecas/ClawdeenPower.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/ClawdeenSplash.jpg"
+    },
+    {
+      "nome": "Ghouls' Night Out",
+      "foto": "../imagens/imagens bonecas/ClawdeenNight.jpg"
+    },
+    {
+      "nome": "Music Festival",
+      "foto": "../imagens/imagens bonecas/ClawdeenMusic.jpg"
+    },
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/ClawdeenWishes.jpg"
+    },
+    {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/ClawdeenFCA.jpg"
+    },
+    {
+      "nome": "New Scaremester",
+      "foto": "../imagens/imagens bonecas/ClawdeenScaremester.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/ClawdeenFusion.jpg"
+    },
+    {
+      "nome": "A Pack of Trouble",
+      "foto": "../imagens/imagens bonecas/Clawdeentrouble.jpg"
+    },
+    {
+      "nome": "Freaky Field Trip",
+      "foto": "../imagens/imagens bonecas/ClawdeenTrip.jpg"
+    },
+    {
+      "nome": "Haunted",
+      "foto": "../imagens/imagens bonecas/ClawdeenHaunted.jpg"
+    },
+    {
+      "nome": "Original Ghouls Collection",
+      "foto": "../imagens/imagens bonecas/ClawdeenOriginalGhouls.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/ClawdeenBooYork.jpg"
+    },
+    {
+      "nome": "Freak Du Chic",
+      "foto": "../imagens/imagens bonecas/ClawdeenChic.jpg"
+    },
+    {
+      "nome": "Frightfully Tall",
+      "foto": "../imagens/imagens bonecas/ClawdeenTall.jpg"
+    },
+    {
+      "nome": "Maul Monsteristas",
+      "foto": "../imagens/imagens bonecas/ClawdeenMonsteristas.jpg"
+    },
+    {
+      "nome": "Scare & Makeup",
+      "foto": "../imagens/imagens bonecas/ClawdeencareMakeup.jpg"
+    },
+    {
+      "nome": "Great Scarrier Reef",
+      "foto": "../imagens/imagens bonecas/ClawdeenScarrier.jpg"
+    },
+    {
+      "nome": "Fierce Rockers",
+      "foto": "../imagens/imagens bonecas/ClawdeenireRockers.jpg"
+    },
+    {
+      "nome": "Budget Basic",
+      "foto": "../imagens/imagens bonecas/ClawdeenBudgetBasic.jpg"
+    },
+    {
+      "nome": "Budget Sleepover",
+      "foto": "../imagens/imagens bonecas/ClawdeenBudgetSleep.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/ClawdeenCreeproduction.jpg"
+    }
+  ],
+  "Frankie Stein": [
+    {
+      "nome": "Básicas",
+      "foto": "../imagens/imagens bonecas/FrankieBasic.jpg"
+    },
+    {
+      "nome": "Dawn of the Dance",
+      "foto": "../imagens/imagens bonecas/FrankieDotd.jpg"
+    },
+    {
+      "nome": "Gloom Beach",
+      "foto": "../imagens/imagens bonecas/FrankieGB.jpg"
+    },
+    {
+      "nome": "School's Out",
+      "foto": "../imagens/imagens bonecas/FrankieSO.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/FrankieDT.jpg"
+    },
+    {
+      "nome": "Killer Style",
+      "foto": "../imagens/imagens bonecas/FrankieKS.jpg"
+    },
+    {
+      "nome": "Classroom",
+      "foto": "../imagens/imagens bonecas/FrankieClassroom.jpg"
+    },
+    {
+      "nome": "Skull Shores",
+      "foto": "../imagens/imagens bonecas/FrankieSkull.jpg"
+    },
+    {
+      "nome": "Skull Shores",
+      "foto": "../imagens/imagens bonecas/FrankieSkull2.jpg"
+    },
+    {
+      "nome": "Sweet 1600",
+      "foto": "../imagens/imagens bonecas/FrankieSweet.jpg"
+    },
+    {
+      "nome": "Ghouls Rule",
+      "foto": "../imagens/imagens bonecas/FrankieGhouls.jpg"
+    },
+    {
+      "nome": "I Heart Fashion",
+      "foto": "../imagens/imagens bonecas/FrankieFashion.jpg"
+    },
+    {
+      "nome": "Skultimate Roller Maze",
+      "foto": "../imagens/imagens bonecas/FrankieRoller.jpg"
+    },
+    {
+      "nome": "Scarily Ever After",
+      "foto": "../imagens/imagens bonecas/FrankieFairytale.jpg"
+    },
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/FrankieScaris.jpg"
+    },
+    {
+      "nome": "Picture Day",
+      "foto": "../imagens/imagens bonecas/FrankiePicture.jpg"
+    },
+    {
+      "nome": "Ghouls Alive!",
+      "foto": "../imagens/imagens bonecas/FrankieAlive.jpg"
+    },
+    {
+      "nome": "Power Ghouls",
+      "foto": "../imagens/imagens bonecas/FrankiePower.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/FrankieSplash.jpg"
+    },
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/FrankieWishes.jpg"
+    },
+    {
+      "nome": "Ghoul Spirit",
+      "foto": "../imagens/imagens bonecas/FrankieSpirit.jpg"
+    },
+    {
+      "nome": "Sweet Screams",
+      "foto": "../imagens/imagens bonecas/FrankieSScreams.jpg"
+    },
+    {
+      "nome": "Coffin Bean",
+      "foto": "../imagens/imagens bonecas/FrankieCoffin.jpg"
+    },
+    {
+      "nome": "Picnic Casket for 2",
+      "foto": "../imagens/imagens bonecas/FrankiePicnic.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/FrankieFusion.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/FrankieFusion2.jpg"
+    },
+    {
+      "nome": "Geek Shriek",
+      "foto": "../imagens/imagens bonecas/FrankieGeek.jpg"
+    },
+    {
+      "nome": "Original Ghouls Collection",
+      "foto": "../imagens/imagens bonecas/FrankieOriginalGhouls.jpg"
+    },
+    {
+      "nome": "Freak Du Chic",
+      "foto": "../imagens/imagens bonecas/FrankieChic.jpg"
+    },
+    {
+      "nome": "Frightfully Tall",
+      "foto": "../imagens/imagens bonecas/FrankieTall.jpg"
+    },
+    {
+      "nome": "Great Scarrier Reef",
+      "foto": "../imagens/imagens bonecas/FrankieScarrier.jpg"
+    },
+    {
+      "nome": "Budget Basic",
+      "foto": "../imagens/imagens bonecas/FrankieBudgetBasic.jpg"
+    },
+    {
+      "nome": "Budget Sleepover",
+      "foto": "../imagens/imagens bonecas/FrankieBudgetSleep.jpg"
+    },
+    {
+      "nome": "Designer Booo-Tique",
+      "foto": "../imagens/imagens bonecas/FrankieBoooTique.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/FrankieCreeproduction.jpg"
+    },
+    {
+      "nome": "Reel Drama",
+      "foto": "../imagens/imagens bonecas/FrankieReelDrama.jpg"
+    }
+  ],
+  "Lagoona Blue": [
+    {
+      "nome": "Básicas",
+      "foto": "../imagens/imagens bonecas/LagoonaBasic.jpg"
+    },
+    {
+      "nome": "Dawn of the Dance",
+      "foto": "../imagens/imagens bonecas/LagoonaDotd.jpg"
+    },
+    {
+      "nome": "School's Out",
+      "foto": "../imagens/imagens bonecas/LagoonaSO.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/LagoonaDT.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/LagoonaDT2.jpg"
+    },
+    {
+      "nome": "Classroom",
+      "foto": "../imagens/imagens bonecas/LagoonaClassroom.jpg"
+    },
+    {
+      "nome": "Skull Shores",
+      "foto": "../imagens/imagens bonecas/LagoonaSkull.jpg"
+    },
+    {
+      "nome": "Dot Dead Gorgeous",
+      "foto": "../imagens/imagens bonecas/LagoonaDDG.jpg"
+    },
+    {
+      "nome": "Skultimate Roller Maze",
+      "foto": "../imagens/imagens bonecas/LagoonaRoller.jpg"
+    },
+    {
+      "nome": "Dance Class",
+      "foto": "../imagens/imagens bonecas/LagoonaDance.jpg"
+    },
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/LagoonaScaris.jpg"
+    },
+    {
+      "nome": "Picture Day",
+      "foto": "../imagens/imagens bonecas/LagoonaPicture.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/LagoonaSplash.jpg"
+    },
+    {
+      "nome": "Ghouls' Night Out",
+      "foto": "../imagens/imagens bonecas/LagoonaNight.jpg"
+    },
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/LagoonaWishes.jpg"
+    },
+    {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/LagoonaFCA.jpg"
+    },
+    {
+      "nome": "We Are Monster High",
+      "foto": "../imagens/imagens bonecas/LagoonaWeAreMH.jpg"
+    },
+    {
+      "nome": "Monster Exchange Program",
+      "foto": "../imagens/imagens bonecas/LagoonaExchange.jpg"
+    },
+    {
+      "nome": "Original Ghouls Collection",
+      "foto": "../imagens/imagens bonecas/LagoonaOriginalGhouls.jpg"
+    },
+    {
+      "nome": "Wheel Love",
+      "foto": "../imagens/imagens bonecas/lagoonaWheel.jpg"
+    },
+    {
+      "nome": "Fangtastic Fitness",
+      "foto": "../imagens/imagens bonecas/LagoonaFitness.jpg"
+    },
+    {
+      "nome": "Great Scarrier Reef",
+      "foto": "../imagens/imagens bonecas/LagoonaScarrier.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/LagoonaCreeproduction.jpg"
+    },
+    {
+      "nome": "Reel Drama",
+      "foto": "../imagens/imagens bonecas/LagoonaReelDrama.jpg"
+    }
+  ],
+  "Cleo de Nile": [
+    {
+      "nome": "Básicas",
+      "foto": "../imagens/imagens bonecas/CleoBasic.jpg"
+    },
+    {
+      "nome": "Dawn of the Dance",
+      "foto": "../imagens/imagens bonecas/CleoDotd.jpg"
+    },
+    {
+      "nome": "Gloom Beach",
+      "foto": "../imagens/imagens bonecas/CleoGb.jpg"
+    },
+    {
+      "nome": "School's Out",
+      "foto": "../imagens/imagens bonecas/CleoSO.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/CleoDT.jpg"
+    },
+    {
+      "nome": "Classroom",
+      "foto": "../imagens/imagens bonecas/CleoClassroom.jpg"
+    },
+    {
+      "nome": "Go Monster High Team!!!",
+      "foto": "../imagens/imagens bonecas/CleoGo Monster High Team!!!.jpg"
+    },
+    {
+      "nome": "Skull Shores",
+      "foto": "../imagens/imagens bonecas/CleoSkull.jpg"
+    },
+    {
+      "nome": "Ghouls Rule",
+      "foto": "../imagens/imagens bonecas/CleoGhouls.jpg"
+    },
+    {
+      "nome": "I Heart Fashion",
+      "foto": "../imagens/imagens bonecas/CleoFashion.jpg"
+    },
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/CleoScaris.jpg"
+    },
+    {
+      "nome": "Picture Day",
+      "foto": "../imagens/imagens bonecas/CleoPicture.jpg"
+    },
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/CleoWishes.jpg"
+    },
+    {
+      "nome": "I Heart Shoes",
+      "foto": "../imagens/imagens bonecas/CleoShoes.jpg"
+    },
+    {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/CleoFCA.jpg"
+    },
+    {
+      "nome": "Creepateria",
+      "foto": "../imagens/imagens bonecas/CleoCreepateria.jpg"
+    },
+    {
+      "nome": "We Are Monster High",
+      "foto": "../imagens/imagens bonecas/CleoWeAreMH.jpg"
+    },
+    {
+      "nome": "Gloom and Bloom",
+      "foto": "../imagens/imagens bonecas/CleoBloom.jpg"
+    },
+    {
+      "nome": "Original Ghouls Collection",
+      "foto": "../imagens/imagens bonecas/CleoOriginalGhouls.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/CleoBooYork.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/CleoCreeproduction.jpg"
+    },
+    {
+      "nome": "Reel Drama",
+      "foto": "../imagens/imagens bonecas/CleoReelDrama.jpg"
+    }
+  ],
+  "Deuce Gorgon": [
+    {
+      "nome": "Básicas",
+      "foto": "../imagens/imagens bonecas/DeuceBasic.jpg"
+    },
+    {
+      "nome": "Dawn of the Dance",
+      "foto": "../imagens/imagens bonecas/DeuceDotd.jpg"
+    },
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/DeuceScaris.jpg"
+    },
+    {
+      "nome": "Ghouls Alive!",
+      "foto": "../imagens/imagens bonecas/DeuceAlive.JPG"
+    },
+    {
+      "nome": "Mansters",
+      "foto": "../imagens/imagens bonecas/DeuceMansters.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/DeuceBooYork.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/DeuceCreeproduction.jpg"
+    }
+  ],
+  "Ghoulia Yelps": [
+    {
+      "nome": "Básicas",
+      "foto": "../imagens/imagens bonecas/GhouliaBasic.jpg"
+    },
+    {
+      "nome": "Dawn of the Dance",
+      "foto": "../imagens/imagens bonecas/GhouliaDotd.jpg"
+    },
+    {
+      "nome": "Gloom Beach",
+      "foto": "../imagens/imagens bonecas/GhouliaGb.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/GhouliaDT.jpg"
+    },
+    {
+      "nome": "Classroom",
+      "foto": "../imagens/imagens bonecas/GhouliaClassroom.jpg"
+    },
+    {
+      "nome": "Classroom",
+      "foto": "../imagens/imagens bonecas/GhouliaClassroom2.jpg"
+    },
+    {
+      "nome": "Go Monster High Team!!!",
+      "foto": "../imagens/imagens bonecas/GhouliaGo Monster High Team!!!.jpg"
+    },
+    {
+      "nome": "Skull Shores",
+      "foto": "../imagens/imagens bonecas/GhouliaSkull.jpg"
+    },
+    {
+      "nome": "Dot Dead Gorgeous",
+      "foto": "../imagens/imagens bonecas/GhouliaDDG.jpg"
+    },
+    {
+      "nome": "Skultimate Roller Maze",
+      "foto": "../imagens/imagens bonecas/GhouliaRoller.jpg"
+    },
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/GhouliaScaris.jpg"
+    },
+    {
+      "nome": "Ghouls' Night Out",
+      "foto": "../imagens/imagens bonecas/GhouliaNight.jpg"
+    },
+    {
+      "nome": "Sweet Screams",
+      "foto": "../imagens/imagens bonecas/GhouliaSScreams.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/GhouliaFusion.jpg"
+    },
+    {
+      "nome": "Geek Shriek",
+      "foto": "../imagens/imagens bonecas/GhouliaGeek.jpg"
+    },
+    {
+      "nome": "Original Ghouls Collection",
+      "foto": "../imagens/imagens bonecas/GhouliaOriginalGhouls.jpg"
+    },
+    {
+      "nome": "Love's Not Dead",
+      "foto": "../imagens/imagens bonecas/GhouliaLovesNotDead.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/GhouliaCreeproduction.jpg"
+    },
+    {
+      "nome": "Collectors Edition",
+      "foto": "../imagens/imagens bonecas/GhouliaCollectors.jpg"
+    },
+    {
+      "nome": "Mattelcreations",
+      "foto": "../imagens/imagens bonecas/GhouliaMattelcreations.jpg"
+    }
+  ],
+  "Holt Hyde": [
+    {
+      "nome": "Básicas",
+      "foto": "../imagens/imagens bonecas/HoltBasic.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/HoltSplash.jpg"
+    }
+  ],
+  "Jackson Jekyll": [
+    {
+      "nome": "Gloom Beach",
+      "foto": "../imagens/imagens bonecas/JacksonGb.jpg"
+    },
+    {
+      "nome": "Between Classes",
+      "foto": "../imagens/imagens bonecas/JacksonBetween.jpg"
+    },
+    {
+      "nome": "Picnic Casket for 2",
+      "foto": "../imagens/imagens bonecas/JacksonPicnic.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/JacksonFusion.jpg"
+    }
+  ],
+  "Spectra Vondergeist": [
+    {
+      "nome": "School's Out",
+      "foto": "../imagens/imagens bonecas/SpectraSO.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/SpectraDT.jpg"
+    },
+    {
+      "nome": "Dot Dead Gorgeous",
+      "foto": "../imagens/imagens bonecas/SpectraDDG.jpg"
+    },
+    {
+      "nome": "Picture Day",
+      "foto": "../imagens/imagens bonecas/SpectraPicture.jpg"
+    },
+    {
+      "nome": "Ghouls Alive!",
+      "foto": "../imagens/imagens bonecas/SpectraAlive.jpg"
+    },
+    {
+      "nome": "Power Ghouls",
+      "foto": "../imagens/imagens bonecas/SpectraPower.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/SpectraSplash.jpg"
+    },
+    {
+      "nome": "Ghouls' Night Out",
+      "foto": "../imagens/imagens bonecas/SpectraNight.jpg"
+    },
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/SpectraWishes.jpg"
+    },
+    {
+      "nome": "Ghoul Spirit",
+      "foto": "../imagens/imagens bonecas/SpectraSpirit.jpg"
+    },
+    {
+      "nome": "Haunted",
+      "foto": "../imagens/imagens bonecas/SpectraHaunted.jpg"
+    },
+    {
+      "nome": "Maul Monsteristas",
+      "foto": "../imagens/imagens bonecas/SpectraMonsteristas.jpg"
+    },
+    {
+      "nome": "Ghouls Getaway",
+      "foto": "../imagens/imagens bonecas/SpectraGetaway.jpg"
+    },
+    {
+      "nome": "Ghouls Getaway",
+      "foto": "../imagens/imagens bonecas/SpectraGetaway.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/SpectraCreeproduction.jpg"
+    },
+    {
+      "nome": "Midnight Runway",
+      "foto": "../imagens/imagens bonecas/SpectraMidnightRunway2023.jpg"
+    }
+  ],
+  "Abbey Bominable": [
+    {
+      "nome": "School's Out",
+      "foto": "../imagens/imagens bonecas/AbbeySO.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/AbbeyDT.jpg"
+    },
+    {
+      "nome": "Classroom",
+      "foto": "../imagens/imagens bonecas/AbbeyClassroom.jpg"
+    },
+    {
+      "nome": "Skull Shores",
+      "foto": "../imagens/imagens bonecas/AbbeySkull.jpg"
+    },
+    {
+      "nome": "Dot Dead Gorgeous",
+      "foto": "../imagens/imagens bonecas/AbbeyDDG.jpg"
+    },
+    {
+      "nome": "Ghouls Rule",
+      "foto": "../imagens/imagens bonecas/AbbeyGhouls.jpg"
+    },
+    {
+      "nome": "I Heart Fashion",
+      "foto": "../imagens/imagens bonecas/AbbeyFashion.jpg"
+    },
+    {
+      "nome": "Skultimate Roller Maze",
+      "foto": "../imagens/imagens bonecas/AbbeyRoller.jpg"
+    },
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/AbbeyScaris.jpg"
+    },
+    {
+      "nome": "Picture Day",
+      "foto": "../imagens/imagens bonecas/AbbeyPicture.jpg"
+    },
+    {
+      "nome": "Music Festival",
+      "foto": "../imagens/imagens bonecas/AbbeyMusic.jpg"
+    },
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/AbbeyWishes.jpg"
+    },
+    {
+      "nome": "Art Class",
+      "foto": "../imagens/imagens bonecas/AbbeyArt.jpg"
+    },
+    {
+      "nome": "Sweet Screams",
+      "foto": "../imagens/imagens bonecas/AbbeySScreams.jpg"
+    },
+    {
+      "nome": "Coffin Bean",
+      "foto": "../imagens/imagens bonecas/AbbeyCoffin.jpg"
+    },
+    {
+      "nome": "Geek Shriek",
+      "foto": "../imagens/imagens bonecas/AbbeyGeek.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/AbbeyCreeproduction.jpg"
+    }
+  ],
+  "Clawd Wolf": [
+    {
+      "nome": "School's Out",
+      "foto": "../imagens/imagens bonecas/ClawdSO.jpg"
+    },
+    {
+      "nome": "Sweet 1600",
+      "foto": "../imagens/imagens bonecas/ClawdSweet.jpg"
+    },
+    {
+      "nome": "Music Festival",
+      "foto": "../imagens/imagens bonecas/ClawdMusic.jpg"
+    },
+    {
+      "nome": "A Pack of Trouble",
+      "foto": "../imagens/imagens bonecas/Clawdtrouble.jpg"
+    },
+    {
+      "nome": "Scarnival",
+      "foto": "../imagens/imagens bonecas/ClawdScarnival.jpg"
+    }
+  ],
+  "Meowlody": [
+    {
+      "nome": "Go Monster High Team!!!",
+      "foto": "../imagens/imagens bonecas/MeowlodyGo Monster High Team!!!.jpg"
+    },
+    {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/MeowlodyCampus.jpg"
+    },
+    {
+      "nome": "Zombie Shake",
+      "foto": "../imagens/imagens bonecas/MeowlodyZombie.jpg"
+    },
+    {
+      "nome": "Wheelin' Werecats",
+      "foto": "../imagens/imagens bonecas/Meowlodycats.jpg"
+    },
+    {
+      "nome": "Ghouls Getaway",
+      "foto": "../imagens/imagens bonecas/MeowlodyGetaway.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/MeowlodyCreeproduction.jpg"
+    }
+  ],
+  "Purrsephone": [
+    {
+      "nome": "Go Monster High Team!!!",
+      "foto": "../imagens/imagens bonecas/PurrsephoneGo Monster High Team!!!.jpg"
+    },
+    {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/PurrsephoneCampus.jpg"
+    },
+    {
+      "nome": "Zombie Shake",
+      "foto": "../imagens/imagens bonecas/PurrsephoneZombie.jpg"
+    },
+    {
+      "nome": "Wheelin' Werecats",
+      "foto": "../imagens/imagens bonecas/Purrsephonecats.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/PurrsephoneCreeproduction.jpg"
+    }
+  ],
+  "Toralei Stripe": [
+    {
+      "nome": "Go Monster High Team!!!",
+      "foto": "../imagens/imagens bonecas/ToraleiGo Monster High Team!!!.jpg"
+    },
+    {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/ToraleiCampus.jpg"
+    },
+    {
+      "nome": "Ghouls Alive!",
+      "foto": "../imagens/imagens bonecas/ToraleiAlive.jpg"
+    },
+    {
+      "nome": "Power Ghouls",
+      "foto": "../imagens/imagens bonecas/ToraleiPower.jpg"
+    },
+    {
+      "nome": "Coffin Bean",
+      "foto": "../imagens/imagens bonecas/ToraleiCoffin.jpg"
+    },
+    {
+      "nome": "Freaky Field Trip",
+      "foto": "../imagens/imagens bonecas/ToraleiTrip.jpg"
+    },
+    {
+      "nome": "Freak Du Chic",
+      "foto": "../imagens/imagens bonecas/ToraleiChic.jpg"
+    },
+    {
+      "nome": "Great Scarrier Reef",
+      "foto": "../imagens/imagens bonecas/ToraleiScarrier.jpg"
+    },
+    {
+      "nome": "Fierce Rockers",
+      "foto": "../imagens/imagens bonecas/ToraleiireRockers.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/ToraleiCreeproduction.jpg"
+    }
+  ],
+  "Nefera de Nile": [
+    {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/NeferaCampus.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/NeferaBooYork.jpg"
+    }
+  ],
+  "Rochelle Goyle": [
+    {
+      "nome": "Between Classes",
+      "foto": "../imagens/imagens bonecas/RochelleBetween.jpg"
+    },
+    {
+      "nome": "Dance Class",
+      "foto": "../imagens/imagens bonecas/RochelleDance.jpg"
+    },
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/RochelleScaris.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/RochelleSplash.jpg"
+    },
+    {
+      "nome": "Ghouls' Night Out",
+      "foto": "../imagens/imagens bonecas/RochelleNight.jpg"
+    },
+    {
+      "nome": "Zombie Shake",
+      "foto": "../imagens/imagens bonecas/RochelleZombie.jpg"
+    },
+    {
+      "nome": "Ghoul Chat",
+      "foto": "../imagens/imagens bonecas/RochelleChat.jpg"
+    },
+    {
+      "nome": "Haunted",
+      "foto": "../imagens/imagens bonecas/RochelleHaunted.jpg"
+    },
+    {
+      "nome": "Love in Scaris",
+      "foto": "../imagens/imagens bonecas/RochelleScaris2.jpg"
+    },
+    {
+      "nome": "Freak Du Chic",
+      "foto": "../imagens/imagens bonecas/RochelleChic.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/RochelleCreeproduction.jpg"
+    }
+  ],
+  "Venus McFlytrap": [
+    {
+      "nome": "Between Classes",
+      "foto": "../imagens/imagens bonecas/VenusBetween.jpg"
+    },
+    {
+      "nome": "I Heart Fashion",
+      "foto": "../imagens/imagens bonecas/VenusFashion.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/VenusSplash.jpg"
+    },
+    {
+      "nome": "Ghouls' Night Out",
+      "foto": "../imagens/imagens bonecas/VenusNight.jpg"
+    },
+    {
+      "nome": "Music Festival",
+      "foto": "../imagens/imagens bonecas/VenusMusic.jpg"
+    },
+    {
+      "nome": "Ghoul Spirit",
+      "foto": "../imagens/imagens bonecas/VenusSpirit.jpg"
+    },
+    {
+      "nome": "Coffin Bean",
+      "foto": "../imagens/imagens bonecas/VenusCoffin.jpg"
+    },
+    {
+      "nome": "Zombie Shake",
+      "foto": "../imagens/imagens bonecas/VenusZombie.jpg"
+    },
+    {
+      "nome": "Gloom and Bloom",
+      "foto": "../imagens/imagens bonecas/VenusBloom.jpg"
+    },
+    {
+      "nome": "Fangtastic Fitness",
+      "foto": "../imagens/imagens bonecas/VenusFitness.jpg"
+    },
+    {
+      "nome": "Fierce Rockers",
+      "foto": "../imagens/imagens bonecas/VenusireRockers.jpg"
+    }
+  ],
+  "Operetta": [
+    {
+      "nome": "Killer Style",
+      "foto": "../imagens/imagens bonecas/OperettaKS.jpg"
+    },
+    {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/OperettaCampus.jpg"
+    },
+    {
+      "nome": "Dot Dead Gorgeous",
+      "foto": "../imagens/imagens bonecas/OperettaDDG.jpg"
+    },
+    {
+      "nome": "Skultimate Roller Maze",
+      "foto": "../imagens/imagens bonecas/OperettaRoller.jpg"
+    },
+    {
+      "nome": "Dance Class",
+      "foto": "../imagens/imagens bonecas/OperettaDance.jpg"
+    },
+    {
+      "nome": "Picture Day",
+      "foto": "../imagens/imagens bonecas/OperettaPicture.jpg"
+    },
+    {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/OperettaFCA.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/OperettaFusion.jpg"
+    },
+    {
+      "nome": "I Heart Accessories",
+      "foto": "../imagens/imagens bonecas/OperettaAccessoires.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/OperettaBooYork.jpg"
+    },
+    {
+      "nome": "Die-Ner",
+      "foto": "../imagens/imagens bonecas/OperettaDieNer.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/OperettaCreeproduction.jpg"
+    }
+  ],
+  "Robecca Steam": [
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/RobeccaDT.jpg"
+    },
+    {
+      "nome": "Between Classes",
+      "foto": "../imagens/imagens bonecas/RobeccaBetween.jpg"
+    },
+    {
+      "nome": "Dance Class",
+      "foto": "../imagens/imagens bonecas/RobeccaDance.jpg"
+    },
+    {
+      "nome": "Ghouls Alive!",
+      "foto": "../imagens/imagens bonecas/RobeccaAlive.jpg"
+    },
+    {
+      "nome": "Art Class",
+      "foto": "../imagens/imagens bonecas/RobeccaArt.jpg"
+    },
+    {
+      "nome": "Coffin Bean",
+      "foto": "../imagens/imagens bonecas/RobeccaCoffin.jpg"
+    },
+    {
+      "nome": "Gore-Geous Accessories",
+      "foto": "../imagens/imagens bonecas/RobeccaAccessories2.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/RobeccaCreeproduction.jpg"
+    }
+  ],
+  "Howleen Wolf": [
+    {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/HowleenCampus.jpg"
+    },
+    {
+      "nome": "Dance Class",
+      "foto": "../imagens/imagens bonecas/HowleenDance.jpg"
+    },
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/HowleenWishes.jpg"
+    },
+    {
+      "nome": "Creepateria",
+      "foto": "../imagens/imagens bonecas/HowleenCreepateria.jpg"
+    },
+    {
+      "nome": "A Pack of Trouble",
+      "foto": "../imagens/imagens bonecas/Howleentrouble.jpg"
+    },
+    {
+      "nome": "Geek Shriek",
+      "foto": "../imagens/imagens bonecas/HowleenGeek.jpg"
+    },
+    {
+      "nome": "Ghoul Fair",
+      "foto": "../imagens/imagens bonecas/HowleenFair.jpg"
+    }
+  ],
+  "Gil Webber": [
+    {
+      "nome": "Skull Shores",
+      "foto": "../imagens/imagens bonecas/GilSkull.jpg"
+    },
+    {
+      "nome": "Dance Class",
+      "foto": "../imagens/imagens bonecas/GilDance.jpg"
+    },
+    {
+      "nome": "Mansters",
+      "foto": "../imagens/imagens bonecas/GilMansters.jpg"
+    },
+    {
+      "nome": "Wheel Love",
+      "foto": "../imagens/imagens bonecas/GilWheel.jpg"
+    }
+  ],
+  "Hoodude Voodoo": [],
+  "Skelita Calaveras": [
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/SkelitaScaris.jpg"
+    },
+    {
+      "nome": "Art Class",
+      "foto": "../imagens/imagens bonecas/SkelitaArt.jpg"
+    },
+    {
+      "nome": "I Heart Accessories",
+      "foto": "../imagens/imagens bonecas/SkelitaAccessoires.jpg"
+    },
+    {
+      "nome": "Scarnival",
+      "foto": "../imagens/imagens bonecas/SkelitaScarnival.jpg"
+    }
+  ],
+  "Jinafire Long": [
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/JinafireScaris.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/JinafireSplash.jpg"
+    },
+    {
+      "nome": "New Scaremester",
+      "foto": "../imagens/imagens bonecas/JinafireScaremester.jpg"
+    },
+    {
+      "nome": "Gloom and Bloom",
+      "foto": "../imagens/imagens bonecas/JinafireBloom.jpg"
+    },
+    {
+      "nome": "Freak Du Chic",
+      "foto": "../imagens/imagens bonecas/JinafireChic.jpg"
+    },
+    {
+      "nome": "Fierce Rockers",
+      "foto": "../imagens/imagens bonecas/JinafireireRockers.jpg"
+    }
+  ],
+  "Scarah Screams": [
+    {
+      "nome": "I Heart Fashion",
+      "foto": "../imagens/imagens bonecas/ScarahFashion.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/ScarahFusion.jpg"
+    },
+    {
+      "nome": "We Are Monster High",
+      "foto": "../imagens/imagens bonecas/ScarahWeAreMH.jpg"
+    },
+    {
+      "nome": "Ghoul Fair",
+      "foto": "../imagens/imagens bonecas/ScarahFair.jpg"
+    }
+  ],
+  "C.A. Cupid": [
+    {
+      "nome": "Sweet 1600",
+      "foto": "../imagens/imagens bonecas/CupidSweet.jpg"
+    },
+    {
+      "nome": "Self-standing Signature",
+      "foto": "../imagens/imagens bonecas/CupidSelfStanding.jpg"
+    }
+  ],
+  "Catrine DeMew": [
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/CatrineScaris.jpg"
+    },
+    {
+      "nome": "New Scaremester",
+      "foto": "../imagens/imagens bonecas/CatrineScaremester.jpg"
+    },
+    {
+      "nome": "Ghoul Chat",
+      "foto": "../imagens/imagens bonecas/CatrineChat.jpg"
+    },
+    {
+      "nome": "Gloom and Bloom",
+      "foto": "../imagens/imagens bonecas/CatrineBloom.jpg"
+    },
+    {
+      "nome": "Fangtastic Fitness",
+      "foto": "../imagens/imagens bonecas/CatrineFitness.jpg"
+    }
+  ],
+  "Gigi Grant": [
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/GigiWishes.jpg"
+    },
+    {
+      "nome": "New Scaremester",
+      "foto": "../imagens/imagens bonecas/GigiScaremester.jpg"
+    },
+    {
+      "nome": "Freaky Field Trip",
+      "foto": "../imagens/imagens bonecas/GigiTrip.jpg"
+    },
+    {
+      "nome": "Geek Shriek",
+      "foto": "../imagens/imagens bonecas/GigiGeek.jpg"
+    },
+    {
+      "nome": "Maul Monsteristas",
+      "foto": "../imagens/imagens bonecas/GigiMonsteristas.jpg"
+    },
+    {
+      "nome": "Budget Basic",
+      "foto": "../imagens/imagens bonecas/GigiBudgetBasic.jpg"
+    }
+  ],
+  "Twyla Boogeyman": [],
+  "Heath Burns": [
+    {
+      "nome": "Classroom",
+      "foto": "../imagens/imagens bonecas/HeathClassroom.jpg"
+    },
+    {
+      "nome": "Ghoul Fair",
+      "foto": "../imagens/imagens bonecas/HeathFair.jpg"
+    }
+  ],
+  "Viperine Gorgon": [
+    {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/ViperineFCA.jpg"
+    },
+    {
+      "nome": "Ghoulebrities in Londoom",
+      "foto": "../imagens/imagens bonecas/ViperineLondoom.jpg"
+    },
+    {
+      "nome": "Scare & Makeup",
+      "foto": "../imagens/imagens bonecas/ViperinecareMakeup.jpg"
+    }
+  ],
+  "Elissabat": [
+    {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/ElissabatFCA.jpg"
+    },
+    {
+      "nome": "Ghoulebrities in Londoom",
+      "foto": "../imagens/imagens bonecas/ElissabatLondoom.jpg"
+    },
+    {
+      "nome": "Ghoul Fair",
+      "foto": "../imagens/imagens bonecas/ElissabatFair.jpg"
+    },
+    {
+      "nome": "Frightfully Tall",
+      "foto": "../imagens/imagens bonecas/ElissabatTall.jpg"
+    },
+    {
+      "nome": "Ghouls Getaway",
+      "foto": "../imagens/imagens bonecas/ElissabatGetaway.jpg"
+    }
+  ],
+  "Clawdia Wolf": [
+    {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/ClawdiaFCA.jpg"
+    },
+    {
+      "nome": "A Pack of Trouble",
+      "foto": "../imagens/imagens bonecas/Clawdiatrouble.jpg"
+    }
+  ],
+  "Jane Boolittle": [
+    {
+      "nome": "Gloom and Bloom",
+      "foto": "../imagens/imagens bonecas/JaneBloom.jpg"
+    },
+    {
+      "nome": "Ghouls Getaway",
+      "foto": "../imagens/imagens bonecas/JaneGetaway.jpg"
+    },
+    {
+      "nome": "Self-standing Signature",
+      "foto": "../imagens/imagens bonecas/JaneSelfStanding.jpg"
+    }
+  ],
+  "Honey Swamp": [
+    {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/HoneyFCA.jpg"
+    },
+    {
+      "nome": "Freak Du Chic",
+      "foto": "../imagens/imagens bonecas/HoneyChic.jpg"
+    },
+    {
+      "nome": "Gore-Geous Accessories",
+      "foto": "../imagens/imagens bonecas/HoneyAccessories2.jpg"
+    }
+  ],
+  "Slo Mo Mortavitch": [],
+  "Catty Noir": [
+    {
+      "nome": "New Scaremester",
+      "foto": "../imagens/imagens bonecas/CattyScaremester.jpg"
+    },
+    {
+      "nome": "Geek Shriek",
+      "foto": "../imagens/imagens bonecas/CattyGeek.jpg"
+    },
+    {
+      "nome": "Ghoulebrities in Londoom",
+      "foto": "../imagens/imagens bonecas/CattyLondoom.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/CattyBooYork.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/CattyBooYork2.jpg"
+    },
+    {
+      "nome": "Fierce Rockers",
+      "foto": "../imagens/imagens bonecas/CattyireRockers.jpg"
+    },
+    {
+      "nome": "Self-standing Signature",
+      "foto": "../imagens/imagens bonecas/CattySelfStanding.jpg"
+    }
+  ],
+  "Wydowna Spider": [
+    {
+      "nome": "I Heart Fashion",
+      "foto": "../imagens/imagens bonecas/WydownaFashion.jpg"
+    }
+  ],
+  "Bonita Femur": [
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/BonitaFusion.jpg"
+    }
+  ],
+  "Avea Trotter": [
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/AveaFusion.jpg"
+    }
+  ],
+  "Sirena Von Boo": [
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/SirenaFusion.jpg"
+    }
+  ],
+  "Neighthan Rot": [
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/NeighthanFusion.jpg"
+    }
+  ],
+  "Diretora Sem-Cabeça": [],
+  "River Styxx": [
+    {
+      "nome": "Haunted",
+      "foto": "../imagens/imagens bonecas/RiverHaunted.jpg"
+    }
+  ],
+  "Porter Paintergeist": [],
+  "Vandala Doubloons": [
+    {
+      "nome": "Haunted",
+      "foto": "../imagens/imagens bonecas/VandalaHaunted.jpg"
+    }
+  ],
+  "Kiyomi Haunterly": [
+    {
+      "nome": "Haunted",
+      "foto": "../imagens/imagens bonecas/KiyomiHaunted.jpg"
+    }
+  ],
+  "Casta Fierce": [
+    {
+      "nome": "Self-standing Signature",
+      "foto": "../imagens/imagens bonecas/CastaSelfStanding.jpg"
+    }
+  ],
+  "Marisol Coxi": [
+    {
+      "nome": "Monster Exchange Program",
+      "foto": "../imagens/imagens bonecas/MarisolExchange.jpg"
+    }
+  ],
+  "Lorna McNessie": [
+    {
+      "nome": "Monster Exchange Program",
+      "foto": "../imagens/imagens bonecas/LornaExchange.jpg"
+    }
+  ],
+  "Invisi Billy": [
+    {
+      "nome": "New Scaremester",
+      "foto": "../imagens/imagens bonecas/InvisiScaremester.jpg"
+    },
+    {
+      "nome": "Maul Monsteristas",
+      "foto": "../imagens/imagens bonecas/InvisiMonsteristas.jpg"
+    }
+  ],
+  "Amanita Nightshade": [
+    {
+      "nome": "Self-standing Signature",
+      "foto": "../imagens/imagens bonecas/AmanitaSelfStanding.jpg"
+    }
+  ],
+  "Isi Dawndancer": [
+    {
+      "nome": "Brand-Boo Students",
+      "foto": "../imagens/imagens bonecas/IsirandBoo.jpg"
+    }
+  ],
+  "Batsy Claro": [
+    {
+      "nome": "Brand-Boo Students",
+      "foto": "../imagens/imagens bonecas/BatsyrandBoo.jpg"
+    }
+  ],
+  "Kjersti Trollsønn": [],
+  "Finnegan Wake": [
+    {
+      "nome": "Self-standing Signature",
+      "foto": "../imagens/imagens bonecas/FinneganSelfStanding.jpg"
+    }
+  ],
+  "Manny Taur": [],
+  "Iris Clops": [
+    {
+      "nome": "I Heart Fashion",
+      "foto": "../imagens/imagens bonecas/IrisFashion.jpg"
+    }
+  ],
+  "Astranova": [
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/AstranovaBooYork.jpg"
+    }
+  ],
+  "Elle Eedee": [
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/ElleBooYork.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/ElleBooYork2.jpg"
+    }
+  ],
+  "Luna Mothews": [
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/LunaBooYork.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/LunaBooYork2.jpg"
+    }
+  ],
+  "Mouscedes King": [
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/MouscedesBooYork.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/MouscedesBooYork2.jpg"
+    }
+  ],
+  "Peri & Pearl Serpentine": [],
+  "Kala Mer'ri": [
+    {
+      "nome": "Great Scarrier Reef",
+      "foto": "../imagens/imagens bonecas/KalaScarrier.jpg"
+    }
+  ],
+  "Posea Reef": [
+    {
+      "nome": "Great Scarrier Reef",
+      "foto": "../imagens/imagens bonecas/PoseaScarrier.jpg"
+    }
+  ],
+  "Kieran Valentine": [],
+  "Garrott du Roque": [],
+  "Gooliope Jellington": [],
+  "Djinni Grant": [],
+  "Gilda Goldstag": [
+    {
+      "nome": "We Are Monster High",
+      "foto": "../imagens/imagens bonecas/GildaWeAreMH.jpg"
+    }
+  ]
+}
+message.txt
+45 KB

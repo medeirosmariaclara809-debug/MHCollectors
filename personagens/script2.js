@@ -79,8 +79,6 @@ const selectCategoria = document.getElementById('filtro-categoria');
 function renderizar(lista) {
     if (!container) return;
     
-    // O segredo está no href apontando para ../perfil.html?personagem=
-    // Usamos o p.id (ou p.slug) que está cadastrado nos dados do personagem
     container.innerHTML = lista.map(p => `
         <div class="perso-card">
             <div class="perso-img-container">
@@ -106,9 +104,7 @@ function atualizarContador(quantidade) {
     }
 }
 
-
 function aplicarFiltrosPersonagens() {
-    // Se não encontrar o array 'personagens', cria um array vazio para não travar a página
     if (typeof personagens === 'undefined') {
         console.error("Erro: O array global 'personagens' não foi encontrado. Verifique se o arquivo de dados foi carregado antes deste.");
         return;
@@ -117,7 +113,6 @@ function aplicarFiltrosPersonagens() {
     const termo = busca ? busca.value.toLowerCase().trim() : '';
     const categoria = selectCategoria ? selectCategoria.value : 'todos';
 
-    // Começa com todos os personagens
     let filtrados = [...personagens];
 
     // 1. Filtra por texto digitado
@@ -139,27 +134,32 @@ function aplicarFiltrosPersonagens() {
         filtrados.sort((a, b) => b.nome.localeCompare(a.nome));
     }
 
-    // Renderiza o resultado final
     renderizar(filtrados);
     atualizarContador(filtrados.length);
 }
 
-// Torna a função global para o 'onchange="filtrarPorCategoria(this.value)"' do HTML funcionar
+// Torna a função global para o 'onchange' do HTML funcionar
 window.filtrarPorCategoria = function(categoria) {
-    // Se o seu select do HTML passar o valor, mudamos o select interno para sincronizar
     if (selectCategoria && categoria) {
         selectCategoria.value = categoria;
     }
     aplicarFiltrosPersonagens();
+    atualizarUrlFiltrosPersonagens(); // <-- Avisa a URL
 };
 
-// --- 4. EVENTOS DE ENTRADA ---
+// --- 4. EVENTOS DE ENTRADA (ATUALIZADOS COM HISTÓRICO) ---
 if (busca) {
-    busca.addEventListener('input', aplicarFiltrosPersonagens);
+    busca.addEventListener('input', () => {
+        aplicarFiltrosPersonagens();
+        atualizarUrlFiltrosPersonagens(); // <-- Grava na URL o que foi digitado
+    });
 }
 
 if (selectCategoria) {
-    selectCategoria.addEventListener('change', aplicarFiltrosPersonagens);
+    selectCategoria.addEventListener('change', () => {
+        aplicarFiltrosPersonagens();
+        atualizarUrlFiltrosPersonagens(); // <-- Grava na URL a categoria escolhida
+    });
 }
 
 // --- 5. MENU OVERLAY MOBILE ---
@@ -179,8 +179,44 @@ if (btnAbrir && btnFechar && overlay) {
     });
 }
 
+// ==========================================
+// ADICIONADO: SISTEMA DE HISTÓRICO E URL INTELLIGENTE
+// ==========================================
+
+// 1. Escreve os filtros atuais na barra de endereço
+function atualizarUrlFiltrosPersonagens() {
+    const parametros = new URLSearchParams();
+
+    if (busca && busca.value.trim() !== "") {
+        parametros.set('busca', busca.value.trim());
+    }
+    if (selectCategoria && selectCategoria.value !== "todos") {
+        parametros.set('categoria', selectCategoria.value);
+    }
+
+    const queryStr = parametros.toString();
+    const novaUrl = `${window.location.pathname}${queryStr ? '?' + queryStr : ''}`;
+
+    // Adiciona o ponto de retorno na setinha do navegador
+    window.history.pushState({ estadoFiltrosPersonagens: true }, '', novaUrl);
+}
+
+// 2. Lê os filtros da URL e injeta nas caixas/selects da tela
+function configurarFiltrosIniciaisPorUrl() {
+    const parametros = new URLSearchParams(window.location.search);
+    
+    if (busca) busca.value = parametros.get('busca') || '';
+    if (selectCategoria) selectCategoria.value = parametros.get('categoria') || 'todos';
+}
+
+// 3. Sensor da setinha de voltar do navegador
+window.addEventListener('popstate', () => {
+    configurarFiltrosIniciaisPorUrl(); // Restaura o menu para o que estava antes
+    aplicarFiltrosPersonagens();     // Refaz a filtragem na tela
+});
+
 // --- INITIALIZATION ---
-// Executa o filtro inicial assim que o script carrega
 document.addEventListener("DOMContentLoaded", () => {
-    aplicarFiltrosPersonagens();
+    configurarFiltrosIniciaisPorUrl(); // Checa se o usuário já entrou vindo de um link filtrado
+    aplicarFiltrosPersonagens();     // Carrega os personagens na tela
 });

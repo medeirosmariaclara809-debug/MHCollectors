@@ -3,257 +3,1956 @@
     "nome": "DRACULAURA",
     "especie": "Filha do Drácula",
     "linhagem": "Filha do Drácula",
-   "fotoPrincipal": "imagens/imagens personagens/Draculaura_2010.webp",
-   "corTema": "#e5007d", 
-    "corFundoListras": ["#e5007d", "#121013"],
+    "fotoPrincipal": "imagens/imagens personagens/Draculaura_2010.webp",
+    "corTema": "#e5007d",
+    "corFundoListras": [
+      "#e5007d",
+      "#121013"
+    ],
     "dadosRapidos": [
-      { "titulo": "Aniversário", "texto": "14 de Fevereiro" },
-      { "titulo": "Nacionalidade", "texto": "Romena" },
-      { "titulo": "Idade", "texto": "1.599 (Estou mega ansiosa para a minha festa de 1600 aniversário!)" }
+      {
+        "titulo": "Aniversário",
+        "texto": "14 de Fevereiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Romena"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "1.599 (Estou mega ansiosa para a minha festa de 1600 aniversário!)"
+      }
     ],
     "colunaEsquerda": [
-      { "titulo": "Animal de estimação", "texto": "Conde Fabulous, meu melhor amigo, um morcego orgulhoso que visto com as roupas mais fofas." },
-      { "titulo": "Estilo", "texto": "Meu pai me chama de Draculaura, mas meus amigos me chamam de Lady. Eu adoro misturar pink nas minhas roupas pretas. Eu sempre levo uma sombrinha comigo para poder caminhar ao sol." },
-      { "titulo": "Curiosidade sinistra", "texto": "Como eu não vejo meu reflexo no espelho, eu saio de casa sem saber se minha roupa tá legal, se a maquiagem está boa... É claro que, depois de 1.599 anos de prática, eu já me acostumei." },
-      { "titulo": "Cor preferida", "texto": "Pink" },
-      { "titulo": "Comida preferida", "texto": "Sou vegetariana, nada de sangue pra mim, eca! Então como frutas, vegetais e muita suplementação de ferro." }
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Conde Fabulous, meu melhor amigo, um morcego orgulhoso que visto com as roupas mais fofas."
+      },
+      {
+        "titulo": "Estilo",
+        "texto": "Meu pai me chama de Draculaura, mas meus amigos me chamam de Lady. Eu adoro misturar pink nas minhas roupas pretas. Eu sempre levo uma sombrinha comigo para poder caminhar ao sol."
+      },
+      {
+        "titulo": "Curiosidade sinistra",
+        "texto": "Como eu não vejo meu reflexo no espelho, eu saio de casa sem saber se minha roupa tá legal, se a maquiagem está boa... É claro que, depois de 1.599 anos de prática, eu já me acostumei."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Pink"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Sou vegetariana, nada de sangue pra mim, eca! Então como frutas, vegetais e muita suplementação de ferro."
+      }
     ],
     "melhoresAmigas": [
-  { "id": "frankie-stein", "nome": "Frankie Stein", "foto": "imagens/imagensperfil/Frankie.png" },
-  { "id": "clawdeen-wolf", "nome": "Clawdeen Wolf", "foto": "imagens/imagensperfil/Clawdeen.jpg" },
-  { "id": "lagoona-blue", "nome": "Lagoona Blue", "foto": "imagens/imagensperfil/Lagoona.jpg" },
-  { "id": "cleo-de-nile", "nome": "Cleo de Nile", "foto": "imagens/imagensperfil/Cleo.jpg" },
-  { "id": "ghoulia-yelps", "nome": "Ghoulia Yelps", "foto": "imagens/imagensperfil/Ghoulia.png" },
-  { "id": "abbey-bominable", "nome": "Abbey Bominable", "foto": "imagens/imagensperfil/Abbey.png" },
-  { "id": "spectra-vondergeist", "nome": "Spectra Vondergeist", "foto": "imagens/imagensperfil/Spectra.png" },
-  { "id": "deuce-gorgon", "nome": "Deuce Gorgon","foto": "imagens/imagensperfil/Deuce.png" }
-],
-    "colunaDireitaInferior": [
-      { "titulo": "O que mais a irrita", "texto": "A falta de opções vegetarianas na sangueteria de Monster High." },
-      { "titulo": "Atividade preferida", "texto": "Eu adoro sorrir, gargalhar e animar minhas amigas." },
-      { "titulo": "Matéria favorita", "texto": "Escrita Criativa. É a oportunidade que tenho de escrever histórias lindas sobre meus amigos." },
-      { "titulo": "Matéria que menos gosta", "texto": "Geografia. Com 1.599 anos, eu já fui para todos os lugares... duas vezes!" }
+      {
+        "id": "frankie-stein",
+        "nome": "Frankie Stein",
+        "foto": "imagens/imagensperfil/Frankie.png"
+      },
+      {
+        "id": "clawdeen-wolf",
+        "nome": "Clawdeen Wolf",
+        "foto": "imagens/imagensperfil/Clawdeen.jpg"
+      }
     ],
-   "bonecas": [
-       { "nome": "Básicas", "foto": "../imagens/imagens bonecas/DraculauraBasic.jpg" },
-      { "nome": "Dawn of the Dance", "foto": "../imagens/imagens bonecas/DraculauraDotd.jpg" },
-      { "nome": "Gloom Beach", "foto": "../imagens/imagens bonecas/DraculauraGB.jpg" },
-      { "nome": "School's Out", "foto": "../imagens/imagens bonecas/DraculauraSO.jpg" },
-      { "nome": "Dead Tired", "foto": "../imagens/imagens bonecas/Draculaura DT.jpg" },
-      { "nome": "Dead Tired (Edição 2)", "foto": "../imagens/imagens bonecas/DraculauraDT2.jpg" },
-      { "nome": "Killer Style", "foto": "../imagens/imagens bonecas/DraculauraKS.jpg" },
-      { "nome": "Go Monster High Team!!!", "foto": "../imagens/imagens bonecas/DraculauraGo Monster High Team!!!.jpg" },
-      { "nome": "Skull Shores", "foto": "../imagens/imagens bonecas/DraculauraSkull.jpg" },
-      { "nome": "Sweet 1600", "foto": "../imagens/imagens bonecas/DraculauraSweet.jpg" },
-      { "nome": "Dot Dead Gorgeous", "foto": "../imagens/imagens bonecas/DraculauraDDG.jpg" },
-      { "nome": "Ghouls Rule", "foto": "../imagens/imagens bonecas/DraculauraGhouls.jpg" },
-      { "nome": "Scarily Ever After", "foto": "../imagens/imagens bonecas/DraculauraFairytale.jpg" },
-      { "nome": "Scaris", "foto": "../imagens/imagens bonecas/DraculauraScaris.jpg" },
-      { "nome": "Picture Day", "foto": "../imagens/imagens bonecas/DraculauraPicture.jpg" },
-      { "nome": "Make a Splash", "foto": "../imagens/imagens bonecas/DraculauraSplash.jpg" },
-      { "nome": "Music Festival", "foto": "../imagens/imagens bonecas/DraculauraMusic.jpg" },
-      { "nome": "13 Wishes", "foto": "../imagens/imagens bonecas/DraculauraWishes.jpg" },
-      { "nome": "I Heart Shoes", "foto": "../imagens/imagens bonecas/DraculauraShoes.jpg" },
-      { "nome": "Art Class", "foto": "../imagens/imagens bonecas/DraculauraArt.jpg" },
-      { "nome": "Frights, Camera, Action!", "foto": "../imagens/imagens bonecas/DraculauraFCA.jpg" },
-      { "nome": "Sweet Screams", "foto": "../imagens/imagens bonecas/DraculauraSScreams.jpg" },
-      { "nome": "Creepateria", "foto": "../imagens/imagens bonecas/DraculauraCreepateria.jpg" },
-      { "nome": "Freaky Fusion (Dracubecca)", "foto": "../imagens/imagens bonecas/DracubeccaFusion.jpg" },
-      { "nome": "Freaky Fusion", "foto": "../imagens/imagens bonecas/DraculauraFusion.jpg" },
-      { "nome": "Monster Exchange Program", "foto": "../imagens/imagens bonecas/DraculauraExchange.jpg" },
-      { "nome": "Haunted", "foto": "../imagens/imagens bonecas/DraculauraHaunted.jpg" },
-      { "nome": "Original Ghouls Collection", "foto": "../imagens/imagens bonecas/DraculauraOriginalGhouls.jpg" },
-      { "nome": "Boo York, Boo York", "foto": "../imagens/imagens bonecas/DraculauraBooYork.jpg" },
-      { "nome": "Scarnival", "foto": "../imagens/imagens bonecas/DraculauraScarnival.jpg" },
-      { "nome": "Frightfully Tall", "foto": "../imagens/imagens bonecas/DraculauraTall.jpg" },
-      { "nome": "Maul Monsteristas", "foto": "../imagens/imagens bonecas/DraculauraMonsteristas.jpg" },
-      { "nome": "Great Scarrier Reef", "foto": "../imagens/imagens bonecas/DraculauraScarrier.jpg" },
-      { "nome": "Budget Basic", "foto": "../imagens/imagens bonecas/DraculauraBudgetBasic.jpg" },
-      { "nome": "Budget Sleepover", "foto": "../imagens/imagens bonecas/DraculauraBudgetSleep.jpg" },
-      { "nome": "Beast Bites Café", "foto": "../imagens/imagens bonecas/DraculauraCafe.jpg" },
-      { "nome": "Powder Room", "foto": "../imagens/imagens bonecas/DraculauraPowder.jpg" },
-      { "nome": "Coffin Bean", "foto": "../imagens/imagens bonecas/DraculauraCoffin.jpg" },
-      { "nome": "Roadster", "foto": "../imagens/imagens bonecas/DraculauraRoadster.jpg" },
-      { "nome": "Die-Ner", "foto": "../imagens/imagens bonecas/DraculauraDieNer.jpg" },
-      { "nome": "The Draculocker", "foto": "../imagens/imagens bonecas/DraculauraLocker.jpg" },
-      { "nome": "Boo-Riginal Creeproductions", "foto": "../imagens/imagens bonecas/DraculauraCreeproduction.jpg" },
-      { "nome": "Reel Drama", "foto": "../imagens/imagens bonecas/DraculauraReelDrama.jpg" },
-      { "nome": "Collectors Edition (2015)", "foto": "../imagens/imagens bonecas/DraculauraCollectors.jpg" },
-      { "nome": "Vampire Heart (2023)", "foto": "../imagens/imagens bonecas/DraculauraCollectors2.jpg" },
-      { "nome": "Haunt Couture (2022)", "foto": "../imagens/imagens bonecas/DraculauraHauntCouture2022.jpg" },
-      { "nome": "Howliday Winter (2022)", "foto": "../imagens/imagens bonecas/DraculauraHowliday.jpg" },
-      { "nome": "Howliday Love (2024)", "foto": "../imagens/imagens bonecas/DraculauraHowliday2.jpg" },
-      { "nome": "Freak Du Chic (SDCC 2023)", "foto": "../imagens/imagens bonecas/DraculauraSDCC2.jpg" }
+    "colunaDireitaInferior": [
+      {
+        "titulo": "O que mais a irrita",
+        "texto": "A falta de opções vegetarianas na sangueteria de Monster High."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu adoro sorrir, gargalhar e animar minhas amigas."
+      },
+      {
+        "titulo": "Matéria favorita",
+        "texto": "Escrita Criativa. É a oportunidade que tenho de escrever histórias lindas sobre meus amigos."
+      },
+      {
+        "titulo": "Matéria que menos gosta",
+        "texto": "Geografia. Com 1.599 anos, eu já fui para todos os lugares... duas vezes!"
+      }
+    ],
+    "bonecas": [
+      {
+        "nome": "Básicas",
+        "foto": "../imagens/imagens bonecas/DraculauraBasic.jpg"
+      },
+      {
+        "nome": "Dawn of the Dance",
+        "foto": "../imagens/imagens bonecas/DraculauraDotd.jpg"
+      },
+      {
+        "nome": "Gloom Beach",
+        "foto": "../imagens/imagens bonecas/DraculauraGB.jpg"
+      },
+      {
+        "nome": "School's Out",
+        "foto": "../imagens/imagens bonecas/DraculauraSO.jpg"
+      },
+      {
+        "nome": "Dead Tired",
+        "foto": "../imagens/imagens bonecas/Draculaura DT.jpg"
+      },
+      {
+        "nome": "Dead Tired",
+        "foto": "../imagens/imagens bonecas/DraculauraDT2.jpg"
+      },
+      {
+        "nome": "Killer Style",
+        "foto": "../imagens/imagens bonecas/DraculauraKS.jpg"
+      },
+      {
+        "nome": "Go Monster High Team!!!",
+        "foto": "../imagens/imagens bonecas/DraculauraGo Monster High Team!!!.jpg"
+      },
+      {
+        "nome": "Skull Shores",
+        "foto": "../imagens/imagens bonecas/DraculauraSkull.jpg"
+      },
+      {
+        "nome": "Sweet 1600",
+        "foto": "../imagens/imagens bonecas/DraculauraSweet.jpg"
+      },
+      {
+        "nome": "Dot Dead Gorgeous",
+        "foto": "../imagens/imagens bonecas/DraculauraDDG.jpg"
+      },
+      {
+        "nome": "Ghouls Rule",
+        "foto": "../imagens/imagens bonecas/DraculauraGhouls.jpg"
+      },
+      {
+        "nome": "Scarily Ever After",
+        "foto": "../imagens/imagens bonecas/DraculauraFairytale.jpg"
+      },
+      {
+        "nome": "Scaris",
+        "foto": "../imagens/imagens bonecas/DraculauraScaris.jpg"
+      },
+      {
+        "nome": "Picture Day",
+        "foto": "../imagens/imagens bonecas/DraculauraPicture.jpg"
+      },
+      {
+        "nome": "Make a Splash",
+        "foto": "../imagens/imagens bonecas/DraculauraSplash.jpg"
+      },
+      {
+        "nome": "Music Festival",
+        "foto": "../imagens/imagens bonecas/DraculauraMusic.jpg"
+      },
+      {
+        "nome": "13 Wishes",
+        "foto": "../imagens/imagens bonecas/DraculauraWishes.jpg"
+      },
+      {
+        "nome": "I Heart Shoes",
+        "foto": "../imagens/imagens bonecas/DraculauraShoes.jpg"
+      },
+      {
+        "nome": "Art Class",
+        "foto": "../imagens/imagens bonecas/DraculauraArt.jpg"
+      },
+      {
+        "nome": "Frights, Camera, Action!",
+        "foto": "../imagens/imagens bonecas/DraculauraFCA.jpg"
+      },
+      {
+        "nome": "Sweet Screams",
+        "foto": "../imagens/imagens bonecas/DraculauraSScreams.jpg"
+      },
+      {
+        "nome": "Creepateria",
+        "foto": "../imagens/imagens bonecas/DraculauraCreepateria.jpg"
+      },
+      {
+        "nome": "Freaky Fusion",
+        "foto": "../imagens/imagens bonecas/DraculauraFusion.jpg"
+      },
+      {
+        "nome": "Monster Exchange Program",
+        "foto": "../imagens/imagens bonecas/DraculauraExchange.jpg"
+      },
+      {
+        "nome": "Freaky Fusion",
+        "foto": "../imagens/imagens bonecas/DracubeccaFusion.jpg"
+      },
+      {
+        "nome": "Haunted",
+        "foto": "../imagens/imagens bonecas/DraculauraHaunted.jpg"
+      },
+      {
+        "nome": "Original Ghouls Collection",
+        "foto": "../imagens/imagens bonecas/DraculauraOriginalGhouls.jpg"
+      },
+      {
+        "nome": "Boo York, Boo York",
+        "foto": "../imagens/imagens bonecas/DraculauraBooYork.jpg"
+      },
+      {
+        "nome": "Scarnival",
+        "foto": "../imagens/imagens bonecas/DraculauraScarnival.jpg"
+      },
+      {
+        "nome": "Frightfully Tall",
+        "foto": "../imagens/imagens bonecas/DraculauraTall.jpg"
+      },
+      {
+        "nome": "Maul Monsteristas",
+        "foto": "../imagens/imagens bonecas/DraculauraMonsteristas.jpg"
+      },
+      {
+        "nome": "Great Scarrier Reef",
+        "foto": "../imagens/imagens bonecas/DraculauraScarrier.jpg"
+      },
+      {
+        "nome": "Budget Basic",
+        "foto": "../imagens/imagens bonecas/DraculauraBudgetBasic.jpg"
+      },
+      {
+        "nome": "Budget Sleepover",
+        "foto": "../imagens/imagens bonecas/DraculauraBudgetSleep.jpg"
+      },
+      {
+        "nome": "Beast Bites Café",
+        "foto": "../imagens/imagens bonecas/DraculauraCafe.jpg"
+      },
+      {
+        "nome": "Roadster",
+        "foto": "../imagens/imagens bonecas/DraculauraRoadster.jpg"
+      },
+      {
+        "nome": "Coffin Bean",
+        "foto": "../imagens/imagens bonecas/DraculauraCoffin.jpg"
+      },
+      {
+        "nome": "The Draculocker",
+        "foto": "../imagens/imagens bonecas/DraculauraLocker.jpg"
+      },
+       {
+        "nome": "Power Room",
+        "foto": "../imagens/imagens bonecas/DraculauraPowder.jpg"
+      },
+      {
+        "nome": "Die-Ner",
+        "foto": "../imagens/imagens bonecas/DraculauraDieNer.jpg"
+      },
+      {
+        "nome": "Boo-Riginal Creeproductions",
+        "foto": "../imagens/imagens bonecas/DraculauraCreeproduction.jpg"
+      },
+      {
+        "nome": "Reel Drama",
+        "foto": "../imagens/imagens bonecas/DraculauraReelDrama.jpg"
+      },
+      {
+        "nome": "Collector (2015)",
+        "foto": "../imagens/imagens bonecas/DraculauraCollectors.jpg"
+      },
+      {
+        "nome": "Vampire Heart",
+        "foto": "../imagens/imagens bonecas/DraculauraCollectors2.jpg"
+      },
+        {
+        "nome": "Haunt Couture",
+        "foto": "../imagens/imagens bonecas/DraculauraHauntCouture2022.jpg"
+      },
+        {
+        "nome": "Howliday Winter",
+        "foto": "../imagens/imagens bonecas/DraculauraHowliday.jpg"
+      },
+        {
+        "nome": "Howliday Love",
+        "foto": "../imagens/imagens bonecas/DraculauraHowliday2.jpg"
+      },
+        {
+        "nome": "Freak Du Chic",
+        "foto": "../imagens/imagens bonecas/DraculauraSDCC2.jpg"
+      }  
     ]
-
-
-    },
-   "clawdeen-wolf": {
-      "nome": "CLAWDEEN WOLF",
-      "especie": "Filha do Lobisomem",
-      "fotoPrincipal": "imagens/imagens personagens/Clawdeen_basic.webp",
-      "corTema": "#8b45a0", 
-      "corFundoListras": ["#8b45a0", "#121013"],
-      "dadosRapidos": [
-        { "titulo": "Aniversário", "texto": "31 de Outubro" },
-        { "titulo": "Nacionalidade", "texto": "Norte-Americana" },
-        { "titulo": "Idade", "texto": "15 anos" }
-      ],
-      "colunaEsquerda": [
-        { "titulo": "Animal de estimação", "texto": "Crescent, um gatinho monstruosamente fofo tão peludo quanto eu." },
-        { "titulo": "Estilo", "texto": "Sou uma fashionista mesmo, com uma atitude confiante e nonsense. Eu também sou linda, intimidante e totalmente leal as minhas amigas." },
-        { "titulo": "Curiosidade sinistra", "texto": "O meu cabelo é digno de um comercial de shampoo! E olha que é apenas o que nasce na minha perna. Arrancar e depilar é um trabalho integral, mas é o preço que se paga para ser tão linda de dar medo." },
-        { "titulo": "Cor preferida", "texto": "Dourado. Essa é a única coisa que eu e a Cleo de Nile temos em comum." },
-        { "titulo": "Comida preferida", "texto": "Carne... mal passada." }
-      ],
-      "melhoresAmigas": [
-  { "id": "frankie-stein", "nome": "Frankie Stein", "foto": "imagens/imagensperfil/Frankie.png" },
-  { "id": "draculaura", "nome": "Draculaura", "foto": "imagens/imagensperfil/Draculaura.jpg" },
-  { "id": "lagoona-blue", "nome": "Lagoona Blue", "foto": "imagens/imagensperfil/Lagoona.jpg" },
-  { "id": "cleo-de-nile", "nome": "Cleo de Nile", "foto": "imagens/imagensperfil/Cleo.jpg" },
-  { "id": "ghoulia-yelps", "nome": "Ghoulia Yelps", "foto": "imagens/imagensperfil/Ghoulia.png" },
-  { "id": "abbey-bominable", "nome": "Abbey Bominable", "foto": "imagens/imagensperfil/Abbey.png" },
-  { "id": "spectra-vondergeist", "nome": "Spectra Vondergeist", "foto": "imagens/imagensperfil/Spectra.png" },
-  { "id": "deuce-gorgon", "nome": "Deuce Gorgon", "foto": "imagens/imagensperfil/Deuce.png" }
-],
-      "colunaDireitaInferior": [
-        { "titulo": "O que mais a irrita", "texto": "Eu detesto estudar na mesma escola dos meus irmãos e irmãs. Eles são chatos e me dão vergonha. E eles sabem bem como me irritar. Ah, e a Cleo de Nile." },
-        { "titulo": "Atividade preferida", "texto": "Fazer compras e paquerar." },
-        { "titulo": "Matéria favorita", "texto": "Economia. Eu pretendo ter o meu próprio império de moda um dia e preciso entender de negócios igual eu entendo de moda." },
-        { "titulo": "Matéria que menos gosta", "texto": "Educação Física. Não me deixam participar de salto plataforma." }
-      ],
-
-      "bonecas":[
-        { "nome": "Básicas", "foto": "../imagens/imagens bonecas/ClawdeenBasic.jpg" },
-      { "nome": "Dawn of the Dance", "foto": "../imagens/imagens bonecas/Clawdeendotd.jpg" },
-      { "nome": "Gloom Beach", "foto": "../imagens/imagens bonecas/ClawdeenGB.jpg" },
-      { "nome": "School's Out", "foto": "../imagens/imagens bonecas/ClawdeenSO.jpg" },
-      { "nome": "Dead Tired (Room to Howl)", "foto": "../imagens/imagens bonecas/ClawdeenDT2.jpg" },
-      { "nome": "Dead Tired", "foto": "../imagens/imagens bonecas/ClawdeenDT.jpg" },
-      { "nome": "Killer Style", "foto": "../imagens/imagens bonecas/ClawdeenKS.jpg" },
-      { "nome": "Campus Stroll", "foto": "../imagens/imagens bonecas/ClawdeenCampus.jpg" },
-      { "nome": "Skull Shores", "foto": "../imagens/imagens bonecas/ClawdeenSkull.jpg" },
-      { "nome": "Sweet 1600", "foto": "../imagens/imagens bonecas/ClawdeenSweet.jpg" },
-      { "nome": "Ghouls Rule", "foto": "../imagens/imagens bonecas/ClawdeenGhouls.jpg" },
-      { "nome": "Skultimate Roller Maze", "foto": "../imagens/imagens bonecas/ClawdeenRoller.jpg" },
-      { "nome": "Scarily Ever After", "foto": "../imagens/imagens bonecas/ClawdeenFairytale.jpg" },
-      { "nome": "Scaris", "foto": "../imagens/imagens bonecas/ClawdeenScaris.jpg" },
-      { "nome": "Ghouls Alive!", "foto": "../imagens/imagens bonecas/ClawdeenAlive.jpg" },
-      { "nome": "Power Ghouls", "foto": "../imagens/imagens bonecas/ClawdeenPower.jpg" },
-      { "nome": "Make a Splash", "foto": "../imagens/imagens bonecas/ClawdeenSplash.jpg" },
-      { "nome": "Ghouls' Night Out", "foto": "../imagens/imagens bonecas/ClawdeenNight.jpg" },
-      { "nome": "Music Festival", "foto": "../imagens/imagens bonecas/ClawdeenMusic.jpg" },
-      { "nome": "13 Wishes", "foto": "../imagens/imagens bonecas/ClawdeenWishes.jpg" },
-      { "nome": "Frights, Camera, Action!", "foto": "../imagens/imagens bonecas/ClawdeenFCA.jpg" },
-      { "nome": "New Scaremester", "foto": "../imagens/imagens bonecas/ClawdeenScaremester.jpg" },
-      { "nome": "Freaky Fusion (Clawvenus)", "foto": "../imagens/imagens bonecas/ClawvenusFusion.jpg" },
-      { "nome": "Freaky Fusion", "foto": "../imagens/imagens bonecas/ClawdeenFusion.jpg" },
-      { "nome": "A Pack of Trouble", "foto": "../imagens/imagens bonecas/Clawdeentrouble.jpg" },
-      { "nome": "Freaky Field Trip", "foto": "../imagens/imagens bonecas/ClawdeenTrip.jpg" },
-      { "nome": "Haunted", "foto": "../imagens/imagens bonecas/ClawdeenHaunted.jpg" },
-      { "nome": "Original Ghouls Collection", "foto": "../imagens/imagens bonecas/ClawdeenOriginalGhouls.jpg" },
-      { "nome": "Boo York, Boo York", "foto": "../imagens/imagens bonecas/ClawdeenBooYork.jpg" },
-      { "nome": "Freak Du Chic", "foto": "../imagens/imagens bonecas/ClawdeenChic.jpg" },
-      { "nome": "Frightfully Tall", "foto": "../imagens/imagens bonecas/ClawdeenTall.jpg" },
-      { "nome": "Maul Monsteristas", "foto": "../imagens/imagens bonecas/ClawdeenMonsteristas.jpg" },
-      { "nome": "Scare & Makeup", "foto": "../imagens/imagens bonecas/ClawdeencareMakeup.jpg" },
-      { "nome": "Great Scarrier Reef", "foto": "../imagens/imagens bonecas/ClawdeenScarrier.jpg" },
-      { "nome": "Fierce Rockers", "foto": "../imagens/imagens bonecas/ClawdeenireRockers.jpg" },
-      { "nome": "Budget Basic", "foto": "../imagens/imagens bonecas/ClawdeenBudgetBasic.jpg" },
-      { "nome": "Budget Sleepover", "foto": "../imagens/imagens bonecas/ClawdeenBudgetSleep.jpg" },
-      { "nome": "Coffin Bean", "foto": "../imagens/imagens bonecas/ClawdeenCoffin.jpg" },
-      { "nome": "Boo-Riginal Creeproductions", "foto": "../imagens/imagens bonecas/ClawdeenCreeproduction.jpg" },
-      { "nome": "Reel Drama", "foto": "../imagens/imagens bonecas/ClawdeenReelDrama.jpg" },
-      { "nome": "House of Wolf (2025)", "foto": "../imagens/imagens bonecas/ClawdeenCollectors.jpg" },
-      { "nome": "Haunt Couture (2022)", "foto": "../imagens/imagens bonecas/ClawdeenHauntCouture2022.jpg" },
-      { "nome": "Howliday Winter (2023)", "foto": "../imagens/imagens bonecas/ClawdeenHowliday.jpg" }
+  },
+  "clawdeen-wolf": {
+    "nome": "CLAWDEEN WOLF",
+    "especie": "Filha do Lobisomem",
+    "fotoPrincipal": "imagens/imagens personagens/Clawdeen_basic.webp",
+    "corTema": "#8b45a0",
+    "corFundoListras": [
+      "#8b45a0",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": " 30 de abril"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Norte-Americana"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Crescent, um gatinho monstruosamente fofo tão peludo quanto eu."
+      },
+      {
+        "titulo": "Estilo",
+        "texto": "Sou uma fashionista mesmo, com uma atitude confiante e nonsense. Eu também sou linda, intimidante e totalmente leal as minhas amigas."
+      },
+      {
+        "titulo": "Curiosidade sinistra",
+        "texto": "O meu cabelo é digno de um comercial de shampoo! E olha que é apenas o que nasce na minha perna. Arrancar e depilar é um trabalho integral, mas é o preço que se paga para ser tão linda de dar medo."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Dourado. Essa é a única coisa que eu e a Cleo de Nile temos em comum."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Carne... mal passada."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "frankie-stein",
+        "nome": "Frankie Stein",
+        "foto": "imagens/imagensperfil/Frankie.png"
+      },
+      {
+        "id": "draculaura",
+        "nome": "Draculaura",
+        "foto": "imagens/imagensperfil/Draculaura.jpg"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "O que mais a irrita",
+        "texto": "Eu detesto estudar na mesma escola dos meus irmãos e irmãs. Eles são chatos e me dão vergonha. E eles sabem bem como me irritar. Ah, e a Cleo de Nile."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Fazer compras e paquerar."
+      },
+      {
+        "titulo": "Matéria favorita",
+        "texto": "Economia. Eu pretendo ter o meu próprio império de moda um dia e preciso entender de negócios igual eu entendo de moda."
+      },
+      {
+        "titulo": "Matéria que menos gosta",
+        "texto": "Educação Física. Não me deixam participar de salto plataforma."
+      }
+    ],
+    "bonecas": [
+      {
+        "nome": "Básicas",
+        "foto": "../imagens/imagens bonecas/ClawdeenBasic.jpg"
+      },
+      {
+        "nome": "Dawn of the Dance",
+        "foto": "../imagens/imagens bonecas/Clawdeendotd.jpg"
+      },
+      {
+        "nome": "Gloom Beach",
+        "foto": "../imagens/imagens bonecas/ClawdeenGB.jpg"
+      },
+      {
+        "nome": "School's Out",
+        "foto": "../imagens/imagens bonecas/ClawdeenSO.jpg"
+      },
+       {
+        "nome": "Room to Howl",
+        "foto": "../imagens/imagens bonecas/ClawdeenDT2.jpg"
+      },
+      {
+        "nome": "Dead Tired",
+        "foto": "../imagens/imagens bonecas/ClawdeenDT.jpg"
+      },
+      {
+        "nome": "Killer Style",
+        "foto": "../imagens/imagens bonecas/ClawdeenKS.jpg"
+      },
+      {
+        "nome": "Campus Stroll",
+        "foto": "../imagens/imagens bonecas/ClawdeenCampus.jpg"
+      },
+      {
+        "nome": "Skull Shores",
+        "foto": "../imagens/imagens bonecas/ClawdeenSkull.jpg"
+      },
+      {
+        "nome": "Sweet 1600",
+        "foto": "../imagens/imagens bonecas/ClawdeenSweet.jpg"
+      },
+      {
+        "nome": "Ghouls Rule",
+        "foto": "../imagens/imagens bonecas/ClawdeenGhouls.jpg"
+      },
+      {
+        "nome": "Skultimate Roller Maze",
+        "foto": "../imagens/imagens bonecas/ClawdeenRoller.jpg"
+      },
+      {
+        "nome": "Scarily Ever After",
+        "foto": "../imagens/imagens bonecas/ClawdeenFairytale.jpg"
+      },
+      {
+        "nome": "Scaris",
+        "foto": "../imagens/imagens bonecas/ClawdeenScaris.jpg"
+      },
+      {
+        "nome": "Ghouls Alive!",
+        "foto": "../imagens/imagens bonecas/ClawdeenAlive.jpg"
+      },
+      {
+        "nome": "Power Ghouls",
+        "foto": "../imagens/imagens bonecas/ClawdeenPower.jpg"
+      },
+      {
+        "nome": "Make a Splash",
+        "foto": "../imagens/imagens bonecas/ClawdeenSplash.jpg"
+      },
+      {
+        "nome": "Ghouls' Night Out",
+        "foto": "../imagens/imagens bonecas/ClawdeenNight.jpg"
+      },
+      {
+        "nome": "Music Festival",
+        "foto": "../imagens/imagens bonecas/ClawdeenMusic.jpg"
+      },
+      {
+        "nome": "13 Wishes",
+        "foto": "../imagens/imagens bonecas/ClawdeenWishes.jpg"
+      },
+      {
+        "nome": "Frights, Camera, Action!",
+        "foto": "../imagens/imagens bonecas/ClawdeenFCA.jpg"
+      },
+      {
+        "nome": "New Scaremester",
+        "foto": "../imagens/imagens bonecas/ClawdeenScaremester.jpg"
+      },
+      {
+        "nome": "Freaky Fusion",
+        "foto": "../imagens/imagens bonecas/ClawdeenFusion.jpg"
+      },
+      {
+        "nome": "Freaky Fusion",
+        "foto": "../imagens/imagens bonecas/ClawvenusFusion.jpg"
+      },
+      {
+        "nome": "A Pack of Trouble",
+        "foto": "../imagens/imagens bonecas/Clawdeentrouble.jpg"
+      },
+      {
+        "nome": "Freaky Field Trip",
+        "foto": "../imagens/imagens bonecas/ClawdeenTrip.jpg"
+      },
+      {
+        "nome": "Haunted",
+        "foto": "../imagens/imagens bonecas/ClawdeenHaunted.jpg"
+      },
+      {
+        "nome": "Original Ghouls Collection",
+        "foto": "../imagens/imagens bonecas/ClawdeenOriginalGhouls.jpg"
+      },
+      {
+        "nome": "Boo York, Boo York",
+        "foto": "../imagens/imagens bonecas/ClawdeenBooYork.jpg"
+      },
+      {
+        "nome": "Freak Du Chic",
+        "foto": "../imagens/imagens bonecas/ClawdeenChic.jpg"
+      },
+      {
+        "nome": "Frightfully Tall",
+        "foto": "../imagens/imagens bonecas/ClawdeenTall.jpg"
+      },
+      {
+        "nome": "Maul Monsteristas",
+        "foto": "../imagens/imagens bonecas/ClawdeenMonsteristas.jpg"
+      },
+      {
+        "nome": "Scare & Makeup",
+        "foto": "../imagens/imagens bonecas/ClawdeencareMakeup.jpg"
+      },
+      {
+        "nome": "Great Scarrier Reef",
+        "foto": "../imagens/imagens bonecas/ClawdeenScarrier.jpg"
+      },
+      {
+        "nome": "Fierce Rockers",
+        "foto": "../imagens/imagens bonecas/ClawdeenireRockers.jpg"
+      },
+      {
+        "nome": "Budget Basic",
+        "foto": "../imagens/imagens bonecas/ClawdeenBudgetBasic.jpg"
+      },
+      {
+        "nome": "Playset Coffin Bean",
+        "foto": "../imagens/imagens bonecas/ClawdeenCoffin.jpg"
+      },
+      {
+        "nome": "Budget Sleepover",
+        "foto": "../imagens/imagens bonecas/ClawdeenBudgetSleep.jpg"
+      },
+      {
+        "nome": "Reel Drama",
+        "foto": "../imagens/imagens bonecas/ClawdeenReelDrama.jpg"
+      },
+       {
+        "nome": "Haunt Couture",
+        "foto": "../imagens/imagens bonecas/ClawdeenHauntCouture2022.jpg"
+      },
+      {
+        "nome": "Collector (2025)",
+        "foto": "../imagens/imagens bonecas/ClawdeenCollectors.jpg"
+      },
+      {
+        "nome": "Howliday",
+        "foto": "../imagens/imagens bonecas/ClawdeenHowliday.jpg"
+      },
+      {
+        "nome": "Boo-Riginal Creeproductions",
+        "foto": "../imagens/imagens bonecas/ClawdeenCreeproduction.jpg"
+      }
     ]
-
-    },
-    "frankie-stein": {
-      "nome": "FRANKIE STEIN",
-      "especie": "Filha de Frankenstein",
-  
-      "fotoPrincipal": "imagens/imagens personagens/Frankie_Basic.webp",
-      "corTema": "#00c4b4", 
-      "corFundoListras": ["#00c4b4", "#121013"],
-      "dadosRapidos": [
-        { "titulo": "Aniversário", "texto": "Não se aplica" },
-        { "titulo": "Nacionalidade", "texto": "Monster High" },
-        { "titulo": "Idade", "texto": "15... dias." }
-      ],
-      "colunaEsquerda": [
-        { "titulo": "Animal de estimação", "texto": "Watzit. Não sei exatamente do que ele é feito, mas o pedigree dele tem 10 páginas." },
-        { "titulo": "Estilo", "texto": "Meus amigos dizem que eu sou o tipo ideal para o mundo da moda. Não sei direito o que isso quer dizer, mas eles me levaram para comprar umas roupas assustadoramente tão lindas que são de matar!" },
-        { "titulo": "Curiosidade sinistra", "texto": "Às vezes meus pontos soltam nos piores momentos. Por exemplo, o meu braço saiu voando no meio da coreografia de fearleading e foi parar bem na frente do cara mais horripilantemente lindo de Monster High. Eu fiquei mortalizada!" },
-        { "titulo": "Cor preferida", "texto": "Listras pretas e brancas." },
-        { "titulo": "Comida preferida", "texto": "Como só tenho 15 dias, gostei de tudo que provei até agora." }
-        
-      ],
-      "melhoresAmigas": [
-       { "id": "clawdeen-wolf", "nome": "Clawdeen Wolf", "foto": "imagens/imagensperfil/Clawdeen.jpg" },
-  { "id": "draculaura", "nome": "Draculaura", "foto": "imagens/imagensperfil/Draculaura.jpg" },
-  { "id": "lagoona-blue", "nome": "Lagoona Blue", "foto": "imagens/imagensperfil/Lagoona.jpg" },
-  { "id": "cleo-de-nile", "nome": "Cleo de Nile", "foto": "imagens/imagensperfil/Cleo.jpg" },
-  { "id": "ghoulia-yelps", "nome": "Ghoulia Yelps", "foto": "imagens/imagensperfil/Ghoulia.png" },
-  { "id": "abbey-bominable", "nome": "Abbey Bominable", "foto": "imagens/imagensperfil/Abbey.png" },
-  { "id": "spectra-vondergeist", "nome": "Spectra Vondergeist", "foto": "imagens/imagensperfil/Spectra.png" },
-  { "id": "deuce-gorgon", "nome": "Deuce Gorgon", "foto": "imagens/imagensperfil/Deuce.png" }
-],
-  
-      "colunaDireitaInferior": [
-        { "titulo": "O que mais a irrita", "texto": "Todo dia de manhã, quando acordo, meu pai insiste em gritar e comemorar 'Está viva!'." },
-        { "titulo": "Atividade preferida", "texto": "Como eu só tenho 15 dias, ainda não tenho atividade preferida. Eu preciso conhecer mais coisas antes de escolher." },
-        { "titulo": "Matéria favorita", "texto": "História. Eu gosto porque me ajuda a entender de onde os meus amigos são." },
-        { "titulo": "Matéria que menos gosta", "texto": "Natação. Eu entro em curto-circuito e começo a falar besteira quando fico molhada." }
-      ],
+  },
+  "frankie-stein": {
+    "nome": "FRANKIE STEIN",
+    "especie": "Filha de Frankenstein",
+    "fotoPrincipal": "imagens/imagens personagens/Frankie_Basic.webp",
+    "corTema": "#20B2AA",
+    "corFundoListras": [
+      "#20B2AA",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "Não se aplica"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Monster High"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15... dias."
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Watzit. Não sei exatamente do que ele é feito, mas o pedigree dele tem 10 páginas."
+      },
+      {
+        "titulo": "Estilo",
+        "texto": "Meus amigos dizem que eu sou o tipo ideal para o mundo da moda. Não sei direito o que isso quer dizer, mas eles me levaram para comprar umas roupas assustadoramente tão lindas que são de matar!"
+      },
+      {
+        "titulo": "Curiosidade sinistra",
+        "texto": "Às vezes meus pontos soltam nos piores momentos. Por exemplo, o meu braço saiu voando no meio da coreografia de fearleading e foi parar bem na frente do cara mais horripilantemente lindo de Monster High. Eu fiquei mortalizada!"
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Listras pretas e brancas."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Como só tenho 15 dias, gostei de tudo que provei até agora."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "clawdeen-wolf",
+        "nome": "Clawdeen Wolf",
+        "foto": "imagens/imagensperfil/Clawdeen.jpg"
+      },
+      {
+        "id": "draculaura",
+        "nome": "Draculaura",
+        "foto": "imagens/imagensperfil/Draculaura.jpg"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "O que mais a irrita",
+        "texto": "Todo dia de manhã, quando acordo, meu pai insiste em gritar e comemorar 'Está viva!'."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Como eu só tenho 15 dias, ainda não tenho atividade preferida. Eu preciso conhecer mais coisas antes de escolher."
+      },
+      {
+        "titulo": "Matéria favorita",
+        "texto": "História. Eu gosto porque me ajuda a entender de onde os meus amigos são."
+      },
+      {
+        "titulo": "Matéria que menos gosta",
+        "texto": "Natação. Eu entro em curto-circuito e começo a falar besteira quando fico molhada."
+      }
+    ],
+    "bonecas": [
+      {
+        "nome": "Básicas",
+        "foto": "../imagens/imagens bonecas/FrankieBasic.jpg"
+      },
+      {
+        "nome": "Dawn of the Dance",
+        "foto": "../imagens/imagens bonecas/FrankieDotd.jpg"
+      },
+      {
+        "nome": "Gloom Beach",
+        "foto": "../imagens/imagens bonecas/FrankieGB.jpg"
+      },
+      {
+        "nome": "School's Out",
+        "foto": "../imagens/imagens bonecas/FrankieSO.jpg"
+      },
+      {
+        "nome": "Dead Tired",
+        "foto": "../imagens/imagens bonecas/FrankieDT.jpg"
+      },
+      {
+        "nome": "Killer Style",
+        "foto": "../imagens/imagens bonecas/FrankieKS.jpg"
+      },
+      {
+        "nome": "Classroom",
+        "foto": "../imagens/imagens bonecas/FrankieClassroom.jpg"
+      },
+      {
+        "nome": "Skull Shores",
+        "foto": "../imagens/imagens bonecas/FrankieSkull.jpg"
+      },
+      {
+        "nome": "Skull Shores",
+        "foto": "../imagens/imagens bonecas/FrankieSkull2.jpg"
+      },
+      {
+        "nome": "Sweet 1600",
+        "foto": "../imagens/imagens bonecas/FrankieSweet.jpg"
+      },
+      {
+        "nome": "Ghouls Rule",
+        "foto": "../imagens/imagens bonecas/FrankieGhouls.jpg"
+      },
+      {
+        "nome": "I Heart Fashion",
+        "foto": "../imagens/imagens bonecas/FrankieFashion.jpg"
+      },
+      {
+        "nome": "Skultimate Roller Maze",
+        "foto": "../imagens/imagens bonecas/FrankieRoller.jpg"
+      },
+      {
+        "nome": "Scarily Ever After",
+        "foto": "../imagens/imagens bonecas/FrankieFairytale.jpg"
+      },
+      {
+        "nome": "Scaris",
+        "foto": "../imagens/imagens bonecas/FrankieScaris.jpg"
+      },
+      {
+        "nome": "Picture Day",
+        "foto": "../imagens/imagens bonecas/FrankiePicture.jpg"
+      },
+      {
+        "nome": "Ghouls Alive!",
+        "foto": "../imagens/imagens bonecas/FrankieAlive.jpg"
+      },
+      {
+        "nome": "Power Ghouls",
+        "foto": "../imagens/imagens bonecas/FrankiePower.jpg"
+      },
+      {
+        "nome": "Make a Splash",
+        "foto": "../imagens/imagens bonecas/FrankieSplash.jpg"
+      },
+      {
+        "nome": "13 Wishes",
+        "foto": "../imagens/imagens bonecas/FrankieWishes.jpg"
+      },
+      {
+        "nome": "Ghoul Spirit",
+        "foto": "../imagens/imagens bonecas/FrankieSpirit.jpg"
+      },
+      {
+        "nome": "Sweet Screams",
+        "foto": "../imagens/imagens bonecas/FrankieSScreams.jpg"
+      },
+      {
+        "nome": "Coffin Bean",
+        "foto": "../imagens/imagens bonecas/FrankieCoffin.jpg"
+      },
+      {
+        "nome": "Picnic Casket for 2",
+        "foto": "../imagens/imagens bonecas/FrankiePicnic.jpg"
+      },
+      {
+        "nome": "Freaky Fusion",
+        "foto": "../imagens/imagens bonecas/FrankieFusion.jpg"
+      },
+      {
+        "nome": "Freaky Fusion",
+        "foto": "../imagens/imagens bonecas/FrankieFusion2.jpg"
+      },
+      {
+        "nome": "Geek Shriek",
+        "foto": "../imagens/imagens bonecas/FrankieGeek.jpg"
+      },
+      {
+        "nome": "Original Ghouls Collection",
+        "foto": "../imagens/imagens bonecas/FrankieOriginalGhouls.jpg"
+      },
+      {
+        "nome": "Freak Du Chic",
+        "foto": "../imagens/imagens bonecas/FrankieChic.jpg"
+      },
+      {
+        "nome": "Frightfully Tall",
+        "foto": "../imagens/imagens bonecas/FrankieTall.jpg"
+      },
+      {
+        "nome": "Great Scarrier Reef",
+        "foto": "../imagens/imagens bonecas/FrankieScarrier.jpg"
+      },
+      {
+        "nome": "Budget Basic",
+        "foto": "../imagens/imagens bonecas/FrankieBudgetBasic.jpg"
+      },
+      {
+        "nome": "Budget Sleepover",
+        "foto": "../imagens/imagens bonecas/FrankieBudgetSleep.jpg"
+      },
+      {
+        "nome": "Designer Booo-Tique",
+        "foto": "../imagens/imagens bonecas/FrankieBoooTique.jpg"
+      },
+      {
+        "nome": "Boo-Riginal Creeproductions",
+        "foto": "../imagens/imagens bonecas/FrankieCreeproduction.jpg"
+      },
+      {
+        "nome": "Reel Drama",
+        "foto": "../imagens/imagens bonecas/FrankieReelDrama.jpg"
+      },
+       {
+        "nome": "Collectors (2023)",
+        "foto": "../imagens/imagens bonecas/FrankieCollectors2.jpg"
+      },
+      {
+        "nome": "Collectors (2025)",
+        "foto": "../imagens/imagens bonecas/FrankieCollectors.jpg"
+      },
+      {
+        "nome": "Haunt Couture",
+        "foto": "../imagens/imagens bonecas/FrankieHauntCouture2022.jpg"
+      },
+      {
+        "nome": "Midnight Runway",
+        "foto": "../imagens/imagens bonecas/FrankieMidnightRunway2023.jpg"
+      },
+      {
+        "nome": "SDCC (2010)",
+        "foto": "../imagens/imagens bonecas/FrankieSDCC.jpg"
+      },
+      {
+        "nome": "SDCC (2016)",
+        "foto": "../imagens/imagens bonecas/FrankieSDCC2.jpg"
+      },
+      {
+        "nome": "SDCC (2022)",
+        "foto": "../imagens/imagens bonecas/FrankieSDCC3.jpg"
+      }
+    ]
+  },
+  "lagoona-blue": {
+    "nome": "LAGOONA BLUE",
+    "especie": "Filha do Monstro do Mar",
+    "fotoPrincipal": "imagens/imagens personagens/Lagoona.png",
+    "corTema": "#48D1CC",
+    "corFundoListras": [
+      "#48D1CC",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "10 de junho"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Australiana"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Neptuna, é uma piranha. Eu tenho uma bolsa especial, que na verdade é um aquário, na qual eu levo a Neptuna comigo para a aula."
+      },
+      {
+        "titulo": "Estilo",
+        "texto": "Eu gosto de aterrorizar por aí de regata, bolsa pequena e chinelo. Desse jeito eu posso ir para qualquer lugar, seja surfar, assistir uma partida de voleibol ou dar uma olhada nos surfistas com minhas amigas."
+      },
+      {
+        "titulo": "Curiosidade sinistra",
+        "texto": "Minha pele fica seca se eu fico muito tempo fora da água, então eu tenho que tomar um banho de hidratante... O cloro da piscina de Monster High transforma meu lindo cabelo loiro em azul, é um visual horripilante, não é?"
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Azul oceano"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Sushi"
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "Sou amiga de todo mundo!",
+        "foto": "imagens/imagensperfil/Lagoona.jpg"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "O que mais a irrita",
+        "texto": "As pessoas que tratam o mar como lixeira."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Qualquer coisa que envolva ficar na água ou perto dela."
+      },
+      {
+        "titulo": "Matéria favorita",
+        "texto": "Oceanografia. Se eu não posso ficar na água, eu quero então estudá-la."
+      },
+      {
+        "titulo": "Matéria que menos gosta",
+        "texto": "Geologia. Vulcões + pedras + desertos = pesadelo."
+      }
+    ],
+    "bonecas": [
+      {
+        "nome": "Básicas",
+        "foto": "../imagens/imagens bonecas/LagoonaBasic.jpg"
+      },
+      {
+        "nome": "Dawn of the Dance",
+        "foto": "../imagens/imagens bonecas/LagoonaDotd.jpg"
+      },
+      {
+        "nome": "School's Out",
+        "foto": "../imagens/imagens bonecas/LagoonaSO.jpg"
+      },
+      {
+        "nome": "Dead Tired",
+        "foto": "../imagens/imagens bonecas/LagoonaDT.jpg"
+      },
+      {
+        "nome": "Dead Tired",
+        "foto": "../imagens/imagens bonecas/LagoonaDT2.jpg"
+      },
+      {
+        "nome": "Classroom",
+        "foto": "../imagens/imagens bonecas/LagoonaClassroom.jpg"
+      },
+      {
+        "nome": "Skull Shores",
+        "foto": "../imagens/imagens bonecas/LagoonaSkull.jpg"
+      },
+      {
+        "nome": "Dot Dead Gorgeous",
+        "foto": "../imagens/imagens bonecas/LagoonaDDG.jpg"
+      },
+      {
+        "nome": "Skultimate Roller Maze",
+        "foto": "../imagens/imagens bonecas/LagoonaRoller.jpg"
+      },
+      {
+        "nome": "Dance Class",
+        "foto": "../imagens/imagens bonecas/LagoonaDance.jpg"
+      },
+      {
+        "nome": "Scaris",
+        "foto": "../imagens/imagens bonecas/LagoonaScaris.jpg"
+      },
+      {
+        "nome": "Picture Day",
+        "foto": "../imagens/imagens bonecas/LagoonaPicture.jpg"
+      },
+      {
+        "nome": "Make a Splash",
+        "foto": "../imagens/imagens bonecas/LagoonaSplash.jpg"
+      },
+      {
+        "nome": "Ghouls' Night Out",
+        "foto": "../imagens/imagens bonecas/LagoonaNight.jpg"
+      },
+      {
+        "nome": "13 Wishes",
+        "foto": "../imagens/imagens bonecas/LagoonaWishes.jpg"
+      },
+      {
+        "nome": "Frights, Camera, Action!",
+        "foto": "../imagens/imagens bonecas/LagoonaFCA.jpg"
+      },
+       {
+        "nome": "Freaky Fusion",
+        "foto": "../imagens/imagens bonecas/LagoonafireFusion.jpg"
+      },
+      {
+        "nome": "We Are Monster High",
+        "foto": "../imagens/imagens bonecas/LagoonaWeAreMH.jpg"
+      },
+      {
+        "nome": "Monster Exchange Program",
+        "foto": "../imagens/imagens bonecas/LagoonaExchange.jpg"
+      },
+      {
+        "nome": "Original Ghouls Collection",
+        "foto": "../imagens/imagens bonecas/LagoonaOriginalGhouls.jpg"
+      },
+      {
+        "nome": "Wheel Love",
+        "foto": "../imagens/imagens bonecas/lagoonaWheel.jpg"
+      },
+      {
+        "nome": "Fangtastic Fitness",
+        "foto": "../imagens/imagens bonecas/LagoonaFitness.jpg"
+      },
+      {
+        "nome": "Great Scarrier Reef",
+        "foto": "../imagens/imagens bonecas/LagoonaScarrier.jpg"
+      },
+      {
+        "nome": "Boo-Riginal Creeproductions",
+        "foto": "../imagens/imagens bonecas/LagoonaCreeproduction.jpg"
+      },
+      {
+        "nome": "Reel Drama",
+        "foto": "../imagens/imagens bonecas/LagoonaReelDrama.jpg"
+      },
+       {
+        "nome": "Haunt Couture",
+        "foto": "../imagens/imagens bonecas/LagoonaHauntCouture2022.jpg"
+      }
+    ]
+  },
+  "cleo-de-nile": {
+    "nome": "CLEO DE NILE",
+    "especie": "Filha da Múmia",
+    "fotoPrincipal": "imagens/imagens personagens/Cleo.png",
+    "corTema": "#b9830d",
+    "corFundoListras": [
+      "#b9830d",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "11 de julho"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Egípcia"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "5.842 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Hissette, minha cobra egípcia de estimação."
+      },
+      {
+        "titulo": "Estilo",
+        "texto": "Eu sou uma rainha, então meu estilo é tudo o que há de mais elegante, com muitas faixas, ouro e pedras preciosas."
+      },
+      {
+        "titulo": "Curiosidade sinistra",
+        "texto": "Eu tenho medo do escuro... eu sei, é irônico para alguém que viveu em uma tumba."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Dourado"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Uvas (minha servente me dá na boca)."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "ghoulia-yelps",
+        "nome": "Ghoulia Yelps",
+        "foto": "imagens/imagensperfil/Ghoulia.png"
+      },
+      {
+        "id": "deuce-gorgon",
+        "nome": "Deuce Gorgon",
+        "foto": "imagens/imagensperfil/Deuce.png"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "O que mais a irrita",
+        "texto": "Quando as pessoas não me obedecem imediatamente."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Ser a capitã do time de Fearleading."
+      },
+      {
+        "titulo": "Matéria favorita",
+        "texto": "Geometria. Adoro formas perfeitas, como as pirâmides."
+      },
+      {
+        "titulo": "Matéria que menos gosta",
+        "texto": "História. Eles contam tudo errado sobre a minha família!"
+      }
+    ],
+    "bonecas": [
+      {
+        "nome": "Básicas",
+        "foto": "../imagens/imagens bonecas/CleoBasic.jpg"
+      },
+      {
+        "nome": "Dawn of the Dance",
+        "foto": "../imagens/imagens bonecas/CleoDotd.jpg"
+      },
+      {
+        "nome": "Gloom Beach",
+        "foto": "../imagens/imagens bonecas/CleoGb.jpg"
+      },
+      {
+        "nome": "School's Out",
+        "foto": "../imagens/imagens bonecas/CleoSO.jpg"
+      },
+      {
+        "nome": "Dead Tired",
+        "foto": "../imagens/imagens bonecas/CleoDT.jpg"
+      },
+      {
+        "nome": "Classroom",
+        "foto": "../imagens/imagens bonecas/CleoClassroom.jpg"
+      },
+      {
+        "nome": "Go Monster High Team!!!",
+        "foto": "../imagens/imagens bonecas/CleoGo Monster High Team!!!.jpg"
+      },
+      {
+        "nome": "Skull Shores",
+        "foto": "../imagens/imagens bonecas/CleoSkull.jpg"
+      },
+      {
+        "nome": "Ghouls Rule",
+        "foto": "../imagens/imagens bonecas/CleoGhouls.jpg"
+      },
+      {
+        "nome": "I Heart Fashion",
+        "foto": "../imagens/imagens bonecas/CleoFashion.jpg"
+      },
+      {
+        "nome": "Scaris",
+        "foto": "../imagens/imagens bonecas/CleoScaris.jpg"
+      },
+      {
+        "nome": "Picture Day",
+        "foto": "../imagens/imagens bonecas/CleoPicture.jpg"
+      },
+      {
+        "nome": "13 Wishes",
+        "foto": "../imagens/imagens bonecas/CleoWishes.jpg"
+      },
+      {
+        "nome": "I Heart Shoes",
+        "foto": "../imagens/imagens bonecas/CleoShoes.jpg"
+      },
+      {
+        "nome": "Frights, Camera, Action!",
+        "foto": "../imagens/imagens bonecas/CleoFCA.jpg"
+      },
+      {
+        "nome": "Creepateria",
+        "foto": "../imagens/imagens bonecas/CleoCreepateria.jpg"
+      },
+      {
+        "nome": "Freaky Fusion",
+        "foto": "../imagens/imagens bonecas/CleoleiFusion.jpg"
+      },
+      {
+        "nome": "We Are Monster High",
+        "foto": "../imagens/imagens bonecas/CleoWeAreMH.jpg"
+      },
+      {
+        "nome": "Gloom and Bloom",
+        "foto": "../imagens/imagens bonecas/CleoBloom.jpg"
+      },
+      {
+        "nome": "Original Ghouls Collection",
+        "foto": "../imagens/imagens bonecas/CleoOriginalGhouls.jpg"
+      },
+      {
+        "nome": "Boo York, Boo York",
+        "foto": "../imagens/imagens bonecas/CleoBooYork.jpg"
+      },
+      {
+        "nome": "Boo-Riginal Creeproductions",
+        "foto": "../imagens/imagens bonecas/CleoCreeproduction.jpg"
+      },
+      {
+        "nome": "Reel Drama",
+        "foto": "../imagens/imagens bonecas/CleoReelDrama.jpg"
+      },
+      {
+        "nome": "Collectors (2017)",
+        "foto": "../imagens/imagens bonecas/CleoCollectors.jpg"
+      },
+      {
+        "nome": "Collectors (2024)",
+        "foto": "../imagens/imagens bonecas/CleoCollectors2.jpg"
+      },
+      {
+        "nome": "Haunt Couture",
+        "foto": "../imagens/imagens bonecas/CleoHauntCouture2022.jpg"
+      },
+      {
+        "nome": "Midnight Runway",
+        "foto": "../imagens/imagens bonecas/CleoMidnightRunway2023.jpg"
+      },
+      {
+        "nome": "Howliday (2023)",
+        "foto": "../imagens/imagens bonecas/CleoHowliday.jpg"
+      },
+      {
+        "nome": "Howliday (2024)",
+        "foto": "../imagens/imagens bonecas/CleoHowliday2.jpg"
+      }
+    ]
+  },
+  "deuce-gorgon": {
+    "nome": "DEUCE GORGON",
+    "especie": "Filho da Medusa",
+    "fotoPrincipal": "imagens/imagens personagens/Deuce_basic.webp",
+    "corTema": "#4ae800",
+    "corFundoListras": [
+      "#4ae800",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "5 de março"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Grego"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Perseus é meu rato de duas caudas, batizado em homenagem a um antigo guerreiro grego."
+      },
+      {
+        "titulo": "Estilo",
+        "texto": "Tênis de skatista, moletom e meus óculos escuros de marca. E eu também curto muito o meu moicano de cobras."
+      },
+      {
+        "titulo": "Curiosidade sinistra",
+        "texto": "Tenho que usar óculos para não transformar meus amigos em pedra. O efeito dura umas 24 horas, mas detesto petrificar alguém sem querer."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Verde neon"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Fusão de comida grega monstruosa — é uma invenção minha."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "cleo-de-nile",
+        "nome": "Cleo de Nile",
+        "foto": "imagens/imagensperfil/Cleo.jpg"
+      },
+      {
+        "id": "jackson-jekyll",
+        "nome": "Jackson Jekyll",
+        "foto": "imagens/imagensperfil/Jackson.webp"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "O que mais me irrita",
+        "texto": "Gente que fica me enchendo o saco."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Jogar basquete monstruoso e cozinhar."
+      },
+      {
+        "titulo": "Matéria favorita",
+        "texto": "Artes Culinárias."
+      },
+      {
+        "titulo": "Matéria que menos gosta",
+        "texto": "Artes Culinárias (finjo que odeio, mas é a melhor aula!)."
+      }
+    ],
+    "bonecas": [
+      {
+        "nome": "Básicas",
+        "foto": "../imagens/imagens bonecas/DeuceBasic.jpg"
+      },
+      {
+        "nome": "Dawn of the Dance",
+        "foto": "../imagens/imagens bonecas/DeuceDotd.jpg"
+      },
+      {
+        "nome": "Scaris",
+        "foto": "../imagens/imagens bonecas/DeuceScaris.jpg"
+      },
+      {
+        "nome": "Ghouls Alive!",
+        "foto": "../imagens/imagens bonecas/DeuceAlive.JPG"
+      },
+      {
+        "nome": "Mansters",
+        "foto": "../imagens/imagens bonecas/DeuceMansters.jpg"
+      },
+      {
+        "nome": "Boo York, Boo York",
+        "foto": "../imagens/imagens bonecas/DeuceBooYork.jpg"
+      },
+      {
+        "nome": "Boo-Riginal Creeproductions",
+        "foto": "../imagens/imagens bonecas/DeuceCreeproduction.jpg"
+      },
+       {
+        "nome": "Howliday (2023)",
+        "foto": "../imagens/imagens bonecas/DeuceHowliday.jpg"
+      }
+    ]
+  },
+  "ghoulia-yelps": {
+    "nome": "GHOULIA YELPS",
+    "especie": "Filha dos Zumbis",
+    "fotoPrincipal": "imagens/imagens personagens/ghoulia.png",
+    "corTema": "#FA003F",
+    "corFundoListras": [
+      "#FA003F",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "25 de julho"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "canadense"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos (em anos de monstro)"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Uma coruja macho que chama Sr. Faz Muito Barulho. É a companhia ideal, mesmo que se recuse a ser uma ave correio para mim."
+      },
+      {
+        "titulo": "Estilo",
+        "texto": "Meu óculos de nerd. Eles combinam com tudo."
+      },
+      {
+        "titulo": "Curiosidade sinistra",
+        "texto": "Eu não 'funciono' sem um planejamento adequado e não consigo lidar com mudanças repentinas. Minha natureza zumbi faz com que eu ande muito devagar, não tenho boa expressão facial e só falo bem a língua zumbi."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Vermelho"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Cérebros... brincadeirinha. Na verdade, eu aprecio comida rápida (fast-food)."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "cleo-de-nile",
+        "nome": "Cleo de Nile",
+        "foto": "imagens/imagensperfil/Cleo.jpg"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "O que mais a irrita",
+        "texto": "Mudanças repentinas e monstros que não falam minha língua. Nada é mais irritante do que chegar atrasada e ter que explicar o motivo para um monstro que não entende o que você está falando."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu amo ler e aprender coisas novas. Livros estão sempre nos meus planos."
+      },
+      {
+        "titulo": "Matéria favorita",
+        "texto": "Infelizmente, não consigo escolher apenas uma!"
+      },
+      {
+        "titulo": "Matéria que menos gosta",
+        "texto": "Acredito que em toda matéria podemos aprender algo. Até o jogo de queimada ensina como desviar das bolas."
+      }
+    ],
+    "bonecas": [
+      {
+        "nome": "Básicas",
+        "foto": "../imagens/imagens bonecas/GhouliaBasic.jpg"
+      },
+      {
+        "nome": "Dawn of the Dance",
+        "foto": "../imagens/imagens bonecas/GhouliaDotd.jpg"
+      },
+      {
+        "nome": "Gloom Beach",
+        "foto": "../imagens/imagens bonecas/GhouliaGb.jpg"
+      },
+      {
+        "nome": "Dead Tired",
+        "foto": "../imagens/imagens bonecas/GhouliaDT.jpg"
+      },
+      {
+        "nome": "Classroom",
+        "foto": "../imagens/imagens bonecas/GhouliaClassroom.jpg"
+      },
+      {
+        "nome": "Classroom",
+        "foto": "../imagens/imagens bonecas/GhouliaClassroom2.jpg"
+      },
+      {
+        "nome": "Go Monster High Team!!!",
+        "foto": "../imagens/imagens bonecas/GhouliaGo Monster High Team!!!.jpg"
+      },
+      {
+        "nome": "Skull Shores",
+        "foto": "../imagens/imagens bonecas/GhouliaSkull.jpg"
+      },
+      {
+        "nome": "Dot Dead Gorgeous",
+        "foto": "../imagens/imagens bonecas/GhouliaDDG.jpg"
+      },
+      {
+        "nome": "Skultimate Roller Maze",
+        "foto": "../imagens/imagens bonecas/GhouliaRoller.jpg"
+      },
+      {
+        "nome": "Scaris",
+        "foto": "../imagens/imagens bonecas/GhouliaScaris.jpg"
+      },
+      {
+        "nome": "Ghouls' Night Out",
+        "foto": "../imagens/imagens bonecas/GhouliaNight.jpg"
+      },
+      {
+        "nome": "Sweet Screams",
+        "foto": "../imagens/imagens bonecas/GhouliaSScreams.jpg"
+      },
+      {
+        "nome": "Freaky Fusion",
+        "foto": "../imagens/imagens bonecas/GhouliaFusion.jpg"
+      },
+      {
+        "nome": "Geek Shriek",
+        "foto": "../imagens/imagens bonecas/GhouliaGeek.jpg"
+      },
+      {
+        "nome": "Original Ghouls Collection",
+        "foto": "../imagens/imagens bonecas/GhouliaOriginalGhouls.jpg"
+      },
+      {
+        "nome": "Love's Not Dead",
+        "foto": "../imagens/imagens bonecas/GhouliaLovesNotDead.jpg"
+      },
+      {
+        "nome": "Boo-Riginal Creeproductions",
+        "foto": "../imagens/imagens bonecas/GhouliaCreeproduction.jpg"
+      },
+      {
+        "nome": "Collectors Edition",
+        "foto": "../imagens/imagens bonecas/GhouliaCollectors.jpg"
+      },
+      {
+        "nome": "Mattelcreations",
+        "foto": "../imagens/imagens bonecas/GhouliaMattelcreations.jpg"
+      },
+        {
+        "nome": "Scooter",
+        "foto": "../imagens/imagens bonecas/GhouliaScooter.jpg"
+      },
+      {
+        "nome": "SDCC (2011)",
+        "foto": "../imagens/imagens bonecas/GhouliaSDCC.jpg"
+      },
+      {
+        "nome": "SDCC (2024)",
+        "foto": "../imagens/imagens bonecas/GhouliaSDCC2.jpg"
+      }
+    ]
+  },
+"holt-hyde": {
+    "nome": "Holt Hyde",
+    "especie": "Elementar de Fogo",
+    "fotoPrincipal": "imagens/imagens personagens/Holt_basic.webp",
+    "corTema": "#ff6a00",
+    "corFundoListras": [
+      "#ff6a00",
+      "#121013"
+    ],
+    "dadosRapidos": [
+     {
+        "titulo": "Aniversário",
+        "texto": "30 de maio"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Norte-Americano"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16... Eu acho"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Defeito",
+        "texto": "Meu temperamento. Não tenho orgulho, mas de vez em quando fico irritado e de cabeça quente e depois tenho que ficar me desculpando. Também sou esquecido."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Laranja"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Asinhas picantes. Tem que ser muito picante a ponto de fazer um dragão chorar."
+      },
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Crossfade, um camaleão. Ele é o melhor bicho de estimação. Ele não se incomoda com mudanças e gosta da minha música."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Ter que ouvir músicas chatas. Se a música não consegue te transformar, ela é estática."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Criar novos remixes monstruosos. Adoro quando o meu som ganha vida e os monstros todos vão para a pista de dança."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Teoria da Música. Eu não fui bem só por sorte. Eu estudo e pratico o máximo que posso."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Qualquer coisa sem ritmo."
+      }
+    ],
+    "melhoresAmigas": [
+     {
+      "id": "todos",
+      "nome": "Tô junto com quem vibra no meu som!",
+      "foto": "imagens/imagensperfil/Holt.webp"
+     }
+    ],
+    "bonecas": [
+      { "nome": "Básicas", "foto": "imagens/imagens bonecas/HoltBasic.jpg" },
+      { "nome": "Make a Splash", "foto": "imagens/imagens bonecas/HoltSplash.jpg" }
+    ]
+  },
+  "jackson-jekyll": {
+    "nome": "Jackson Jekyll",
+    "especie": "Dr. e Sra. Jekyll",
+    "fotoPrincipal": "imagens/imagens personagens/Jackson_basic.webp",
+    "corTema": "#ffdb00",
+    "corFundoListras": [
+      "#ffdb00",
+      "#121013"
+    ],
+    "dadosRapidos": [
+     
+      {
+        "titulo": "Aniversário",
+        "texto": "30 de maio"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Norte-Americano"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gosto de coletes de tricô e roupas arrumadas, organizadas e abotoadas até em cima. Pode parecer meio quieto e sem graça, mas a última coisa que preciso na minha vida é mais barulho e chamar atenção."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Minha natureza dupla torna impossível eu ser totalmente confiável. Não é que eu não tente, mas é uma verdadeira loteria saber se vou conseguir cumprir ou não qualquer promessa que eu faça."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Amarelo"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Macarrão com queijo."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Ter que ouvir música alta com batida. Isso me faz perder a memória de curto prazo e a minha dignidade de longa data."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Crossfade, um camaleão. Ele consegue se misturar em qualquer situação e nunca chama atenção para si mesmo."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu sou até que bem atlético, não no nível de um lobisomem, claro, mas gosto de jogar basquete — quer dizer, caixote-quete — e videogames."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Ciência Maluca. Não sei o porquê; acho que está no meu sangue."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Educação Física de Desmorteados durante a semana de queimada."
+      }
+    ],
+    "melhoresAmigas": [
+       {
+        "id": "frankie-stein",
+        "nome": "Frankie Stein",
+        "foto": "imagens/imagensperfil/Frankie.png"
+      },
+      {
+        "id": "deuce-gorgon",
+        "nome": "Deuce Gorgon",
+        "foto": "imagens/imagensperfil/Deuce.png"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Gloom Beach", "foto": "imagens/imagens bonecas/JacksonGb.jpg" },
+      { "nome": "Between Classes", "foto": "imagens/imagens bonecas/JacksonBetween.jpg" },
+      { "nome": "Picnic Casket for 2", "foto": "imagens/imagens bonecas/JacksonPicnic.jpg" },
+      { "nome": "Freaky Fusion", "foto": "imagens/imagens bonecas/JacksonFusion.jpg" }
+    ]
+  },"spectra-vondergeist": {
+    "nome": "Spectra Vondergeist",
+    "especie": "Filha dos Fantasmas",
+    "fotoPrincipal": "imagens/imagens personagens/Spectra_basic.webp",
+    "corTema": "#9932CC",
+    "corFundoListras": [
+      "#7000af",
+      "#121013"
+    ],
+    "dadosRapidos": [
       
-      "bonecas":[
-           { "nome": "Básicas", "foto": "../imagens/imagens bonecas/FrankieBasic.jpg" },
-      { "nome": "Dawn of the Dance", "foto": "../imagens/imagens bonecas/FrankieDotd.jpg" },
-      { "nome": "Gloom Beach", "foto": "../imagens/imagens bonecas/FrankieGB.jpg" },
-      { "nome": "School's Out", "foto": "../imagens/imagens bonecas/FrankieSO.jpg" },
-      { "nome": "Dead Tired", "foto": "../imagens/imagens bonecas/FrankieDT.jpg" },
-      { "nome": "Killer Style", "foto": "../imagens/imagens bonecas/FrankieKS.jpg" },
-      { "nome": "Classroom", "foto": "../imagens/imagens bonecas/FrankieClassroom.jpg" },
-      { "nome": "Skull Shores", "foto": "../imagens/imagens bonecas/FrankieSkull.jpg" },
-      { "nome": "Skull Shores (Edição 2)", "foto": "../imagens/imagens bonecas/FrankieSkull2.jpg" },
-      { "nome": "Sweet 1600", "foto": "../imagens/imagens bonecas/FrankieSweet.jpg" },
-      { "nome": "Ghouls Rule", "foto": "../imagens/imagens bonecas/FrankieGhouls.jpg" },
-      { "nome": "I Heart Fashion", "foto": "../imagens/imagens bonecas/FrankieFashion.jpg" },
-      { "nome": "Skultimate Roller Maze", "foto": "../imagens/imagens bonecas/FrankieRoller.jpg" },
-      { "nome": "Scarily Ever After", "foto": "../imagens/imagens bonecas/FrankieFairytale.jpg" },
-      { "nome": "Scaris", "foto": "../imagens/imagens bonecas/FrankieScaris.jpg" },
-      { "nome": "Picture Day", "foto": "../imagens/imagens bonecas/FrankiePicture.jpg" },
-      { "nome": "Ghouls Alive!", "foto": "../imagens/imagens bonecas/FrankieAlive.jpg" },
-      { "nome": "Power Ghouls", "foto": "../imagens/imagens bonecas/FrankiePower.jpg" },
-      { "nome": "Make a Splash", "foto": "../imagens/imagens bonecas/FrankieSplash.jpg" },
-      { "nome": "13 Wishes", "foto": "../imagens/imagens bonecas/FrankieWishes.jpg" },
-      { "nome": "Ghoul Spirit", "foto": "../imagens/imagens bonecas/FrankieSpirit.jpg" },
-      { "nome": "Sweet Screams", "foto": "../imagens/imagens bonecas/FrankieSScreams.jpg" },
-      { "nome": "Coffin Bean", "foto": "../imagens/imagens bonecas/FrankieCoffin.jpg" },
-      { "nome": "Picnic Casket for 2", "foto": "../imagens/imagens bonecas/FrankiePicnic.jpg" },
-      { "nome": "Freaky Fusion", "foto": "../imagens/imagens bonecas/FrankieFusion.jpg" },
-      { "nome": "Freaky Fusion", "foto": "../imagens/imagens bonecas/FrankieFusion2.jpg" },
-      { "nome": "Geek Shriek", "foto": "../imagens/imagens bonecas/FrankieGeek.jpg" },
-      { "nome": "Original Ghouls Collection", "foto": "../imagens/imagens bonecas/FrankieOriginalGhouls.jpg" },
-      { "nome": "Freak Du Chic", "foto": "../imagens/imagens bonecas/FrankieChic.jpg" },
-      { "nome": "Frightfully Tall", "foto": "../imagens/imagens bonecas/FrankieTall.jpg" },
-      { "nome": "Great Scarrier Reef", "foto": "../imagens/imagens bonecas/FrankieScarrier.jpg" },
-      { "nome": "Budget Basic", "foto": "../imagens/imagens bonecas/FrankieBudgetBasic.jpg" },
-      { "nome": "Budget Sleepover", "foto": "../imagens/imagens bonecas/FrankieBudgetSleep.jpg" },
-      { "nome": "Designer Booo-Tique", "foto": "../imagens/imagens bonecas/FrankieBoooTique.jpg" },
-      { "nome": "Boo-Riginal Creeproductions", "foto": "../imagens/imagens bonecas/FrankieCreeproduction.jpg" },
-      { "nome": "Reel Drama", "foto": "../imagens/imagens bonecas/FrankieReelDrama.jpg" },
-      { "nome": "Stitched in Style (2023)", "foto": "../imagens/imagens bonecas/FrankieCollectors2.jpg" },
-      { "nome": "MH x Barbie (2025)", "foto": "../imagens/imagens bonecas/FrankieCollectors.jpg" },
-      { "nome": "Haunt Couture (2022)", "foto": "../imagens/imagens bonecas/FrankieHauntCouture2022.jpg" },
-      { "nome": "Midnight Runway (2023)", "foto": "../imagens/imagens bonecas/FrankieMidnightRunway2023.jpg" },
-      { "nome": "B&W (SDCC 2010)", "foto": "../imagens/imagens bonecas/FrankieSDCC.jpg" },
-      { "nome": "Ghostbusters (SDCC 2016)", "foto": "../imagens/imagens bonecas/FrankieSDCC2.jpg" },
-      { "nome": "Voltageous B&W (SDCC 2022)", "foto": "../imagens/imagens bonecas/FrankieSDCC3.jpg" }
-    ]
+        {
+        "titulo": "Aniversário",
+        "texto": "30 de outubro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Näo informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Seda, seda e mais seda, com apenas um toque de metal. Ela me permite flutuar livremente, com um pouquinho de chocalho. É um visual assustador, concorda?"
+      },
+      {
+        "titulo": "Curiosidade sinistra",
+        "texto": "Pois é, eu nunca parei pra pensar tanto nisso, porque eu não acho saudável focar tanto nas coisas erradas que alguém faz, principalmente quando comparadas com as coisas boas. Eu também não sou de fofocar, apesar de falarem o contrário."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Violeta"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Bolo Angel Food cake. É leve e cheio de doçura, muito parecido comigo."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando alguns monstros duvidam de informações secretas que tenho sobre o que acontece em Monster High. Ser a única pessoa que sabe de alguma coisa pode ser muito difícil."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Rhuen é minha furão fêmea fantasma. Sabia que o nome 'furão' veio do latim 'furottus', que significa 'pequeno ladrão'? É claro que você não sabia até eu te contar!"
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Divulgar algumas informações sigilosas para os alunos de Monster High."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Jornalismo."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Matemática. É tão séria e não dá brechas para interpretações."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "Todos amam\nSpectra V!",
+        "foto": "imagens/imagensperfil/Spectra.png"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "School's Out",
+      "foto": "../imagens/imagens bonecas/SpectraSO.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/SpectraDT.jpg"
+    },
+    {
+      "nome": "Dot Dead Gorgeous",
+      "foto": "../imagens/imagens bonecas/SpectraDDG.jpg"
+    },
+    {
+      "nome": "Picture Day",
+      "foto": "../imagens/imagens bonecas/SpectraPicture.jpg"
+    },
+    {
+      "nome": "Ghouls Alive!",
+      "foto": "../imagens/imagens bonecas/SpectraAlive.jpg"
+    },
+    {
+      "nome": "Power Ghouls",
+      "foto": "../imagens/imagens bonecas/SpectraPower.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/SpectraSplash.jpg"
+    },
+    {
+      "nome": "Ghouls' Night Out",
+      "foto": "../imagens/imagens bonecas/SpectraNight.jpg"
+    },
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/SpectraWishes.jpg"
+    },
+    {
+      "nome": "Ghoul Spirit",
+      "foto": "../imagens/imagens bonecas/SpectraSpirit.jpg"
+    },
+    {
+      "nome": "Haunted",
+      "foto": "../imagens/imagens bonecas/SpectraHaunted.jpg"
+    },
+    {
+      "nome": "Maul Monsteristas",
+      "foto": "../imagens/imagens bonecas/SpectraMonsteristas.jpg"
+    },
+    {
+      "nome": "Ghouls Getaway",
+      "foto": "../imagens/imagens bonecas/SpectraGetaway.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/SpectraCreeproduction.jpg"
+    },
+    {
+      "nome": "Midnight Runway",
+      "foto": "../imagens/imagens bonecas/SpectraMidnightRunway2023.jpg"
     }
+  ]
     
+  },
+  "abbey-bominable": {
+    "nome": "Abbey Bominable",
+    "especie": "Filha do Ieti",
+    "fotoPrincipal": "imagens/imagens personagens/Abbey.png",
+    "corTema": "#a3e5ff",
+    "corFundoListras": [
+      "#a3e5ff",
+      "#121013"
+    ],
+    "dadosRapidos": [
+       {
+        "titulo": "Aniversário",
+        "texto": "14 de dezembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": " Originária da região da Cordilheira do Himalaia"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Pelo. É prático para se misturar e para aparecer. Meu cristal de gelo especial, que também uso para perpetuar a frieza da minha casa."
+      },
+      {
+        "titulo": "Curiosidade sinistra",
+        "texto": "Não tenho tato. Em altitude, falar é gastar oxigênio. Então somos bem objetivos. Aqui embaixo estou sempre magoando alguém. Não quero chatear ninguém, mas às vezes acontece. Eu também sou fria, em todos os sentidos."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Azul gelo"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Queijo de ioque e panquecas."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "O ritual de namoro. Não entendo essa coisa de fazer pose e charme para conquistar o garoto... Não parece uma atitude decente."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Shiver, minha mamute de lã. Ela não se magoa facilmente."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Snowboard é muito legal!"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Matemática. Números são como uma montanha por debaixo da neve."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Teatro"
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "frankie-stein",
+        "nome": "Frankie Stein",
+        "foto": "imagens/imagensperfil/Frankie.png"
+      },
+      {
+        "id": "lagoona-blue",
+        "nome": "Lagoona Blue",
+        "foto": "imagens/imagensperfil/Lagoona.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "School's Out",
+      "foto": "../imagens/imagens bonecas/AbbeySO.jpg"
+    },
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/AbbeyDT.jpg"
+    },
+    {
+      "nome": "Classroom",
+      "foto": "../imagens/imagens bonecas/AbbeyClassroom.jpg"
+    },
+    {
+      "nome": "Skull Shores",
+      "foto": "../imagens/imagens bonecas/AbbeySkull.jpg"
+    },
+    {
+      "nome": "Dot Dead Gorgeous",
+      "foto": "../imagens/imagens bonecas/AbbeyDDG.jpg"
+    },
+    {
+      "nome": "Ghouls Rule",
+      "foto": "../imagens/imagens bonecas/AbbeyGhouls.jpg"
+    },
+    {
+      "nome": "I Heart Fashion",
+      "foto": "../imagens/imagens bonecas/AbbeyFashion.jpg"
+    },
+    {
+      "nome": "Skultimate Roller Maze",
+      "foto": "../imagens/imagens bonecas/AbbeyRoller.jpg"
+    },
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/AbbeyScaris.jpg"
+    },
+    {
+      "nome": "Picture Day",
+      "foto": "../imagens/imagens bonecas/AbbeyPicture.jpg"
+    },
+    {
+      "nome": "Music Festival",
+      "foto": "../imagens/imagens bonecas/AbbeyMusic.jpg"
+    },
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/AbbeyWishes.jpg"
+    },
+    {
+      "nome": "Art Class",
+      "foto": "../imagens/imagens bonecas/AbbeyArt.jpg"
+    },
+    {
+      "nome": "Sweet Screams",
+      "foto": "../imagens/imagens bonecas/AbbeySScreams.jpg"
+    },
+    {
+      "nome": "Coffin Bean",
+      "foto": "../imagens/imagens bonecas/AbbeyCoffin.jpg"
+    },
+    {
+      "nome": "Geek Shriek",
+      "foto": "../imagens/imagens bonecas/AbbeyGeek.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/AbbeyCreeproduction.jpg"
+    },
+     {
+      "nome": "Collectors (2017)",
+      "foto": "../imagens/imagens bonecas/AbbeyCollectors.jpg"
+    }
+    ]
+  },
+  "clawd-wolf": {
+    "nome": "Clawd Wolf",
+    "especie": "Filho do Lobisomem",
+    "fotoPrincipal": "imagens/imagens personagens/Clawd_basic.webp",
+    "corTema": "#008B8B",
+    "corFundoListras": [
+      "#008B8B",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "9 de fevereiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Norte-Americano"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Casual à la Clawdeen... Eu seria burro se não ouvisse os conselhos de moda que ela me dá."
+      },
+      {
+        "titulo": "Curiosidade sinistra",
+        "texto": "Eu troco MUITO de pelo. Quando eu saio do chuveiro, minha família pode dizer que é a única que tem uma banheira felpuda. Eu também me penteio com uma escova para fiapos para evitar o trabalho depois."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "azul-petróleo"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Bife, muito bife."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Monstros que acham que os jogadores de futebol são burros. Eu posso comparar minhas notas com qualquer um... OK, menos com a Ghoulia Yelps : )"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Uma buldogue gárgula chamada Rockseena. Ela é minha fã número 1."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu adoro futebol americano. Eu gosto do treino, da estratégia, da competição e da atmosfera do dia do jogo. É o esporte perfeito."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Biologia Monstrecular. Eu quero trabalhar com medicina do esporte quando não for mais atleta."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Saúde do Lar. Sério, eu sou capaz de queimar até água."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "O líder do bando não\npode ter favoritos.",
+        "foto": "imagens/imagensperfil/Clawd.png"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "School's Out",
+      "foto": "../imagens/imagens bonecas/ClawdSO.jpg"
+    },
+    {
+      "nome": "Sweet 1600",
+      "foto": "../imagens/imagens bonecas/ClawdSweet.jpg"
+    },
+    {
+      "nome": "Music Festival",
+      "foto": "../imagens/imagens bonecas/ClawdMusic.jpg"
+    },
+    {
+      "nome": "A Pack of Trouble",
+      "foto": "../imagens/imagens bonecas/Clawdtrouble.jpg"
+    },
+    {
+      "nome": "Scarnival",
+      "foto": "../imagens/imagens bonecas/ClawdScarnival.jpg"
+    },
+    {
+      "nome": "Howliday Love",
+      "foto": "../imagens/imagens bonecas/ClawdHowliday.jpg"
+    }
+    ]
+  }
 }
-  

@@ -1497,64 +1497,84 @@ nav {
    ESTILOS DA PÁGINA DE PERFIL DE PERSONAGEM
    ========================================================================== */
 
+/* ==========================================================================
+   ESTILOS DA PÁGINA DE PERFIL DE PERSONAGEM (CÓDIGO COMPLETO UNIFICADO)
+   ========================================================================== */
+
+* { box-sizing: border-box; }
+
+body { 
+    background-color: var(--cor-fundo); 
+    color: #fff; 
+    font-family: 'Inter', 'Segoe UI', sans-serif; 
+    margin: 0; 
+    padding: 20px; 
+}
+
+/* Container do perfil com a decoração de degradê original */
 .container-perfil {
     max-width: 1200px;
-    margin: 40px auto;
-    padding: 0 20px;
+    margin: 80px auto 40px auto; 
+    background: radial-gradient(circle at top right, #1b0d1d, #1a0d27);
+    border-radius: 30px;
+    padding: 40px; 
     display: flex;
     flex-direction: column;
     gap: 40px;
+    animation: fadeIn 0.8s ease-out;
 }
 
-.botao-voltar {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    color: var(--texto);
-    text-decoration: none;
-    font-weight: 500;
-    transition: color 0.3s ease, transform 0.3s ease;
-    width: fit-content;
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
 }
 
-.botao-voltar:hover {
-    color: var(--rosa-principal);
-    transform: translateX(-5px);
-}
-
-.botao-voltar svg {
-    width: 24px;
-    height: 24px;
-    stroke: currentColor;
-}
-
+/* Layout Superior */
 .conteudo-superior {
     display: flex;
-    flex-wrap: wrap;
-    gap: 40px;
+    gap: 28px;
     align-items: flex-start;
+    justify-content: space-between;
 }
 
 .bloco-foto-destaque {
-    flex: 1;
-    min-width: 300px;
+    flex: 0 0 38%;
+    max-width: 420px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
+.bloco-informacoes {
+    flex: 1 1 58%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* ==========================================================================
+   MOLDURA NEON E EFEITO LASER
+   ========================================================================== */
 
 .moldura-neon-foto {
     width: 300px;
     height: 450px;
     border-radius: 20px;
     padding: 10px;
-    background: linear-gradient(135deg, #E830D6 0%, #121013 100%); /* Gradiente padrão */
+    background: linear-gradient(135deg, var(--cor-principal) 0%, #121013 100%);
     position: relative;
     overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 0 0 25px rgba(232, 48, 214, 0.4);
+    box-shadow: 0 0 25px var(--cor-principal-clara);
+    transition: transform 0.6s var(--ease-out-back), box-shadow 0.6s ease, filter 0.6s ease;
+}
+
+.moldura-neon-foto:hover {
+    transform: scale(1.03) rotate(-2deg);
+    box-shadow: 0 0 30px var(--cor-principal);
+    filter: brightness(1.1);
 }
 
 .moldura-neon-foto::before {
@@ -1562,33 +1582,39 @@ nav {
     position: absolute;
     inset: 0;
     border-radius: 20px;
-    padding: 3px; /* Espessura da borda */
-    background: conic-gradient(from var(--angle), var(--rosa-principal), #ff39de, #ff00aa, var(--rosa-principal));
+    padding: 3px; 
+    
+    /* CORREÇÃO: Tiramos os tons de rosa fixos (#ff39de e #ff00aa). 
+       Agora o gradiente usa apenas a variável do personagem, eliminando a linha rosa intrusa! */
+    background: conic-gradient(
+        from var(--angle), 
+        var(--cor-principal), 
+        var(--cor-principal-clara), 
+        var(--cor-principal)
+    );
+    
     mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
     -webkit-mask-composite: xor;
     mask-composite: exclude;
     animation: laserRotate 4s linear infinite;
 }
-
 @keyframes laserRotate {
     to { --angle: 360deg; }
 }
 
+#foto-personagem,
 .moldura-neon-foto img {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
     border-radius: 15px;
     filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.5));
+    display: block;
 }
 
-.bloco-informacoes {
-    flex: 2;
-    min-width: 300px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
+/* ==========================================================================
+   CABEÇALHO DO PERFIL & TAGS
+   ========================================================================== */
 
 .cabecalho-perfil {
     display: flex;
@@ -1597,9 +1623,9 @@ nav {
 }
 
 .tag-especie {
-    background: rgba(232, 48, 214, 0.15);
-    border: 1px solid var(--rosa-principal);
-    color: var(--rosa-principal);
+    background: var(--cor-principal-clara);
+    border: 1px solid var(--cor-principal);
+    color: var(--cor-principal);
     padding: 6px 16px;
     border-radius: 15px;
     font-size: 0.85rem;
@@ -1612,16 +1638,20 @@ nav {
     font-size: 3rem;
     font-weight: 700;
     color: white;
-    text-shadow: 0 0 10px rgba(232, 48, 214, 0.2);
+    text-shadow: 0 0 10px var(--cor-principal-clara);
 }
 
 .rotulo-resumo {
     font-size: 0.9rem;
-    color: var(--texto);
+    color: var(--texto-secundario);
     text-transform: uppercase;
     letter-spacing: 1px;
     margin-top: 10px;
 }
+
+/* ==========================================================================
+   GRID DE TRÊS COLUNAS (INFO RÁPIDA)
+   ========================================================================== */
 
 .grid-tres-colunas {
     display: grid;
@@ -1629,55 +1659,83 @@ nav {
     gap: 20px;
 }
 
-.info-card {
-    background: var(--fundobusca);
-    border: 1px solid var(--borda-suave);
-    border-radius: 12px;
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
+/* ==========================================================================
+   SEÇÃO DE DETALHES FLUXO (NIVELADOS E SEM LINHA FIXA)
+   ========================================================================== */
+
+/* Grid elástico que força os blocos vizinhos a terem o mesmo tamanho vertical */
+.colunas-detalhes-layout {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    align-items: stretch; 
 }
 
-.info-label {
-    font-size: 0.8rem;
-    color: var(--texto);
+.coluna-cards-fluxo,
+.coluna-cards-direita-fluxo {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 100%;
+}
+
+/* Cards com altura elástica */
+.info-card,
+.card-informacao-item {
+    background: var(--glass);
+    backdrop-filter: blur(10px);
+    border: var(--border-glass);
+    border-radius: 20px; 
+    padding: 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 0; 
+    height: 100%; 
+    transition: transform 0.5s var(--ease-smooth), background 0.4s ease, border-color 0.4s ease;
+}
+
+.info-card:hover,
+.card-informacao-item:hover {
+    transform: translateY(-5px);
+    background: rgba(255, 255, 255, 0.06);
+    border-color: var(--cor-principal);
+}
+
+/* Títulos limpos sem a linha rosa irritante de fundo */
+.info-label,
+.titulo-info-card {
+    color: var(--cor-principal);
+    font-size: 0.7rem;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    border-bottom: none !important; 
+    padding-bottom: 0 !important;
+    transition: letter-spacing 0.4s ease;
+}
+
+.info-card:hover .info-label,
+.card-informacao-item:hover .titulo-info-card { 
+    letter-spacing: 3.5px; 
 }
 
 .info-value {
-    font-size: 1.1rem;
+    font-size: 1.05rem;
+    line-height: 1.5; 
     color: white;
-    font-weight: 600;
+    font-weight: 500;
 }
 
-.colunas-detalhes-layout {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 30px;
-}
-
-.coluna-cards-fluxo {
-    flex: 1;
-    min-width: 250px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.coluna-cards-direita-fluxo {
-    flex: 1;
-    min-width: 250px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
+/* ==========================================================================
+   BLOCO MELHORES AMIGAS
+   ========================================================================== */
 
 .bloco-melhores-amigas {
-    background: var(--fundobusca);
-    border: 1px solid var(--borda-suave);
-    border-radius: 12px;
+    background: var(--glass);
+    backdrop-filter: blur(10px);
+    border: var(--border-glass);
+    border-radius: 20px;
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -1690,12 +1748,27 @@ nav {
     font-weight: 600;
 }
 
+#grid-melhores-amigas,
 .grid-amigas-fotos {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 12px;
+    align-items: start;
+    justify-items: center;
+    padding: 8px 4px;
 }
 
+.avatar-amiga-item-link { 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    text-decoration: none; 
+    color: inherit; 
+    width: 100%; 
+    max-width: 120px; 
+}
+
+.avatar-amiga-item, 
 .amiga-card {
     display: flex;
     flex-direction: column;
@@ -1703,317 +1776,154 @@ nav {
     gap: 8px;
 }
 
-.amiga-foto {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 2px solid var(--rosa-principal);
-    box-shadow: 0 0 10px rgba(232, 48, 214, 0.3);
+.moldura-circulo-amiga { 
+    width: 80px; 
+    height: 80px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+    display: inline-flex; 
+    align-items: center; 
+    justify-content: center; 
+    background: #fff; 
+    border: 2px solid var(--cor-principal);
+    box-shadow: 0 0 10px var(--cor-principal-clara);
+    transform-origin: center bottom; 
+    transition: transform 0.9s cubic-bezier(0.175, 0.885, 0.32, 1.275), border-color 0.4s ease, box-shadow 0.6s ease;
 }
 
-.amiga-nome {
-    font-size: 0.85rem;
-    color: var(--texto);
-    text-align: center;
+.moldura-circulo-amiga:hover {
+    transform: scale(1.08) rotate(4deg);
+    border-color: #fff;
+    box-shadow: 0 0 20px var(--cor-principal);
+    backface-visibility: hidden;
 }
+
+.moldura-circulo-amiga img, 
+.amiga-foto, 
+.amiga-foto-placeholder { 
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+    display: block;
+}
+
+.amiga-foto-placeholder {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--cor-principal);
+    background: rgba(0, 0, 0, 0.06);
+}
+
+.nome-amiga-texto, 
+.amiga-nome { 
+    font-size: 0.9rem; 
+    text-align: center; 
+    color: var(--texto-secundario); 
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    width: 100%; 
+    font-weight: 500;
+}
+
+/* ==========================================================================
+   SEÇÃO DE BONECAS NO RODAPÉ
+   ========================================================================== */
 
 .secao-bonecas-rodape {
     margin-top: 40px;
     padding-top: 40px;
-    border-top: 1px solid var(--borda-suave);
+    border-top: 1px solid var(--border-glass);
 }
 
 .titulo-secao-bonecas {
     font-family: "Lato", sans-serif;
     font-size: 2rem;
     font-weight: 700;
-    color: var(--rosa-principal);
+    color: var(--cor-principal);
     text-align: center;
     margin-bottom: 30px;
-    text-shadow: 0 0 10px rgba(232, 48, 214, 0.2);
+    text-shadow: 0 0 10px var(--cor-principal-clara);
 }
 
-.grid-bonecas-cards {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    gap: 25px;
-}
-
-.boneca-card {
-    background: var(--fundobusca);
-    border: 1px solid var(--borda-suave);
-    border-radius: 12px;
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-    text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.boneca-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4), 0 0 15px rgba(232, 48, 214, 0.3);
-}
-
-.boneca-foto {
-    max-width: 100%;
-    height: 200px; /* Altura fixa para consistência */
-    object-fit: contain;
-    border-radius: 8px;
-    filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.3));
-}
-
-.boneca-nome {
-    font-size: 1rem;
-    color: white;
-    font-weight: 500;
-}
-
-.no-data {
-    color: var(--texto);
-    font-style: italic;
-    text-align: center;
-    width: 100%;
-    padding: 10px;
-}
-
-/* Ajustes responsivos para a página de perfil */
-@media (max-width: 768px) {
-    .container-perfil {
-        margin: 20px auto;
-        padding: 0 15px;
-        gap: 25px;
-    }
-
-    .conteudo-superior {
-        flex-direction: column;
-        gap: 25px;
-    }
-
-    .bloco-foto-destaque {
-        min-width: unset;
-        width: 100%;
-    }
-
-    .moldura-neon-foto {
-        width: 250px;
-        height: 375px;
-    }
-
-    .bloco-informacoes {
-        min-width: unset;
-        width: 100%;
-        gap: 15px;
-    }
-
-    .cabecalho-perfil h1 {
-        font-size: 2.5rem;
-    }
-
-    .grid-tres-colunas {
-        grid-template-columns: 1fr;
-    }
-
-    .colunas-detalhes-layout {
-        flex-direction: column;
-        gap: 25px;
-    }
-
-    .coluna-cards-fluxo,
-    .coluna-cards-direita-fluxo {
-        min-width: unset;
-        width: 100%;
-    }
-
-    .titulo-secao-bonecas {
-        font-size: 1.8rem;
-    }
-
-    .grid-bonecas-cards {
-        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-    }
-
-    .boneca-foto {
-        height: 150px;
-    }
-}
-/* Tamanho e cor padrão dos vetores (Desativados) */
-.icone-vetor {
-    width: 20px;
-    height: 20px;
-    fill: #a0a0ba; /* Cor cinza/roxa clarinha apagada do seu print */
-    transition: fill 0.2s ease;
-}
-
-/* Efeito ao passar o mouse */
-.btn-acao:hover {
-    transform: scale(1.1);
-    background: #3f3f52;
-}
-
-/* --- ESTADOS ATIVOS (Quando clicados) --- */
-
-/* Check ativo: Fundo roxo/lilás do print com o ícone branco */
-.btn-check.ativo {
-    background: #b5b5d3 !important; 
-}
-.btn-check.ativo .icone-vetor {
-    fill: #ffffff !important;
-}
-
-/* Coração ativo: Fundo rosa Monster High com o coração branco/rosa */
-.btn-favorito.ativo {
-    background: var(--rosa-principal) !important;
-}
-.btn-favorito.ativo .icone-vetor {
-    fill: #ffffff !important;
-}
-
-
-
-/* perfil*/
-:root {
-    --cor-tema: #e5007d;
-    --cor-fundo: #0b0a0c;
-    --glass: rgba(255, 255, 255, 0.03);
-    --border-glass: 1px solid rgba(255, 255, 255, 0.08);
-    /* Curvas de suavização profissionais */
-    --ease-out-back: cubic-bezier(0.34, 1.56, 0.64, 1);
-    --ease-smooth: cubic-bezier(0.23, 1, 0.32, 1);
-}
-
-* { box-sizing: border-box; }
-
-body { background-color: var(--cor-fundo); color: #fff; font-family: 'Inter', 'Segoe UI', sans-serif; margin: 0; padding: 20px; }
-
-.container-perfil {
-    max-width: 1100px;
-    margin: 80px auto 40px auto; 
-    background: radial-gradient(circle at top right, #1b0d1d, #1a0d27);
-    border-radius: 30px;
-    animation: fadeIn 0.8s ease-out;
-}
-
-/* Layout Superior */
-.conteudo-superior { display: grid; grid-template-columns: 320px 1fr; gap: 50px; margin-bottom: 40px; }
-
-/* Foto Principal com rotação suave */
-.moldura-neon-foto {
-    padding: 3px;
-    border-radius: 24px;
-    background: linear-gradient(145deg, var(--cor-tema), transparent);
-    transition: transform 0.6s var(--ease-out-back);
-}
-
-.moldura-neon-foto:hover {
-    transform: scale(1.03) rotate(-2deg);
-    box-shadow: 0 0 30px var(--cor-tema);
-    filter: brightness(1.1);
-}
-
-#foto-personagem { width: 100%; border-radius: 22px; display: block; }
-
-/* Cards Informação - Hover muito mais macio */
-.card-informacao-item {
-    background: var(--glass);
-    backdrop-filter: blur(10px);
-    border: var(--border-glass);
-    padding: 20px;
-    border-radius: 20px;
-    margin-bottom: 15px;
-    transition: transform 0.5s var(--ease-smooth), background 0.4s ease, border-color 0.4s ease;
-}
-
-.card-informacao-item:hover {
-    transform: translateY(-5px);
-    background: rgba(255, 255, 255, 0.06);
-    border-color: rgba(255, 255, 255, 0.15);
-}
-
-.titulo-info-card {
-    color: var(--cor-tema);
-    font-size: 0.65rem;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    margin-bottom: 8px;
-    font-weight: 700;
-    transition: letter-spacing 0.4s ease;
-}
-
-.card-informacao-item:hover .titulo-info-card { letter-spacing: 4px; }
-
-/* Blocos Amigas - MANTIDO INTOCADO */
-.bloco-melhores-amigas { background: var(--glass); padding: 20px; border-radius: 20px; border: var(--border-glass); }
-.grid-amigas-fotos { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 20px; }
-.moldura-circulo-amiga { max-width: 65px; aspect-ratio: 1 / 1; border-radius: 50%; border: 2px solid var(--cor-tema); overflow: hidden; margin: 0 auto; }
-.moldura-circulo-amiga {
-    max-width: 65px;
-    aspect-ratio: 1 / 1;
-    border-radius: 50%;
-    border: 2px solid var(--cor-tema);
-    overflow: hidden;
-    margin: 0 auto;
-    
-    /* transform-origin faz o giro ser mais natural (levemente deslocado do centro) */
-    transform-origin: center bottom; 
-    
-    /* Easing customizado para um movimento 'orgânico' */
-    transition: transform 0.9s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.6s ease;
-}
-
-.moldura-circulo-amiga:hover {
-    /* O 'backface-visibility' ajuda a tirar a trepidação. 
-       O giro de 4 graus é quase imperceptível, mas dá vida.
-    */
-    transform: scale(1.08) rotate(4deg);
-    border-color: #fff;
-    box-shadow: 0 0 20px rgba(229, 0, 125, 0.4);
-    backface-visibility: hidden;
-}
-.moldura-circulo-amiga img { width: 100%; height: 100%; object-fit: cover; }
-.nome-amiga-texto { font-size: 0.65rem; margin-top: 8px; line-height: 1.1; color: #fff; font-weight: 500; }
-
-:root {
-    --cor-tema: #e5007d;
-    --cor-fundo: #0b0a0c;
-    --glass: rgba(255, 255, 255, 0.03);
-    --border-glass: 1px solid rgba(255, 255, 255, 0.08);
-    --ease-out-back: cubic-bezier(0.34, 1.56, 0.64, 1);
-    --ease-smooth: cubic-bezier(0.23, 1, 0.32, 1);
-}
-
-/* Container do Grid de Bonecas no Rodapé */
-#grid-bonecas { 
+#grid-bonecas, 
+.grid-bonecas-cards { 
     display: grid; 
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); 
     gap: 25px; 
     margin-top: 30px; 
 }
 
-/* Card Principal da Boneca */
-.card-boneca {
-    position: relative;
-    background-color: #1a171e; /* Tom sólido escuro do modelo */
-    border: 1px solid rgba(255, 255, 255, 0.05);
+.card-boneca, 
+.boneca-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-card);
     border-radius: 24px;
-    padding: 20px;
+    padding: 25px 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    transition: transform 0.5s var(--ease-smooth), box-shadow 0.4s ease;
+    position: relative;
+    overflow: hidden;
+    box-shadow: var(--shadow-card);
+    opacity: 0;
+    transform: translateY(40px);
+    transition:
+        opacity 0.6s cubic-bezier(0.25, 1, 0.5, 1),
+        transform 0.6s cubic-bezier(0.25, 1, 0.5, 1),
+        border-color 0.4s ease,
+        background 0.4s ease,
+        box-shadow 0.4s ease;
 }
 
-.card-boneca:hover {
-    transform: translateY(-8px);
-    border-color: var(--cor-tema);
-    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6), 0 0 15px rgba(229, 0, 125, 0.15);
+.card-boneca::after,
+.boneca-card::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -150%;
+    width: 60%;
+    height: 100%;
+    background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.08) 50%, transparent);
+    transform: skewX(-25deg);
+    pointer-events: none;
 }
 
-/* Área Quadrada Branca da Foto */
+.card-boneca.visivel,
+.boneca-card.visivel {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.card-boneca:hover, 
+.boneca-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    background: var(--bg-card-hover);
+}
+
+.card-boneca:hover::after,
+.boneca-card:hover::after {
+    left: 100%;
+    transition: all 0.8s ease;
+}
+
+.card-boneca:hover, 
+.boneca-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    background: var(--bg-card-hover);
+    border-color: var(--cor-principal); /* Usa a variável automática! */
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6), 0 0 15px var(--cor-principal-clara);
+}
+
+/* Quando passar o mouse no card, o título assume a cor do personagem atual automaticamente */
+.card-boneca:hover .card-boneca-nome,
+.boneca-card:hover .boneca-nome { 
+    color: var(--cor-principal); /* Chega de regras separadas por body */
+}
 .card-boneca-img-container {
     width: 100%;
     aspect-ratio: 1 / 1;
@@ -2026,18 +1936,63 @@ body { background-color: var(--cor-fundo); color: #fff; font-family: 'Inter', 'S
     margin-bottom: 16px;
 }
 
-.card-boneca-img-container img {
+.card-boneca-img-container img, 
+.boneca-foto {
     width: 90%;
     height: 90%;
+    max-width: 100%;
     object-fit: contain;
     transition: transform 0.5s var(--ease-out-back);
 }
 
-.card-boneca:hover .card-boneca-img-container img { 
-    transform: scale(1.06); 
+.card-boneca:hover .card-boneca-img-container img,
+.boneca-card:hover .boneca-foto { 
+    transform: scale(1.08) translateY(-5px);
+    filter: drop-shadow(0 15px 25px var(--cor-principal-clara)) brightness(1.05);
 }
 
-/* Linha com os Botões redondos de Ações (Check / Favorito) */
+.card-boneca-nome, 
+.boneca-nome {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin: 0;
+    line-height: 1.2;
+    transition: color 0.3s ease;
+}
+
+body.perfil-draculaura .card-boneca:hover .card-boneca-nome { color: #ff4dc3 !important; }
+body.perfil-frankie .card-boneca:hover .card-boneca-nome { color: #20B2AA !important; }
+body.perfil-clawdeen .card-boneca:hover .card-boneca-nome { color: #a35cff !important; }
+
+.card-boneca-colecao {
+    font-size: 0.9rem;
+    color: var(--texto-secundario);
+    margin: 6px 0 16px 0;
+    font-weight: 500;
+}
+
+.card-boneca-link-explorar {
+    font-size: 0.85rem;
+    font-weight: 800;
+    color: var(--texto-secundario);
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-top: auto; 
+    transition: color 0.3s ease, letter-spacing 0.3s ease;
+}
+
+.card-boneca-link-explorar:hover {
+    color: var(--cor-principal);
+    text-shadow: 0 0 10px var(--cor-principal-clara);
+    letter-spacing: 2.5px;
+}
+
+/* ==========================================================================
+   BOTÕES DE AÇÃO
+   ========================================================================== */
+
 .card-boneca-acoes {
     display: flex;
     gap: 12px;
@@ -2045,7 +2000,8 @@ body { background-color: var(--cor-fundo); color: #fff; font-family: 'Inter', 'S
     justify-content: center;
 }
 
-.btn-acao-card {
+.btn-acao-card, 
+.btn-acao {
     background-color: #25222b;
     border: none;
     border-radius: 50%;
@@ -2055,57 +2011,214 @@ body { background-color: var(--cor-fundo); color: #fff; font-family: 'Inter', 'S
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    color: var(--icone-desativado);
     transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
-.btn-acao-card:hover {
+.btn-acao-card:hover, 
+.btn-acao:hover {
     background-color: #322e3a;
     transform: scale(1.1);
 }
 
-.icone-vetor-card {
+.icone-vetor-card, 
+.icone-vetor {
     width: 18px;
     height: 18px;
     fill: #7a7682;
     transition: fill 0.3s ease;
 }
 
-.btn-favorito:hover .icone-vetor-card { fill: var(--cor-tema); }
-
-/* Tipografia interna do Card */
-.card-boneca-nome {
-    font-size: 1.3rem;
-    font-weight: 700;
-    color: #ffffff;
-    margin: 0;
-    line-height: 1.2;
-    transition: color 0.3s ease;
+.btn-favorito:hover .icone-vetor-card {
+    fill: var(--cor-principal) !important;
 }
 
-.card-boneca:hover .card-boneca-nome {
-    color: var(--cor-tema);
+.btn-check.ativo {
+    background: #b5b5d3 !important; 
+}
+.btn-check.ativo .icone-vetor,
+.btn-check.ativo .icone-vetor-card {
+    fill: #ffffff !important;
 }
 
-.card-boneca-colecao {
-    font-size: 0.9rem;
-    color: var(--texto);
-    margin: 6px 0 16px 0;
-    font-weight: 500;
+.btn-favorito.ativo {
+    background: var(--cor-principal) !important;
+}
+.btn-favorito.ativo .icone-vetor,
+.btn-favorito.ativo .icone-vetor-card {
+    fill: #ffffff !important;
 }
 
-/* Link de Exploração Inferior */
-.card-boneca-link-explorar {
-    font-size: 0.85rem;
-    font-weight: 800;
-    color: #ffffff;
+/* Garante que o fundo do ícone seja sempre transparente, sumindo com o quadrado */
+.btn-acao-card .icone-vetor-card,
+.btn-acao-card .icone-vetor {
+    background: transparent !important;
+}
+
+/* Quando o botão de check estiver ativo, ele pinta o círculo e deixa o check branco */
+.btn-check.ativo {
+    background: var(--cor-principal) !important;
+}
+
+.btn-check.ativo .icone-vetor-card,
+.btn-check.ativo .icone-vetor {
+    fill: #ffffff !important;
+}
+body.perfil-frankie .btn-acao-card.ativo .icone-vetor-card { fill: #ffffff !important; background: #32d1c4; }
+body.perfil-clawdeen .btn-acao-card.ativo .icone-vetor-card { fill: #ffffff !important; background: #a35cff; }
+
+/* ==========================================================================
+   BOTÃO VOLTAR
+   ========================================================================== */
+
+.botao-voltar {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 14px;
+    margin-top: 12px;
+    margin-bottom: 22px;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    color: var(--texto-secundario);
     text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    margin-top: auto; /* Empurra o botão para a base do card */
-    transition: color 0.3s ease, letter-spacing 0.3s ease;
+    font-weight: 500;
+    transition: transform 180ms ease, background 180ms ease, border-color 180ms ease, color 180ms ease;
+    width: fit-content;
 }
 
-.card-boneca-link-explorar:hover {
-    color: var(--cor-tema);
-    letter-spacing: 2.5px;
+.botao-voltar svg {
+    width: 22px;
+    height: 22px;
+    stroke: currentColor;
+}
+
+.botao-voltar:hover {
+    background: rgba(255, 255, 255, 0.14);
+    color: var(--cor-principal);
+    transform: translateX(-4px);
+}
+
+.botao-voltar:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.18);
+}
+
+.no-data {
+    color: var(--texto-secundario);
+    font-style: italic;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+}
+
+/* ==========================================================================
+   RESPONSIVIDADE
+   ========================================================================== */
+
+@media (max-width: 900px) {
+    .conteudo-superior { gap: 20px; }
+    .bloco-foto-destaque { flex: 0 0 45%; max-width: none; }
+    .bloco-informacoes { flex: 1 1 55%; }
+}
+
+@media (max-width: 768px) {
+    .container-perfil { margin: 20px auto; padding: 20px; gap: 25px; }
+    .conteudo-superior { flex-direction: column; gap: 25px; }
+    .bloco-foto-destaque, .bloco-informacoes { min-width: unset; width: 100%; flex: 1 1 100%; }
+    .moldura-neon-foto { width: 250px; height: 375px; margin: 0 auto; }
+    .cabecalho-perfil h1 { font-size: 2.5rem; }
+    .grid-tres-colunas { grid-template-columns: 1fr; }
+    .colunas-detalhes-layout { grid-template-columns: 1fr; gap: 25px; }
+    .coluna-cards-fluxo, .coluna-cards-direita-fluxo { min-width: unset; width: 100%; }
+    .titulo-secao-bonecas { font-size: 1.8rem; }
+    .grid-bonecas-cards, #grid-bonecas { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); }
+}
+
+@media (max-width: 600px) {
+    #grid-melhores-amigas, .grid-amigas-fotos { grid-template-columns: repeat(auto-fit, minmax(84px, 1fr)); gap: 10px; }
+    .moldura-circulo-amiga { width: 64px; height: 64px; }
+    .nome-amiga-texto, .amiga-nome { font-size: 0.85rem; }
+    main.container-perfil { padding-top: 72px; }
+}
+
+/* ==========================================================================
+   VARIÁVEIS CENTRALIZADAS NO FINAL DA PÁGINA (CONFORME PEDIDO)
+   ========================================================================== */
+
+:root {
+    --cor-principal: #E830D6;
+    --cor-principal-clara: rgba(232, 48, 214, 0.18);
+    --cor-fundo: #0b0a0c;
+
+    --bg-card: linear-gradient(180deg, #1a121d 0%, #0d060e 100%);
+    --bg-card-hover: #1d1221;
+    --border-card: rgba(196, 184, 210, 0.05);
+    --shadow-card: 0 2px 4px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.3), 0 20px 40px rgba(0, 0, 0, 0.4);
+    --texto-secundario: #C4B8D2;
+    --icone-desativado: rgba(196, 184, 210, 0.4);
+    
+    --glass: rgba(255, 255, 255, 0.03);
+    --border-glass: 1px solid rgba(255, 255, 255, 0.08);
+    --ease-out-back: cubic-bezier(0.34, 1.56, 0.64, 1);
+    --ease-smooth: cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+body.perfil-draculaura {
+    --cor-principal: #ff4dc3;
+    --cor-principal-clara: rgba(255, 77, 195, 0.18);
+}
+
+body.perfil-frankie {
+    --cor-principal: #32d1c4;
+    --cor-principal-clara: rgba(50, 209, 196, 0.18);
+}
+
+body.perfil-clawdeen {
+    --cor-principal: #a35cff;
+    --cor-principal-clara: rgba(163, 92, 255, 0.18);
+}
+
+body.perfil-Lagoona {
+    --cor-principal: #48D1CC;
+    --cor-principal-clara: #20B2AA;
+}
+
+body.perfil-cleo {
+    --cor-principal: #b9830d;
+    --cor-principal-clara: #6e4904;
+}
+
+body.perfil-Deuce {
+    --cor-principal: #4ae800;
+    --cor-principal-clara: #328f07;
+}
+
+body.perfil-Ghoulia {
+    --cor-principal: #ff0000;
+    --cor-principal-clara: #660000;
+}
+
+body.perfil-holt-hyde {
+    --cor-principal: #ff8c00;
+    --cor-principal-clara: #662507;
+}
+
+
+body.perfil-jackson {
+    --cor-principal: #ffdb00;
+    --cor-principal-clara: #aa8712;
+}
+
+
+body.perfil-spectra {
+    --cor-principal: #9932CC;
+    --cor-principal-clara: #7315a1;
+}
+
+
+body.perfil-abbey {
+    --cor-principal: #a3e5ff;
+    --cor-principal-clara: #47bdec;
 }

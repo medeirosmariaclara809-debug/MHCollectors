@@ -491,8 +491,8 @@ const bonecas = [
     // --- COLECÃO: GHOULS GETAWAY ---
     { nome: "Spectra Vondergeist", imagem: "../imagens/imagens bonecas/SpectraGetaway.jpg", genero: "Feminino", colecao: "Ghouls Getaway" },
     { nome: "Meowlody", imagem: "../imagens/imagens bonecas/MeowlodyGetaway.jpg", genero: "Feminino", colecao: "Ghouls Getaway" },
+     { nome: "Jinafire Long", imagem: "../imagens/imagens bonecas/JinafireGetaway.jpg", genero: "Feminino", colecao: "Ghouls Getaway" },
     { nome: "Jane Boolittle", imagem: "../imagens/imagens bonecas/JaneGetaway.jpg", genero: "Feminino", colecao: "Ghouls Getaway" },
-    { nome: "Spectra Vondergeist", imagem: "../imagens/imagens bonecas/SpectraGetaway.jpg", genero: "Feminino", colecao: "Ghouls Getaway" },
     { nome: "Elissabat", imagem: "../imagens/imagens bonecas/ElissabatGetaway.jpg", genero: "Feminino", colecao: "Ghouls Getaway" },
 
 
@@ -571,7 +571,7 @@ const bonecas = [
     // --- COLECÃO: REEL DRAMA ---
     { nome: "Draculaura ", imagem: "../imagens/imagens bonecas/DraculauraReelDrama.jpg", genero: "Feminino", colecao: "Reel Drama" },
     { nome: "Frankie Stein ", imagem: "../imagens/imagens bonecas/FrankieReelDrama.jpg", genero: "Feminino", colecao: "Reel Drama" },
-    { nome: "Clawdeen Wolf (", imagem: "../imagens/imagens bonecas/ClawdeenReelDrama.jpg", genero: "Feminino", colecao: "Reel Drama" },
+    { nome: "Clawdeen Wolf ", imagem: "../imagens/imagens bonecas/ClawdeenReelDrama.jpg", genero: "Feminino", colecao: "Reel Drama" },
     { nome: "Lagoona Blue ", imagem: "../imagens/imagens bonecas/LagoonaReelDrama.jpg", genero: "Feminino", colecao: "Reel Drama" },
     {nome: "Cleo de Nile ", imagem: "../imagens/imagens bonecas/CleoReelDrama.jpg", genero: "Feminino", colecao: "Reel Drama" },
 
@@ -707,7 +707,7 @@ const busca = document.getElementById('campo-busca');
 const selectCategoria = document.getElementById('filtro-categoria');
 const selectNomes = document.getElementById('filtro-nomes');
 const selectColecoes = document.getElementById('filtro-colecoes');
-const selectStatus = document.getElementById('filtro-status'); // Seleciona o novo filtro do HTML
+const selectStatus = document.getElementById('filtro-status');
 
 document.addEventListener("DOMContentLoaded", () => {
     // 1. Pega o termo de busca enviado pela URL (Ex: ?busca=DRACULAURA)
@@ -718,10 +718,13 @@ document.addEventListener("DOMContentLoaded", () => {
     if (termoEnviado && busca) {
         // Injeta o nome da monstrinha direto no seu campo-busca
         busca.value = termoEnviado.trim();
-        
-        // Executa a sua função para filtrar o grid na hora!
-        aplicarFiltrosCombinados();
     }
+    
+    // Configura os filtros baseado nos parâmetros da URL ao carregar a página inicialmente
+    configurarFiltrosIniciaisPorUrl();
+    
+    // Executa a renderização inicial
+    aplicarFiltrosCombinados();
 });
 
 function renderizar(lista) {
@@ -787,7 +790,7 @@ function atualizarContador(quantidade) {
 
 function aplicarFiltrosCombinados() {
     const categoria = selectCategoria ? selectCategoria.value : 'todos';
-    const statusSelecionado = selectStatus ? selectStatus.value : 'todos'; // Captura Checklist ou Wishlist
+    const statusSelecionado = selectStatus ? selectStatus.value : 'todos';
     const nomeSelecionado = selectNomes ? selectNomes.value : 'todos';
     const colecaoSelecionada = selectColecoes ? selectColecoes.value : 'todos';
     const termoBusca = busca ? busca.value.trim().toLowerCase() : '';
@@ -819,7 +822,7 @@ function aplicarFiltrosCombinados() {
         filtrados = filtrados.filter(b => b.genero === "Masculino");
     }
 
-    // 5. NOVO: Filtro Independente de Status (Checklist / Wishlist) baseado na foto
+    // 5. Filtro de Status (Checklist / Wishlist) baseado na foto
     if (statusSelecionado === "checklist") {
         const obtidas = JSON.parse(localStorage.getItem('mh-obtidas')) || [];
         filtrados = filtrados.filter(b => {
@@ -869,13 +872,43 @@ function gerarFiltrosDeNomes() {
     });
 }
 
+// ==========================================
+// MONITORAMENTO DOS EVENTOS DE INTERAÇÃO (Botoes e Inputs)
+// ==========================================
+
 if (busca) {
-    busca.addEventListener('input', aplicarFiltrosCombinados);
+    busca.addEventListener('input', () => {
+        aplicarFiltrosCombinados();
+        atualizarUrlFiltros();
+    });
 }
 
-// Escuta as mudanças no novo select de status
+if (selectCategoria) {
+    selectCategoria.addEventListener('change', () => {
+        aplicarFiltrosCombinados();
+        atualizarUrlFiltros();
+    });
+}
+
+if (selectNomes) {
+    selectNomes.addEventListener('change', () => {
+        aplicarFiltrosCombinados();
+        atualizarUrlFiltros();
+    });
+}
+
+if (selectColecoes) {
+    selectColecoes.addEventListener('change', () => {
+        aplicarFiltrosCombinados();
+        atualizarUrlFiltros();
+    });
+}
+
 if (selectStatus) {
-    selectStatus.addEventListener('change', aplicarFiltrosCombinados);
+    selectStatus.addEventListener('change', () => {
+        aplicarFiltrosCombinados();
+        atualizarUrlFiltros();
+    });
 }
 
 const btnAbrir = document.querySelector('.btn-menu-unico');
@@ -901,6 +934,7 @@ if (container) {
             if (selectNomes) {
                 selectNomes.value = primeiroNome;
                 aplicarFiltrosCombinados();
+                atualizarUrlFiltros();
                 document.querySelector('.perso-secao').scrollIntoView({ behavior: 'smooth' });
             }
             return;
@@ -911,6 +945,7 @@ if (container) {
             if (selectColecoes) {
                 selectColecoes.value = colecaoClicada;
                 aplicarFiltrosCombinados();
+                atualizarUrlFiltros();
                 document.querySelector('.perso-secao').scrollIntoView({ behavior: 'smooth' });
             }
             return;
@@ -922,7 +957,6 @@ if (container) {
         e.preventDefault();
         const card = btn.closest('.perso-card');
         
-        // Pega o caminho da foto e isola apenas o nome do arquivo final (ex: MissArgentinaeHorrorMovie.jpg)
         const caminhoImagem = card.getAttribute('data-foto') || '';
         const nomeArquivo = caminhoImagem.split('/').pop();
 
@@ -937,7 +971,6 @@ if (container) {
             }
             localStorage.setItem('mh-obtidas', JSON.stringify(obtidas));
             
-            // Se estiver filtrando pelo checklist, atualiza a tela na hora pro card sumir
             if (selectStatus && selectStatus.value === "checklist") {
                 aplicarFiltrosCombinados();
             }
@@ -954,7 +987,6 @@ if (container) {
             }
             localStorage.setItem('mh-favoritos', JSON.stringify(favoritos));
             
-            // Se estiver filtrando pela wishlist, atualiza a tela na hora pro card sumir
             if (selectStatus && selectStatus.value === "wishlist") {
                 aplicarFiltrosCombinados();
             }
@@ -991,6 +1023,51 @@ function atualizarEstadoVisualBotoes() {
     });
 }
 
+// ==========================================
+// FUNÇÕES DE GERENCIAMENTO DE HISTÓRICO E URL
+// ==========================================
+
+function atualizarUrlFiltros() {
+    const parametros = new URLSearchParams();
+
+    if (busca && busca.value.trim() !== "") {
+        parametros.set('busca', busca.value.trim());
+    }
+    if (selectCategoria && selectCategoria.value !== "todos") {
+        parametros.set('categoria', selectCategoria.value);
+    }
+    if (selectColecoes && selectColecoes.value !== "todos") {
+        parametros.set('colecao', selectColecoes.value);
+    }
+    if (selectNomes && selectNomes.value !== "todos") {
+        parametros.set('personagem', selectNomes.value);
+    }
+    if (selectStatus && selectStatus.value !== "todos") {
+        parametros.set('status', selectStatus.value);
+    }
+
+    const queryStr = parametros.toString();
+    const novaUrl = `${window.location.pathname}${queryStr ? '?' + queryStr : ''}`;
+
+    window.history.pushState({ estadoFiltros: true }, '', novaUrl);
+}
+
+function configurarFiltrosIniciaisPorUrl() {
+    const parametros = new URLSearchParams(window.location.search);
+    
+    if (busca) busca.value = parametros.get('busca') || '';
+    if (selectCategoria) selectCategoria.value = parametros.get('categoria') || 'todos';
+    if (selectColecoes) selectColecoes.value = parametros.get('colecao') || 'todos';
+    if (selectNomes) selectNomes.value = parametros.get('personagem') || 'todos';
+    if (selectStatus) selectStatus.value = parametros.get('status') || 'todos';
+}
+
+window.addEventListener('popstate', () => {
+    configurarFiltrosIniciaisPorUrl();
+    aplicarFiltrosCombinados();
+});
+
+// Execuções ao ler o Script
 gerarFiltrosDeNomes();
 gerarFiltrosDeColecoes(); 
 aplicarFiltrosCombinados();
