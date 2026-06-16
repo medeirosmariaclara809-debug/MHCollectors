@@ -540,7 +540,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Monster High"
+        "texto": "Norte-Americana"
       },
       {
         "titulo": "Idade",
@@ -1422,7 +1422,7 @@
   },
 "holt-hyde": {
     "nome": "Holt Hyde",
-    "especie": "Elementar de Fogo",
+    "especie": "Filho do Sr. e Sra. Hyde",
     "fotoPrincipal": "imagens/imagens personagens/Holt_Basic.webp",
     "corTema": "#ff6a00",
     "corFundoListras": [
@@ -1444,6 +1444,10 @@
       }
     ],
     "colunaEsquerda": [
+       {
+        "titulo": "Estilo",
+        "texto": "Meu estilo é fogo! É sério,tenho chamas pelo corpo. Eu tenho luz própria. Eu tenho uma tatuagem de yin-yang nas minhas costas e, é claro, eu nunca saio sem fone de ouvido porque nunca sabemos quando um som pode aparecer."
+      },
       {
         "titulo": "Defeito",
         "texto": "Meu temperamento. Não tenho orgulho, mas de vez em quando fico irritado e de cabeça quente e depois tenho que ficar me desculpando. Também sou esquecido."
@@ -1456,15 +1460,15 @@
         "titulo": "Comida preferida",
         "texto": "Asinhas picantes. Tem que ser muito picante a ponto de fazer um dragão chorar."
       },
-      {
-        "titulo": "Animal de estimação",
-        "texto": "Crossfade, um camaleão. Ele é o melhor bicho de estimação. Ele não se incomoda com mudanças e gosta da minha música."
+       {
+        "titulo": "O que mais o irrita",
+        "texto": "Ter que ouvir músicas chatas. Se a música não consegue te transformar, ela é estática."
       }
     ],
     "colunaDireitaInferior": [
       {
-        "titulo": "O que mais o irrita",
-        "texto": "Ter que ouvir músicas chatas. Se a música não consegue te transformar, ela é estática."
+        "titulo": "Animal de estimação",
+        "texto": "Crossfade, um camaleão. Ele é o melhor bicho de estimação. Ele não se incomoda com mudanças e gosta da minha música."
       },
       {
         "titulo": "Atividade preferida",
@@ -1493,7 +1497,7 @@
   },
   "jackson-jekyll": {
     "nome": "Jackson Jekyll",
-    "especie": "Dr. e Sra. Jekyll",
+    "especie": "Filho do Dr. e Sra. Jekyll",
     "fotoPrincipal": "imagens/imagens personagens/Jackson_basic.webp",
     "corTema": "#ffdb00",
     "corFundoListras": [
@@ -1544,7 +1548,7 @@
       },
       {
         "titulo": "Atividade preferida",
-        "texto": "Eu sou até que bem atlético, não no nível de um lobisomem, claro, mas gosto de jogar basquete — quer dizer, caixote-quete — e videogames."
+        "texto": "Eu sou até que bem atlético, não no nível de um lobisomem, claro, mas gosto de jogar basquete e videogames."
       },
       {
         "titulo": "Matéria preferida",
@@ -1870,7 +1874,7 @@
     "dadosRapidos": [
       {
         "titulo": "Aniversário",
-        "texto": "9 de fevereiro"
+        "texto": "1 de janeiro"
       },
       {
         "titulo": "Nacionalidade",
@@ -1952,6 +1956,413 @@
     {
       "nome": "Howliday Love",
       "foto": "../imagens/imagens bonecas/ClawdHowliday.jpg"
+    }
+    ]
+  },
+  "meowlody": {
+    "nome": "Meowlody",
+    "especie": "Filha dos Gatos-Monstro",
+    "fotoPrincipal": "imagens/imagens personagens/Meowlody.png",
+    "corTema": "#ff7f29",
+    "corFundoListras": [
+      "#ff7f29",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "9 de Fevereiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Näo informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Pois sim! É muito mais prrrático... para nós, claro, já que para os outros nem tanto, he, he, he."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eh, irmãzinha, você fala como se não tivéssemos opinião própria! (Purrsephone responde: Sinto muito, acho que não estou certa)."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Nossa cor favorita é laranja."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Sorvete."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "A mim isso tanto faz. O que eu não suporto de jeito nenhum são portas fechadas! (Purrsephone responde: Pois abra-as! E Meowlody rebate: Não se trata disso!)."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Tínhamos um canário, mas uma de nós é alérgica a pássaros e tivemos que doá-lo."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Quando não estamos dormindo, adoramos fazer ginástica. Somos muito ágeis e flexíveis!"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Ciência Maluca, especialmente a parte de genética."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Culinária, porque a Sra. Kindergrubber nos obriga a usar uma rede protetora por todo o corpo (por causa do pelo)."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "purrsephone",
+        "nome": "Purrsephone",
+        "foto": "imagens/imagensperfil/Purrsephone.png"
+      },
+      {
+        "id": "Toralei Stripe",
+        "nome": "Toralei Stripe",
+        "foto": "imagens/imagensperfil/Toralei.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Go Monster High Team!!!",
+      "foto": "../imagens/imagens bonecas/MeowlodyGo Monster High Team!!!.jpg"
+    },
+    {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/MeowlodyCampus.jpg"
+    },
+    {
+      "nome": "Zombie Shake",
+      "foto": "../imagens/imagens bonecas/MeowlodyZombie.jpg"
+    },
+    {
+      "nome": "Wheelin' Werecats",
+      "foto": "../imagens/imagens bonecas/Meowlodycats.jpg"
+    },
+    {
+      "nome": "Ghouls Getaway",
+      "foto": "../imagens/imagens bonecas/MeowlodyGetaway.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/MeowlodyCreeproduction.jpg"
+    }
+    ]
+  },
+  "purrsephone": {
+    "nome": "Purrsephone",
+    "especie": "Filha dos Gatos-Monstro",
+    "fotoPrincipal": "imagens/imagens personagens/Purrsephone.png",
+    "corTema": "#e63964",
+    "corFundoListras": [
+      "#e63964",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "9 de Fevereiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Näo informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gostamos de usar saia, colete e muitas pulseiras, quanto mais brrrilhantes melhor. Também gostamos de ir combinando, não é, irrrrmãzinha? Certo, irmã?"
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Às vezes, nossa curiosidade inata nos mete em encrencas e nos unimos aos planos de outros monstros sem avaliar as consequências."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Nossa cor favorita é laranja."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Sorvete."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Que os outros monstros acreditem que sempre pensamos igual e que estamos de acordo em tudo."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Tínhamos um canário, mas uma de nós é alérgica a pássaros e tivemos que doá-lo."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Quando não estamos dormindo, adoramos fazer ginástica. Somos muito ágeis e flexíveis!"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Ciência Maluca, especialmente a parte de genética."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Culinária, porque a Sra. Kindergrubber nos obriga a usar uma rede protetora por todo o corpo (por causa do pelo)."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "meowlody",
+        "nome": "Meowlody",
+        "foto": "imagens/imagensperfil/Meowlody.png"
+      },
+      {
+        "id": "Toralei Stripe",
+        "nome": "Toralei Stripe",
+        "foto": "imagens/imagensperfil/Toralei.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Go Monster High Team!!!",
+      "foto": "../imagens/imagens bonecas/PurrsephoneGo Monster High Team!!!.jpg"
+    },
+    {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/PurrsephoneCampus.jpg"
+    },
+    {
+      "nome": "Zombie Shake",
+      "foto": "../imagens/imagens bonecas/PurrsephoneZombie.jpg"
+    },
+    {
+      "nome": "Wheelin' Werecats",
+      "foto": "../imagens/imagens bonecas/Purrsephonecats.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/PurrsephoneCreeproduction.jpg"
+    }
+    ]
+  },
+  "toralei-stripe": {
+    "nome": "Toralei Stripe",
+    "especie": "Filha do Homem-Gato",
+    "fotoPrincipal": "imagens/imagens personagens/Toralei_basic.webp",
+    "corTema": "#d52d00",
+    "corFundoListras": [
+      "#d52d00",
+      "#121013"
+    ],
+    "dadosRapidos": [
+       {
+        "titulo": "Aniversário",
+        "texto": "20 de agosto"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Näo informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu miau-prefiro modas que acentuem minha graça felina natural, adicionando um toque de espinhos nos meus acessórios para dizer: 'Não venho quando sou chamada'."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Miau-vezes eu posso ser culpada por minha fascinação com a lei da causa e efeito... ou não. Acho que tudo depende se você é o monstro sendo afetado ou não."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Laranja"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Milk-shakes e anchovas. Separados, não misturados."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Não gosto que me passem a mão contra o pelo."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Sweet Fang é o meu filhote de tigre-dente-de-sabre. Ela é muito mais mimosa do que eu."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Ou é tirar um cochilo ou acordar de um cochilo e imediatamente tirar outro."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Teatro. Minha habilidade de miau-perfeitamente imitar a voz ou o sotaque de outro monstro torna esta a aula perfeita para mim."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Matemática. Traz de volta memórias desagradáveis."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "purrsephone",
+        "nome": "Purrsephone",
+        "foto": "imagens/imagensperfil/Purrsephone.png"
+      },
+      {
+        "id": "meowlody",
+        "nome": "Meowlody",
+        "foto": "imagens/imagensperfil/Meowlody.png"
+      }
+    ],
+    "bonecas": [
+       {
+      "nome": "Go Monster High Team!!!",
+      "foto": "../imagens/imagens bonecas/ToraleiGo Monster High Team!!!.jpg"
+    },
+    {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/ToraleiCampus.jpg"
+    },
+    {
+      "nome": "Ghouls Alive!",
+      "foto": "../imagens/imagens bonecas/ToraleiAlive.jpg"
+    },
+    {
+      "nome": "Power Ghouls",
+      "foto": "../imagens/imagens bonecas/ToraleiPower.jpg"
+    },
+      {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/CleoleiFusion.jpg"
+    },
+    {
+      "nome": "Coffin Bean",
+      "foto": "../imagens/imagens bonecas/ToraleiCoffin.jpg"
+    },
+    {
+      "nome": "Freaky Field Trip",
+      "foto": "../imagens/imagens bonecas/ToraleiTrip.jpg"
+    },
+    {
+      "nome": "Freak Du Chic",
+      "foto": "../imagens/imagens bonecas/ToraleiChic.jpg"
+    },
+    {
+      "nome": "Great Scarrier Reef",
+      "foto": "../imagens/imagens bonecas/ToraleiScarrier.jpg"
+    },
+    {
+      "nome": "Fierce Rockers",
+      "foto": "../imagens/imagens bonecas/ToraleiireRockers.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/ToraleiCreeproduction.jpg"
+    }
+    ]
+  },
+  "nefera-de-nile": {
+    "nome": "Nefera de Nile",
+    "especie": "Filha da Múmia",
+    "fotoPrincipal": "imagens/imagens personagens/Nefera.png",
+    "corTema": "#007d8a",
+    "corFundoListras": [
+      "#007d8a",
+      "#121013"
+    ],
+    "dadosRapidos": [
+        {
+        "titulo": "Aniversário",
+        "texto": "13 de outubro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Egípcia"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "Sou três anos mais velha que minha irmã mais nova, Cleo."
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Prefiro modas e acessórios que acentuem minha beleza eterna, como o azul do eterno Nilo ou ouro, especialmente o ouro, que não mancha nem enferruja. Muito parecidos comigo."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Com defeito? Quem disse que eu tenho defeito? Quero nomes e um espelho — rápido!"
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Azul-Nilo"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Caviar Almas e trufas brancas."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Se alguém ou alguma coisa me irrita, eu lido com isso. Imediatamente."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Azura é meu escaravelho de estimação, Scarabaeus sacer, para ser exata. Ele me traz o sol."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": " Garantir que minha irmã saiba o lugar dela na linha real de sucessão. É logo atrás de mim."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Costumava ser Dragonologia. Eu apenas tenho um jeito charmoso com répteis."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Costumava ser Línguas Mortas. Por que eu deveria me dar ao trabalho de aprender quando tenho servos que podem interpretar para mim?"
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "Eu governo\nsozinha.",
+        "foto": "imagens/imagensperfil/Nefera.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/NeferaCampus.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/NeferaBooYork.jpg"
+    },
+     {
+      "nome": "Collector (2024)",
+      "foto": "../imagens/imagens bonecas/NeferaCollectors2.jpg"
     }
     ]
   }

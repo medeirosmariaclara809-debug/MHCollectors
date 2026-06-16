@@ -2222,3 +2222,20 @@ body.perfil-abbey {
     --cor-principal: #a3e5ff;
     --cor-principal-clara: #47bdec;
 }
+
+
+body.perfil-clawd {
+    --cor-principal: #008B8B;
+    --cor-principal-clara: #006969;
+}
+
+
+body.perfil-Meowlody {
+    --cor-principal: #ff7f29;
+    --cor-principal-clara: #eb640b;
+}
+
+body.perfil-Purrsephone {
+    --cor-principal: #e63964;
+    --cor-principal-clara: rgb(177, 0, 29);
+}
