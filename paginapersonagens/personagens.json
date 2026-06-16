@@ -2026,7 +2026,7 @@
       {
         "id": "purrsephone",
         "nome": "Purrsephone",
-        "foto": "imagens/imagensperfil/Purrsephone.png"
+        "foto": "imagens/imagensperfil/urrsephone.png"
       },
       {
         "id": "Toralei Stripe",
@@ -2226,7 +2226,7 @@
       {
         "id": "purrsephone",
         "nome": "Purrsephone",
-        "foto": "imagens/imagensperfil/Purrsephone.png"
+        "foto": "imagens/imagensperfil/purrsephone.png"
       },
       {
         "id": "meowlody",
@@ -2284,7 +2284,7 @@
   "nefera-de-nile": {
     "nome": "Nefera de Nile",
     "especie": "Filha da Múmia",
-    "fotoPrincipal": "imagens/imagens personagens/Nefera.png",
+    "fotoPrincipal": "imagens/imagens personagens/nefera.png",
     "corTema": "#007d8a",
     "corFundoListras": [
       "#007d8a",
