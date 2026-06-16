@@ -2,7 +2,7 @@ const personagens = [
     { nome: "Draculaura", imagem: "../imagens/imagens personagens/Draculaura_2010.webp" ,genero: "Feminino"},
     { nome: "Clawdeen Wolf", imagem: "../imagens/imagens personagens/Clawdeen_basic.webp" ,genero: "Feminino"},
     { nome: "Frankie Stein", imagem: "../imagens/imagens personagens/Frankie_Basic.webp" ,genero: "Feminino"},
-    {nome: "Lagoona Blue", imagem: "../imagens/imagens personagens/lagoona.png" ,genero: "Feminino"},
+    {nome: "Lagoona Blue", imagem: "../imagens/imagens personagens/Lagoona.png" ,genero: "Feminino"},
     { nome: "Cleo de Nile", imagem: "../imagens/imagens personagens/cleo.png" ,genero: "Feminino"},
     { nome: "Deuce Gorgon", imagem: "../imagens/imagens personagens/Deuce_basic.webp" ,genero: "Masculino"},
     { nome: "Ghoulia Yelps", imagem: "../imagens/imagens personagens/ghoulia.png" ,genero: "Feminino"},
