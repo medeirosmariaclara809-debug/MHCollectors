@@ -2029,7 +2029,7 @@
         "foto": "imagens/imagensperfil/purrsephone.png"
       },
       {
-        "id": "Toralei Stripe",
+        "id": "toralei-stripe",
         "nome": "Toralei Stripe",
         "foto": "imagens/imagensperfil/Toralei.jpg"
       }
@@ -2131,7 +2131,7 @@
         "foto": "imagens/imagensperfil/Meowlody.png"
       },
       {
-        "id": "Toralei Stripe",
+        "id": "toralei-stripe",
         "nome": "Toralei Stripe",
         "foto": "imagens/imagensperfil/Toralei.jpg"
       }
@@ -2369,7 +2369,7 @@
  "rochelle-goyle": {
     "nome": "Rochelle Goyle",
     "especie": "Filha de Gárgulas",
-    "fotoPrincipal": "../imagens/imagens personagens/Rochelle.png",
+    "fotoPrincipal": "../imagens/imagens personagens/rochelle.png",
     "corTema": "#ffb4e8",
     "corFundoListras": [
       "#ffb4e8",
@@ -2942,12 +2942,12 @@
       {
         "id": "clawdeen-wolf",
         "nome": "Clawdeen Wolf",
-        "foto": "imagens/imagensperfil/clawdeen.jpg"
+        "foto": "imagens/imagensperfil/Clawdeen.jpg"
       },
       {
         "id": "twyla-boogeyman",
         "nome": "Twyla Boogeyman",
-        "foto": "imagens/imagensperfil/twyla.jpg"
+        "foto": "imagens/imagensperfil/Twyla.jpg"
       }
     ],
     "bonecas": [
@@ -3053,7 +3053,7 @@
       {
         "id": "lagoona-blue",
         "nome": "Lagoona Blue",
-        "foto": "imagens/imagensperfil/lagoona.jpg"
+        "foto": "imagens/imagensperfil/Lagoona.jpg"
       }
     ],
     "bonecas": [
@@ -3142,7 +3142,7 @@
       {
         "id": "scarah-screams",
         "nome": "Scarah Screams",
-        "foto": "imagens/imagensperfil/Scarah.Webp"
+        "foto": "imagens/imagensperfil/Scarah.webp"
       }
     ],
     "bonecas": [
@@ -3221,7 +3221,7 @@
       {
         "id": "jinafire-long",
         "nome": "Jinafire Long",
-        "foto": "imagens/imagensperfil/Jinafire.Webp"
+        "foto": "imagens/imagensperfil/Jinafire.webp"
       }
     ],
     "bonecas": [
@@ -3436,7 +3436,7 @@
       {
         "id": "hoodude-voodoo",
         "nome": "Hoodude Voodoo",
-        "foto": "imagens/imagensperfil/Hoodude.Webp"
+        "foto": "imagens/imagensperfil/Hoodude.webp"
       }
     ],
     "bonecas": [
@@ -3740,7 +3740,7 @@
   "twyla-boogeyman": {
     "nome": "Twyla",
     "especie": "Filha do Bicho-Papão",
-    "fotoPrincipal": "imagens/imagens personagens/twyla.png",
+    "fotoPrincipal": "imagens/imagens personagens/Twyla.png",
     "corTema": "#a9ffe9",
     "corFundoListras": [
       "#a9ffe9",

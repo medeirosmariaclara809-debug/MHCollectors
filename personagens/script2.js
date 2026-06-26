@@ -15,7 +15,7 @@ const personagens = [
     { nome: "Purrsephone", imagem: "../imagens/imagens personagens/Purrsephone.png" ,genero: "Feminino"},
     { nome: "Toralei Stripe", imagem: "../imagens/imagens personagens/Toralei_basic.webp" ,genero: "Feminino"},
     { nome: "Nefera de Nile", imagem: "../imagens/imagens personagens/nefera.png" ,genero: "Feminino"},
-    { nome: "Rochelle Goyle", imagem: "../imagens/imagens personagens/Rochelle.png", genero: "Feminino" },
+    { nome: "Rochelle Goyle", imagem: "../imagens/imagens personagens/rochelle.png", genero: "Feminino" },
     { nome: "Venus McFlytrap", imagem: "../imagens/imagens personagens/venus.png" ,genero: "Feminino"},
     { nome: "Operetta", imagem: "../imagens/imagens personagens/operetta.png" ,genero: "Feminino"},
     { nome: "Robecca Steam", imagem: "../imagens/imagens personagens/robecca.png" ,genero: "Feminino"},
