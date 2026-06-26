@@ -16,7 +16,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Romena"
+        "texto": "Transilvânia (Romênia)"
       },
       {
         "titulo": "Idade",
@@ -290,7 +290,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Norte-Americana"
+        "texto": "Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -536,11 +536,11 @@
     "dadosRapidos": [
       {
         "titulo": "Aniversário",
-        "texto": "Não se aplica"
+        "texto": "26 de Junho"
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Norte-Americana"
+        "texto": "Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -790,7 +790,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Australiana"
+        "texto": "Mosstrailia (Austrália)"
       },
       {
         "titulo": "Idade",
@@ -963,7 +963,7 @@
     "dadosRapidos": [
       {
         "titulo": "Aniversário",
-        "texto": "11 de julho"
+        "texto": "3 de Outubro"
       },
       {
         "titulo": "Nacionalidade",
@@ -1271,7 +1271,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "canadense"
+        "texto": "Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -1436,7 +1436,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Norte-Americano"
+        "texto": "Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -1512,7 +1512,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Norte-Americano"
+        "texto": "Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -1594,7 +1594,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Näo informada"
+        "texto": "Reinos Fantasmas / Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -1878,7 +1878,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Norte-Americano"
+        "texto": "Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -1975,7 +1975,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Näo informada"
+        "texto": "Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -2077,7 +2077,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Näo informada"
+        "texto": "Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -2175,7 +2175,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Näo informada"
+        "texto": "Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -2382,7 +2382,7 @@
       },
       {
         "titulo": "Nacionalidade",
-        "texto": "Francesa"
+        "texto": "Scaris (França)"
       },
       {
         "titulo": "Idade",
@@ -2508,7 +2508,7 @@
       },
       {
         "titulo": "Nacionalidade",
-      "texto": "Não informada"
+      "texto": "Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -2891,7 +2891,7 @@
       },
       {
         "titulo": "Nacionalidade",
-      "texto": "Norte-Americana"
+      "texto": "Scaremericana (EUA)"
       },
       {
         "titulo": "Idade",
@@ -3087,7 +3087,7 @@
     "dadosRapidos": [
       {
         "titulo": "Aniversário",
-        "texto": "1º de abril"
+        "texto": "Não informado"
       },
       {
         "titulo": "Nacionalidade",
@@ -6807,6 +6807,464 @@
     ],
     "bonecas": [
       { "nome": "Great Scarrier Reef - Glow-In-The-Dark", "foto": "imagens/imagens bonecas/PoseaScarrier.jpg" }
+    ]
+  },
+  "spelldon-cauldronello": {
+    "nome": "Spelldon Cauldronello",
+    "especie": "Filho de Circe",
+    "fotoPrincipal": "imagens/imagens personagens/Spelldon.webp",
+    "corTema": "#7209b7",
+    "corFundoListras": [
+      "#7209b7",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "18 de abril"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Grega"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Grunge indie misterioso — pense em jaquetas com detalhes espetados e jeans descontraídos. Também gosto de usar acessórios como brincos empilhados, correntes e esmalte preto."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Às vezes sou tão inexpressiva (deadpan) que os monstros pensam que estou falando sério quando não estou, o que pode exigir um certo controle de danos mais tarde..."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Roxo Escuro."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Pão pita quentinho com tzatziki."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Monstros que não respeitam a flora e a fauna de um lugar."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Não tenho certeza se isso conta como 'bichos de estimação' por si só, mas temos uma coleção de animais selvagens que ficam por perto porque são atraídos pela minha mãe... e ao contrário dos boatos, nenhum deles foi ex-membro da plateia de um show da Casta Fierce."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Praticar pharmakeia, também conhecida como magia da terra, experimentando poções no jardim."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Botânica dos Mortos (Bootany), porque eu amo a magia das plantas."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Música — vou deixar isso para a Casta."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "venus-mcflytrap",
+        "nome": "Venus McFlytrap",
+        "foto": "imagens/imagensperfil/venus.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Monster High pride", "foto": "imagens/imagens bonecas/Spelldon.jpg" }
+    ]
+  },
+  "kieran-valentine": {
+    "nome": "Kieran Valentine",
+    "especie": "Filho de Vampiros Emo",
+    "fotoPrincipal": "imagens/imagens personagens/Kieran.png",
+    "corTema": "#a30014",
+    "corFundoListras": [
+      "#a30014",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "14 de fevereiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Vampiro (Origem Antiga)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "1602 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu nunca sei quando um dia comum pode se transformar em um dia extraordinário, então, para não ser pego mal vestido, nunca saio do caixão usando nada menos que o meu melhor traje formal. Sei que muitos monstros acham isso exagerado, mas prefiro ter e não precisar do que precisar e não ter."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "No passado, eu costumava ficar à espreita do amor nos lugares errados e era um pouco... ok, muito egoísta. Daqui para frente, estou dedicando a minha desvida a consertar todos os erros que cometi no passado."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Bordô (Maroon)."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Bolo Devil's Food (Bolo do Diabo) — amo dar um mimo para a minha presa gulosa de vez em quando."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Não posso culpá-los de verdade, mas eu gostaria que as pessoas não pensassem imediatamente o pior de mim logo de cara."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Acho que eu costumava ser egoísta demais para ter um bicho de estimação, mas agora entendo que eles dão tanto amor incondicional que estou reconsiderando ter um. Estou aberto a qualquer tipo de pet, exceto macacos voadores. Eu realmente não consigo falar sobre isso agora."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Antes era roubar corações, mas agora é encontrar o amor verdadeiro e ajudar outros monstros a fazerem o mesmo."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Biologia de Monstros (Biteology) — porque acho que gostaria de ser veterinário um dia."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Educação Física (Phys. Dead.) — o código de vestimenta é casual demais e o suor estraga os meus babados."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "djinni-grant",
+        "nome": "Djinni 'Whisp' Grant",
+        "foto": "imagens/imagensperfil/Whisp.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "(SDCC 2015)", "foto": "imagens/imagens bonecas/KieranSDCC.jpg" },
+      { "nome": "Monster High pride", "foto": "imagens/imagens bonecas/kieranpack.png" }
+    ]
+  },
+  "garrott-du-roque": {
+    "nome": "Garrott du Roque",
+    "especie": "Filho de uma Gárgula",
+    "fotoPrincipal": "imagens/imagens personagens/Garrott.webp",
+    "corTema": "#4ea8de",
+    "corFundoListras": [
+      "#4ea8de",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "12 de dezembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Scaris (França)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "516 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gosto de usar o básico do estilo: calça jeans skinny, cachecol, jaqueta de couro de dragão e botas. Faço isso porque desejo que toda a atenção seja focada nos meus designs e não em moi."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Sou um perfeccionista. Oui, oui, eu conheço monstros que dizem isso, mas eu desvivo isso. Se eu não conseguir deixar cada detalhe de um design do jeito que acho que deveria ser, começo tudo do início de novo. É o que me torna um bom estilista, eu acho."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Verde-azinhavre (Patina green) e vermelho."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Tortas de morango assustadoras (Strawscary tarts)."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando algum monstro pega um dos meus designs e o usa como se fosse dele. Pegar o trabalho duro de outro monstro e fingir que é seu é desonroso."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Meus bichos de estimação são as minhas rosas. Eu as alimento, converso com elas e garanto que recebam bastante sol e água. Em troca, elas me dão beleza e inspiração."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu amo esboçar e desenhar roupas. Sou como um arquiteto do estilo."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Arte. Sou apaixonado por isso."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Economia de Dragão (Dragonomics). Aparentemente, você não deve colocar o seu próprio toque artístico em tabelas e gráficos."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "rochelle-goyle",
+        "nome": "Rochelle Goyle",
+        "foto": "imagens/imagensperfil/rochelle.jpg"
+      },
+      {
+        "id": "clawdeen-wolf",
+        "nome": "Clawdeen Wolf",
+        "foto": "imagens/imagensperfil/clawdeen.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Love in Scaris", "foto": "imagens/imagens bonecas/GarrottScaris.jpg" }
+    ]
+  },
+  "gooliope-jellington": {
+    "nome": "Gooliope Jellington",
+    "especie": "Filha da Gosma (The Blob)",
+    "fotoPrincipal": "imagens/imagens personagens/Gooliope.webp",
+    "corTema": "#ff8ecc",
+    "corFundoListras": [
+      "#ff8ecc",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "11 de junho"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Desconhecida (Circo Freak du Chic)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Ser um pouco maior do que a desvida torna impossível comprar roupas 'de prateleira', então tudo o que visto tem que ser costurado à garra a partir de materiais encontrados pelo Freak du Chic. Mas isso não significa que o meu estilo circo não seja terrivelmente fantástico, porque com certeza é."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Fico bem confortável no Scarnival e perto de todas as atrações aterrorizantemente talentosas. Mas quando dou um passo fora desse mundo espetacular, sinto que não me encaixo e fico muito nervosa! Tanto que eu literalmente tremo como geleia."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Eu amo um caleidoscópio de cores."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Boba (Chá de bolhas) e Donuts de geleia."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando outros monstros tratam os membros do Freak du Chic como... aberrações. Só porque não somos 'normais' aos olhos dos de fora, não significa que não temos os mesmos sentimentos que todo mundo."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Há tantas criaturas incríveis de quem eu cuido no Freak du Chic que eu não conseguiria escolher um bicho de estimação sem deixar alguma criatura com ciúmes."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu amo montar produções gigantescas para o Freak du Chic! Construir cenários, criar figurinos... você escolhe, eu faço tudo! Sou definitivamente uma garota do tipo 'faça você mesma' (DIY)!"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "História. Só porque eu não sei de onde vim, não significa que eu não adore aprender a história de outros monstros."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Ciência Maluca (Mad Science). Algo nessa matéria me faz estremecer, e não de um jeito bom."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "Todos os membros do Freak du Chic",
+        "foto": "imagens/imagensperfil/Gooliope.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Freak du Chic", "foto": "imagens/imagens bonecas/GooliopeChic.jpg" }
+    ]
+  },
+  "djinni-grant": {
+    "nome": "Djinni \"Whisp\" Grant",
+    "especie": "Manifestação Física de uma Sombra",
+    "fotoPrincipal": "imagens/imagens personagens/Djinni.webp",
+    "corTema": "#483161",
+    "corFundoListras": [
+      "#483161",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "21 de fevereiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Lâmpada Mágica"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos (seguindo a Gigi)"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Quando estou trabalhando, sou bem tradicional: seda, blusas frente única, calças bufantes, chinelos, etc. Mas no meu tempo livre, gosto de vestir seda, blusas frente única, calças bufantes, chinelos, etc. O que posso dizer? Confortável nunca é entediante."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu costumava querer dominar o mundo, e não de um jeito tipo 'Ei, pessoal, votem em mim!'. Eu nunca mais quero ser daquela forma, mas o primeiro passo para consertar a megalomania é reconhecê-la, certo?"
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Roxo esfumaçado (Smokey Purple)."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Bolo de cenoura assustador (S'carrot cake). Eu sei, bem aleatório, né? Mas a textura e a cobertura de creme de grito sempre me fazem desejar mais uma fatia."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros acreditam que um desejo concedido vai resolver todos os problemas deles e depois ficam zangados quando isso não acontece."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Quando fui criada por um desejo como uma gênio das sombras, nenhum bicho de estimação das sombras veio junto, então não tenho certeza de que tipo eu gostaria, embora tenha ouvido falar que macacos voadores são meio assustadoramente legais."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu não sabia disso sobre mim, mas descobri que realmente amo ler — que é a atividade perfeita quando você tem muito tempo livre."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Literatura. Meu recém-descoberto amor pela leitura está realmente tornando essa matéria tudo o que eu poderia desejar."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Educação Física (Phys. Dead.). Não é pelo exercício, que eu amo; são os jogos em equipe. Quero dizer, você já tentou jogar queimada sozinha? Não é muito desafiador."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "kieran-valentine",
+        "nome": "Kieran Valentine",
+        "foto": "imagens/imagensperfil/Kieran.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "(SDCC 2015)", "foto": "imagens/imagens bonecas/WhispSDCC.jpg" }
+    ]
+  },
+  "gilda-goldstag": {
+    "nome": "Gilda Goldstag",
+    "especie": "Filha da Cerva de Cerineia (The Golden Hind)",
+    "fotoPrincipal": "imagens/imagens personagens/Gilda.webp",
+    "corTema": "#52b788",
+    "corFundoListras": [
+      "#52b788",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "18 de abril"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Grécia"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos em anos de Cerva de Ouro"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu amo os tons neutros da natureza! Quando você está correndo pela floresta profunda, aprende a amar estilos que são esguios e atraentes, em oposição a roupas cheias de babados que ficam presas nos galhos."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Acho que sou um pouco nervosa, especialmente quando se trata de barulhos altos e repentinos. Eles me dão vontade de correr primeiro e descobrir o que era o barulho em segundo lugar."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Verde e Amarelo."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Smoothies de frutas silvestres e trevo. Eu poderia desviver disso."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Eu odeio quando os monstros me desafiam para uma corrida. É embaraçoso... para eles, e eu não gosto de humilhar os meus amigos."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Crescendo na vida selvagem, meus primeiros amigos foram os animais, então eu nunca pensei sobre querer ter uma criatura como um 'bicho de estimação'."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu amo sentar perto de uma piscina calma e sombreada para ler um bom livro. É tão calmo, pacífico e totalmente livre de correria."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Cálculo de Garras (Clawculus), Educação Física e Literatura Monstruo-Americana."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Nenhuma! Eu me adapto bem a todas as aulas do colégio."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "venus-mcflytrap",
+        "nome": "Venus McFlytrap",
+        "foto": "imagens/imagensperfil/venus.jpg"
+      },
+      {
+        "id": "jane-boolittle",
+        "nome": "Jane Boolittle",
+        "foto": "imagens/imagensperfil/Jane.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "We Are Monster High",
+      "foto": "../imagens/imagens bonecas/GildaWeAreMH.jpg"
+    }
     ]
   }
 }

@@ -2468,3 +2468,13 @@ body.perfil-posea{
 --cor-principal: #b0dcff;
     --cor-principal-clara: #93ceff;
 }
+
+body.perfil-gooliope{
+--cor-principal: #ff8ecc;
+    --cor-principal-clara: #ff78c2;
+}
+
+body.perfil-whisp{
+--cor-principal: #483161;
+    --cor-principal-clara: #322549;
+}
