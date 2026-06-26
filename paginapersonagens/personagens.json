@@ -2291,7 +2291,7 @@
       "#121013"
     ],
     "dadosRapidos": [
-        {
+      {
         "titulo": "Aniversário",
         "texto": "13 de outubro"
       },
@@ -2333,7 +2333,7 @@
       },
       {
         "titulo": "Atividade preferida",
-        "texto": " Garantir que minha irmã saiba o lugar dela na linha real de sucessão. É logo atrás de mim."
+        "texto": "Garantir que minha irmã saiba o lugar dela na linha real de sucessão. É logo atrás de mim."
       },
       {
         "titulo": "Matéria preferida",
@@ -2353,17 +2353,4460 @@
     ],
     "bonecas": [
       {
+        "nome": "Campus Stroll",
+        "foto": "imagens/imagens bonecas/NeferaCampus.jpg"
+      },
+      {
+        "nome": "Boo York, Boo York",
+        "foto": "imagens/imagens bonecas/NeferaBooYork.jpg"
+      },
+      {
+        "nome": "Collector (2024)",
+        "foto": "imagens/imagens bonecas/NeferaCollectors2.jpg"
+      }
+    ]
+  },
+ "rochelle-goyle": {
+    "nome": "Rochelle Goyle",
+    "especie": "Filha de Gárgulas",
+    "fotoPrincipal": "../imagens/imagens personagens/Rochelle.png",
+    "corTema": "#ffb4e8",
+    "corFundoListras": [
+      "#ffb4e8",
+      "#121013"
+    ],
+    "dadosRapidos": [
+     {
+        "titulo": "Aniversário",
+        "texto": "18 de dezembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Francesa"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "415 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Como sou de Scaris, cidade do glamour, me encanta mesclar o ferro trabalhado com o vidro policromático. Não acham que me dá um toque vintage e atemporal?"
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Sou muito protetora com meus amigos e às vezes me meto onde não fui chamada por culpa do meu instinto de proteção. Também sou um pouco... rancorosa."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Cinza"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "O torrão de Alicante."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Pombos."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Um grifo (metade águia, metade leão). Se chama Roux e o tenho desde que nasceu."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Escultura."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Arquitetura. Passei a vida inteira vivendo em grandes construções e ao redor de edifícios."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Natação. Eu afundo como uma pedra."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "ghoulia-yelps",
+        "nome": "Ghoulia Yelps",
+        "foto": "imagens/imagensperfil/Ghoulia.png"
+      },
+       {
+        "id": "robecca-steam",
+        "nome": "Robecca Steam",
+        "foto": "imagens/imagensperfil/Robecca.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Between Classes",
+      "foto": "../imagens/imagens bonecas/RochelleBetween.jpg"
+    },
+    {
+      "nome": "Dance Class",
+      "foto": "../imagens/imagens bonecas/RochelleDance.jpg"
+    },
+    {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/RochelleScaris.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/RochelleSplash.jpg"
+    },
+    {
+      "nome": "Ghouls' Night Out",
+      "foto": "../imagens/imagens bonecas/RochelleNight.jpg"
+    },
+    {
+      "nome": "Zombie Shake",
+      "foto": "../imagens/imagens bonecas/RochelleZombie.jpg"
+    },
+    {
+      "nome": "Ghoul Chat",
+      "foto": "../imagens/imagens bonecas/RochelleChat.jpg"
+    },
+    {
+      "nome": "Haunted",
+      "foto": "../imagens/imagens bonecas/RochelleHaunted.jpg"
+    },
+    {
+      "nome": "Love in Scaris",
+      "foto": "../imagens/imagens bonecas/RochelleScaris2.jpg"
+    },
+    {
+      "nome": "Freak Du Chic",
+      "foto": "../imagens/imagens bonecas/RochelleChic.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/RochelleCreeproduction.jpg"
+    },
+    {
+      "nome": "Fang Vote (2023)",
+      "foto": "../imagens/imagens bonecas/RochelleFangVote.jpg"
+    }
+    ]
+  },
+  "venus-mcflytrap": {
+    "nome": "Venus McFlytrap",
+    "especie": "Filha do Monstro Planta",
+    "fotoPrincipal": "../imagens/imagens personagens/venus.png",
+    "corTema": "#b9ff78",
+    "corFundoListras": [
+      "#b9ff78",
+      "#121013"
+    ],
+    "dadosRapidos": [
+       {
+        "titulo": "Aniversário",
+        "texto": "18 de abril"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Não informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Brilhante, chamativo e bem na sua cara. As flores mais chamativas ganham mais atenção, e eu não sou nenhuma violeta tímida quando se trata de fazer os monstros olharem para mim."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Certo — sou apaixonada por proteger o mundo em que vivemos e não quero vê-lo destruído. Esse não é o meu defeito, mas às vezes eu acidentalmente-de-propósito uso meus pólens de persuasão para fazer os monstros se voluntariarem para a minha causa."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Verde"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Água fresca e luz solar."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Monstros que poluem e destroem o meio ambiente."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Uma planta carnívora chamada Chewlian. Ele tem uma personalidade bem forte."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Adoro fazer trilhas, acampar e convencer outros monstros sobre o quão importante é sermos cuidadores do mundo em que vivemos."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Dentologia."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Oficina de marcenaria. Usar madeira morta me deixa triste."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "lagoona-blue",
+        "nome": "Lagoona Blue",
+        "foto": "imagens/imagensperfil/Lagoona.jpg"
+      },
+      {
+        "id": "gil-webber",
+        "nome": "Gil Webber",
+        "foto": "imagens/imagensperfil/Gil.webp"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Between Classes",
+      "foto": "../imagens/imagens bonecas/VenusBetween.jpg"
+    },
+    {
+      "nome": "I Heart Fashion",
+      "foto": "../imagens/imagens bonecas/VenusFashion.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/VenusSplash.jpg"
+    },
+    {
+      "nome": "Ghouls' Night Out",
+      "foto": "../imagens/imagens bonecas/VenusNight.jpg"
+    },
+    {
+      "nome": "Music Festival",
+      "foto": "../imagens/imagens bonecas/VenusMusic.jpg"
+    },
+    {
+      "nome": "Ghoul Spirit",
+      "foto": "../imagens/imagens bonecas/VenusSpirit.jpg"
+    },
+    {
+      "nome": "Coffin Bean",
+      "foto": "../imagens/imagens bonecas/VenusCoffin.jpg"
+    },
+    {
+      "nome": "Zombie Shake",
+      "foto": "../imagens/imagens bonecas/VenusZombie.jpg"
+    },
+     {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/ClawvenusFusion.jpg"
+    },
+    {
+      "nome": "Gloom and Bloom",
+      "foto": "../imagens/imagens bonecas/VenusBloom.jpg"
+    },
+    {
+      "nome": "Fangtastic Fitness",
+      "foto": "../imagens/imagens bonecas/VenusFitness.jpg"
+    },
+    {
+      "nome": "Fierce Rockers",
+      "foto": "../imagens/imagens bonecas/VenusireRockers.jpg"
+    },
+     {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/VenusCreeproduction.jpg"
+    },
+     {
+      "nome": "Collector (2025)",
+      "foto": "../imagens/imagens bonecas/VenusCollectors.jpg"
+    }
+    
+    ]
+  },
+  "operetta": {
+    "nome": "Operetta",
+    "especie": "Filha do Fantasma da Ópera",
+    "fotoPrincipal": "../imagens/imagens personagens/operetta.png",
+    "corTema": "#d90429",
+    "corFundoListras": [
+      "#d90429",
+      "#121013"
+    ],
+    "dadosRapidos": [
+     {
+        "titulo": "Aniversário",
+        "texto": "12 de junho"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Francesa"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16... em anos de fantasma."
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Do topo do meu penteado 'victory roll' vermelho até a sola dos meus sapatos — não pise neles! —, eu sou uma força fantasma do rock de alta octanagem. Também tenho essa marca de beleza perfeitamente afinada que começa no meu rosto e termina na tatuagem mais incrível de todas."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Sou um pouco diva e perfeccionista... ok, mais do que um pouco. Na maioria das vezes é só em relação à minha música, que faz os monstros meio que perderem a cabeça por alguns dias se me ouvirem cantar ao vivo. Minha voz não tem o mesmo efeito quando você a escuta gravada."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Vermelho Veludo Vintage"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Sanduíches de manteiga de amendoim frita e banana."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Não gosto que me digam o que fazer — acho que sou teimosa desse jeito."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Memphis 'Daddy O' Longlegs é a minha aranha de estimação. Claro que ele não é como nenhuma outra aranha que você já viu, a menos que já tenha visto uma usando um topete pompadour enquanto toca um contrabaixo."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Tocar música e cantar. O que mais há para se fazer na pós-vida?"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "História da Música. Não dá para saber para onde você está indo se não souber por onde já passou."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Ciência Maluca. A única coisa que eu quero criar é música."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "holt-hyde",
+        "nome": "Holt Hyde",
+        "foto": "imagens/imagensperfil/Holt.webp"
+      },
+       {
+        "id": "heath-burns",
+        "nome": "Heath Burns",
+        "foto": "imagens/imagensperfil/Heath.webp"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Killer Style",
+      "foto": "../imagens/imagens bonecas/OperettaKS.jpg"
+    },
+    {
       "nome": "Campus Stroll",
-      "foto": "../imagens/imagens bonecas/NeferaCampus.jpg"
+      "foto": "../imagens/imagens bonecas/OperettaCampus.jpg"
+    },
+    {
+      "nome": "Dot Dead Gorgeous",
+      "foto": "../imagens/imagens bonecas/OperettaDDG.jpg"
+    },
+    {
+      "nome": "Skultimate Roller Maze",
+      "foto": "../imagens/imagens bonecas/OperettaRoller.jpg"
+    },
+    {
+      "nome": "Dance Class",
+      "foto": "../imagens/imagens bonecas/OperettaDance.jpg"
+    },
+    {
+      "nome": "Picture Day",
+      "foto": "../imagens/imagens bonecas/OperettaPicture.jpg"
+    },
+    {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/OperettaFCA.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/OperettaFusion.jpg"
+    },
+    {
+      "nome": "I Heart Accessories",
+      "foto": "../imagens/imagens bonecas/OperettaAccessoires.jpg"
     },
     {
       "nome": "Boo York, Boo York",
-      "foto": "../imagens/imagens bonecas/NeferaBooYork.jpg"
+      "foto": "../imagens/imagens bonecas/OperettaBooYork.jpg"
+    },
+    {
+      "nome": "Die-Ner",
+      "foto": "../imagens/imagens bonecas/OperettaDieNer.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/OperettaCreeproduction.jpg"
     },
      {
-      "nome": "Collector (2024)",
-      "foto": "../imagens/imagens bonecas/NeferaCollectors2.jpg"
+      "nome": "Mattelcreations",
+      "foto": "../imagens/imagens bonecas/Operettaattelcreations.jpg"
     }
+    ]
+  },
+  "robecca-steam": {
+    "nome": "Robecca Steam",
+    "especie": "Filha do Hexiciah Steam",
+    "fotoPrincipal": "../imagens/imagens personagens/robecca.png",
+    "corTema": "#0077b6",
+    "corFundoListras": [
+      "#0077b6",
+      "#121013"
+    ],
+    "dadosRapidos": [
+       {
+        "titulo": "Aniversário",
+        "texto": "29 de julho"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Britânica"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "116 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu teria descrito meu estilo como bastante antiquado para os dias de hoje, embora tenha sido informada recentemente de que ele é totalmente 'steampunk' e bem 'moderno'. Isso é um alívio, pois nenhum monstro deseja ser considerado sem graça."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Meu relógio interno não funciona direito e eu pareço sempre chegar atrasada. Não importa quantos alarmes eu programe ou quantos relógios eu use; nada ajuda. Ainda bem que tenho uma justificativa mecânica permanente na diretoria."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Cobre"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Apesar de eu não precisar de comida tradicional, sou muito fã de chá de gengibre."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Chuva."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Captain Penny é o meu pinguim mecânico. Asas funcionais são desnecessárias quando se está equipado com uma mochila a jato."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Sou bem destemida e adoro usar minhas botas a jato para fazer acrobacias e truques que fazem os outros monstros pararem o que estão fazendo só para me ver performar."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Oficina de metalurgia."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Economia Doméstica. No entanto, sou excelente em ferver água."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "rochelle-goyle",
+        "nome": "Rochelle Goyle",
+        "foto": "imagens/imagensperfil/rochelle.jpg"
+      },
+      {
+        "id": "frankie-stein",
+        "nome": "Frankie Stein",
+        "foto": "imagens/imagensperfil/Frankie.png"
+      }
+    ],
+    "bonecas": [
+    {
+      "nome": "Dead Tired",
+      "foto": "../imagens/imagens bonecas/RobeccaDT.jpg"
+    },
+    {
+      "nome": "Between Classes",
+      "foto": "../imagens/imagens bonecas/RobeccaBetween.jpg"
+    },
+    {
+      "nome": "Dance Class",
+      "foto": "../imagens/imagens bonecas/RobeccaDance.jpg"
+    },
+    {
+      "nome": "Ghouls Alive!",
+      "foto": "../imagens/imagens bonecas/RobeccaAlive.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/DracubeccaFusion.jpg"
+    },
+    {
+      "nome": "Art Class",
+      "foto": "../imagens/imagens bonecas/RobeccaArt.jpg"
+    },
+    {
+      "nome": "Coffin Bean",
+      "foto": "../imagens/imagens bonecas/RobeccaCoffin.jpg"
+    },
+    {
+      "nome": "Gore-Geous Accessories",
+      "foto": "../imagens/imagens bonecas/RobeccaAccessories2.jpg"
+    },
+    {
+      "nome": "Boo-Riginal Creeproductions",
+      "foto": "../imagens/imagens bonecas/RobeccaCreeproduction.jpg"
+    },
+    {
+      "nome": "SDCC (2016)",
+      "foto": "../imagens/imagens bonecas/RobeccaSDCC.jpg"
+    }
+    ]
+  },
+  "howleen-wolf": {
+    "nome": "Howleen Wolf",
+    "especie": "Filha do Lobisomem",
+    "fotoPrincipal": "imagens/imagens personagens/Howleen.png",
+    "corTema": "#dd1b7c",
+    "corFundoListras": [
+      "#dd1b7c",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "21 de Dezembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Norte-Americana"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "14 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gosto de chamar o meu estilo de 'were-punk'. É basicamente pegar um monte de estilos diferentes, misturar tudo e criar algo totalmente novo e assustadoramente legal. A Clawdeen diz que parece que eu me vesti no escuro, mas eu gosto e isso é tudo o que importa para mim."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Meu cabelo. Às vezes ele faz o que quer, e outras vezes faz coisas que deixam nós dois com uma aparência péssima."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Meio que depende do dia."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Cachorros-quentes."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando sou tratada como a irmãzinha mais nova. Quer dizer, eu sou a irmã mais nova, mas não sou mais um bebê!"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Cushion é a minha ouriço de estimação. Ela pode ser um pouco espinhosa por fora, mas é incrivelmente doce por dentro, e isso é o que realmente importa."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Adoro jogar futebol. É muito divertido!"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Eu meio que gosto de Matemática e às vezes de História, mas Mordologia também é bem legal."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Às vezes, a minha matéria favorita em um dia se torna a que eu menos gosto no dia seguinte. Estranho, né?"
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "clawdeen-wolf",
+        "nome": "Clawdeen Wolf",
+        "foto": "imagens/imagensperfil/clawdeen.jpg"
+      },
+      {
+        "id": "twyla-boogeyman",
+        "nome": "Twyla Boogeyman",
+        "foto": "imagens/imagensperfil/twyla.jpg"
+      }
+    ],
+    "bonecas": [
+     {
+      "nome": "Campus Stroll",
+      "foto": "../imagens/imagens bonecas/HowleenCampus.jpg"
+    },
+    {
+      "nome": "Dance Class",
+      "foto": "../imagens/imagens bonecas/HowleenDance.jpg"
+    },
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/HowleenWishes.jpg"
+    },
+    {
+      "nome": "Creepateria",
+      "foto": "../imagens/imagens bonecas/HowleenCreepateria.jpg"
+    },
+    {
+      "nome": "A Pack of Trouble",
+      "foto": "../imagens/imagens bonecas/Howleentrouble.jpg"
+    },
+    {
+      "nome": "Geek Shriek",
+      "foto": "../imagens/imagens bonecas/HowleenGeek.jpg"
+    },
+    {
+      "nome": "Ghoul Fair",
+      "foto": "../imagens/imagens bonecas/HowleenFair.jpg"
+    }
+    ]
+  },
+  "gil-webber": {
+    "nome": "Gil Webber",
+    "especie": "Filho do Monstro do Rio",
+    "fotoPrincipal": "imagens/imagens personagens/gil.png",
+    "corTema": "#85fff9",
+    "corFundoListras": [
+      "#85fff9",
+      "#121013"
+    ],
+    "dadosRapidos": [
+       {
+        "titulo": "Aniversário",
+        "texto": "30 de janeiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Não informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Uso bermudas, chinelos e camisetas para sentir que me encaixo na terra firme. Mas o meu capacete de água significa que nunca posso usar nada que aperte o meu pescoço."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Tenho um certo pavor do mar aberto..."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Azul, como água cristalina."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Algas marinhas. Sei que parece um pouco exótico para um monstro de água doce, mas o gosto é assustadoramente bom!"
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Eu simplesmente não suporto quando os meus pais monstros tentam ditar tudo o que eu tenho que fazer."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "No momento não tenho nenhum, mas sou completamente apaixonado pela Neptuna, a piranha de estimação da Lagoona."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Natação!"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Matemática. Quando eu crescer, quero ser engenheiro hidráulico, então vou precisar de matemática para isso."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Literatura de Terror. Prefiro ler livros didáticos e técnicos do que romances."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "clawd-wolf",
+        "nome": "Clawd Wolf",
+        "foto": "imagens/imagensperfil/Clawd.png"
+      },
+      {
+        "id": "lagoona-blue",
+        "nome": "Lagoona Blue",
+        "foto": "imagens/imagensperfil/lagoona.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Skull Shores",
+      "foto": "../imagens/imagens bonecas/GilSkull.jpg"
+    },
+    {
+      "nome": "Dance Class",
+      "foto": "../imagens/imagens bonecas/GilDance.jpg"
+    },
+    {
+      "nome": "Mansters",
+      "foto": "../imagens/imagens bonecas/GilMansters.jpg"
+    },
+    {
+      "nome": "Wheel Love",
+      "foto": "../imagens/imagens bonecas/GilWheel.jpg"
+    }
+    ]
+  },
+  "hoodude-voodoo": {
+    "nome": "Hoodude Voodoo",
+    "especie": "Boneco de Vodu Humanoide",
+    "fotoPrincipal": "imagens/imagens personagens/Hoodude.png",
+    "corTema": "#9cc7ff",
+    "corFundoListras": [
+      "#9cc7ff",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "1º de abril"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Não pertence a nenhum país específico"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "Vamos facilitar e dizer que tenho 15 anos."
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Acho que você poderia chamar de casual despojado, embora eu aprecie qualquer estilo que seja bem costurado."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu demonstro meus sentimentos abertamente para todo monstro ver, o que significa que posso ser excessivamente sensível sobre coisas que outros monstros nem ligam."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Eu gosto do visual de retalhos (patchwork)."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Não sei o porquê, mas eu realmente gosto de comida escaribenha."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros não dão valor aos seus relacionamentos. É o suficiente para partir o meu coração."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Não tenho nenhum no momento."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu sou o alvo de placagem — sim, o alvo — do time de futebol americano. É um trabalho duro, e eu sou exatamente o monstro certo para fazer isso."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Assustologia (Scarecology). Um dia eu gostaria de aconselhar outros monstros que são exatamente como eu."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Vulcanologia. Não sou um grande fã de nada que envolva muito fogo."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "scarah-screams",
+        "nome": "Scarah Screams",
+        "foto": "imagens/imagensperfil/Scarah.Webp"
+      }
+    ],
+    "bonecas": [
+      { "nome": "SDCC Exclusive (2012)", "foto": "imagens/imagens bonecas/HoodudeSDCC.jpg" }
+    ]
+  },
+  "skelita-calaveras": {
+    "nome": "Skelita Calaveras",
+    "especie": "Filha dos Esqueletos",
+    "fotoPrincipal": "imagens/imagens personagens/Skelita_.webp",
+    "corTema": "#ff5f03",
+    "corFundoListras": [
+      "#ff5f03",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "2 de novembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Mexicana"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Tenho orgulho da minha herança, mas também aceito a minha própria individualidade. Por isso, misturo roupas tradicionais com a moda moderna para criar um visual único e totalmente meu. Pode parecer que estou sempre pronta para ir a uma festa, é que a pós-vida para mim é isso: uma grande desculpa para comemorar e se divertir."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Sinto uma coisa nos meus ossos de que algo épico está prestes a acontecer. Infelizmente, não tenho como saber exatamente quando o evento vai rolar."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Calêndula, ou mais especificamente, a cor das flores de calêndula."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Caveiras de açúcar."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Lápides que são ignoradas e malcuidadas. É como esquecer quem você foi e de onde você veio."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Tenho milhões de mascotes e posso vê-las a cada inverno, quando elas migram de volta para o Héxico. São as borboletas-monarca, e eu amo ficar cercada pela beleza suave e esvoaçante delas."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo fazer qualquer coisa associada ao 'Día de Los Muertos'. Como pintura facial, costura, criar dioramas, dançar, contar histórias e, acima de tudo, passar o tempo com mi familia."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Artes Visuais. É uma aula onde os trabalhos e deveres de casa são todas as coisas que eu amo fazer, então é quase como se eu nem estivesse em uma sala de aula."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Música. Por favor, não me leve a mal, eu amo ouvir e dançar música, mas a parte do canto não é 'buena'. Eu sou desafinada de doer os ossos!"
+      }
+    ],
+    "melhoresAmigas": [
+     {
+        "id": "clawdeen-wolf",
+        "nome": "Clawdeen Wolf",
+        "foto": "imagens/imagensperfil/Clawdeen.jpg"
+      },
+      {
+        "id": "jinafire-long",
+        "nome": "Jinafire Long",
+        "foto": "imagens/imagensperfil/Jinafire.Webp"
+      }
+    ],
+    "bonecas": [
+     {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/SkelitaScaris.jpg"
+    },
+    {
+      "nome": "Art Class",
+      "foto": "../imagens/imagens bonecas/SkelitaArt.jpg"
+    },
+    {
+      "nome": "I Heart Accessories",
+      "foto": "../imagens/imagens bonecas/SkelitaAccessoires.jpg"
+    },
+    {
+      "nome": "Scarnival",
+      "foto": "../imagens/imagens bonecas/SkelitaScarnival.jpg"
+    },
+    {
+      "nome": "Collector (2016)",
+      "foto": "../imagens/imagens bonecas/SkelitaCollectors.jpg"
+    },
+     {
+      "nome": "Howliday (2023)",
+      "foto": "../imagens/imagens bonecas/SkelitaHowliday.jpg"
+    },
+     {
+      "nome": "Howliday (2024)",
+      "foto": "../imagens/imagens bonecas/SkelitaHowliday2.jpg"
+    }
+    ]
+  },
+  "jinafire-long":{
+    "nome": "Jinafire Long",
+    "especie": "Filha do Dragão Chinês",
+    "fotoPrincipal": "imagens/imagens personagens/Jinafire_Long.webp",
+    "corTema": "#128b26",
+    "corFundoListras": [
+      "#128b26",
+      "#121013"
+    ],
+    "dadosRapidos": [
+       {
+        "titulo": "Aniversário",
+        "texto": "16 de abril"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Chinesa"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "1500 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gosto de pegar modas tradicionais e colocá-las no fogo com cortes afiados e acessórios ferozes."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Tenho uma força de vontade enorme, um temperamento explosivo e uma tendência a incendiar materiais combustíveis. Embora, desde que derreti meu último iCoffin, venho tentando controlar melhor meus impulsos."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Vermelho Real e Verde Jade."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Qualquer coisa de Sichuan! Quanto mais apimentado, melhor."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Minha cauda fica no caminho às vezes, e é realmente difícil encontrar roupas de alta costura assustadoras que se adaptem a ela."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Atualmente não tenho um animal de estimação, porque esta é uma decisão que leva muitos anos para os dragões tomarem. Consegui reduzir minha lista para 50 opções, então espero que daqui a mais uns duzentos anos eu já tenha um top 20."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo fazer caligrafia. É muito calmante e me ajuda a relaxar."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Oficina de Metalurgia. Amo criar esculturas de aço."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Educação Física (Physical Deaducation). O suor arruína minha maquiagem e faz minhas escamas coçarem."
+      }
+    ],
+    "melhoresAmigas": [
+       {
+        "id": "clawdeen-wolf",
+        "nome": "Clawdeen Wolf",
+        "foto": "imagens/imagensperfil/Clawdeen.jpg"
+      },
+      {
+        "id": "skelita-calaveras",
+        "nome": "Skelita Calaveras",
+        "foto": "imagens/imagensperfil/Skelita.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/JinafireScaris.jpg"
+    },
+    {
+      "nome": "Make a Splash",
+      "foto": "../imagens/imagens bonecas/JinafireSplash.jpg"
+    },
+    {
+      "nome": "New Scaremester",
+      "foto": "../imagens/imagens bonecas/JinafireScaremester.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/LagoonafireFusion.jpg"
+    },
+    {
+      "nome": "Gloom and Bloom",
+      "foto": "../imagens/imagens bonecas/JinafireBloom.jpg"
+    },
+    {
+      "nome": "Freak Du Chic",
+      "foto": "../imagens/imagens bonecas/JinafireChic.jpg"
+    },
+     {
+      "nome": "Ghouls Getaway",
+      "foto": "../imagens/imagens bonecas/JinafireGetaway.jpg"
+    },
+    {
+      "nome": "Fierce Rockers",
+      "foto": "../imagens/imagens bonecas/JinafireireRockers.jpg"
+    },
+    {
+      "nome": "Fang Vote",
+      "foto": "../imagens/imagens bonecas/jinafireFangVote.jpg"
+    }
+    ]
+  },
+  "scarah-screams": {
+    "nome": "Scarah Screams",
+    "especie": "Filha da Banshee",
+    "fotoPrincipal": "imagens/imagens personagens/scarah.png",
+    "corTema": "#94db42",
+    "corFundoListras": [
+      "#94db42",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "30 de dezembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Irlandesa"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Olha, eu sou o tipo de monstrinha que prefere ser vista a ser ouvida; mesmo assim, estou me esforçando para não sumir no cenário. Gosto de suéteres, especialmente cardigans, e saias verdes."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Tenho um jeito de falar as coisas que os outros monstros frequentemente interpretam mal, achando que algo ruim está prestes a acontecer."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Verde — como a velha terra natal."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Coddle (um ensopado tradicional irlandês). É a comida reconfortante assustadora definitiva."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando outros monstros tentam imitar o meu sotaque. E não, eu não quero nenhum amuleto — não me importa o quão sortudo ou açucarado ele seja."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Não tenho nenhum no momento."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Tenho uma voz razoável e posso realmente dar um belo lamento quando quero. Ah, e eu amo profundamente ouvir e contar histórias."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Literatura. Gosto de me esconder nos livros."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Oratória. Só causa caos."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "hoodude-voodoo",
+        "nome": "Hoodude Voodoo",
+        "foto": "imagens/imagensperfil/Hoodude.Webp"
+      }
+    ],
+    "bonecas": [
+    {
+      "nome": "I Heart Fashion",
+      "foto": "../imagens/imagens bonecas/ScarahFashion.jpg"
+    },
+    {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/ScarahFusion.jpg"
+    },
+     {
+      "nome": "Ghoul Fair",
+      "foto": "../imagens/imagens bonecas/ScarahFair.jpg"
+    },
+    {
+      "nome": "We Are Monster High",
+      "foto": "../imagens/imagens bonecas/ScarahWeAreMH.jpg"
+    },
+    {
+      "nome": "Collector (2016)",
+      "foto": "../imagens/imagens bonecas/ScarahCollectors.jpg"
+    },
+     {
+      "nome": "SDCC (2012)",
+      "foto": "../imagens/imagens bonecas/ScarahSDCC.jpg"
+    }
+    ]
+  },
+  "c.a.-cupid": {
+    "nome": "C.A. Cupid",
+    "especie": "Filha de Eros",
+    "fotoPrincipal": "imagens/imagens personagens/C.A.Cupid.png",
+    "corTema": "#ff9cde",
+    "corFundoListras": [
+      "#ff9cde",
+      "#121013"
+    ],
+    "dadosRapidos": [
+       {
+        "titulo": "Aniversário",
+        "texto": "24 de novembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Monte Olimpo"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "Tão velha quanto o amor adolescente"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gosto de muita renda e tecidos delicados. Uma das minhas amigas monstrinhas disse que eu sou 'assustadoramente cheia de babados', o que eu acho uma descrição adorável, você não acha?"
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Sou péssima de mira. É vergonhoso, mas é a verdade, e é por isso que os meus conselhos costumam ser muito mais certeiros do que as minhas flechas."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Rosa."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Cupcakes com granulado."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros agem como se estivessem surpresos por eu não ser um garoto. Eu não sou o meu pai, ok? Ele lida exclusivamente com 'normies' (humanos). Eu trabalho apenas com monstros."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Eu adoraria ter um bicho de estimação, mas há tantos peixes no mar... como eu poderia escolher apenas um?"
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Responder a perguntas sobre relacionamentos de monstros."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Psicologia."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Cálculo Macabro (Clawculus). Nem tudo pode ser resolvido com uma equação."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "Qualquer um que seja apaixonado pelo amor",
+        "foto": "imagens/imagensperfil/Cupid.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Sweet 1600",
+      "foto": "../imagens/imagens bonecas/CupidSweet.jpg"
+    },
+    {
+      "nome": "Self-standing Signature",
+      "foto": "../imagens/imagens bonecas/CupidSelfStanding.jpg"
+    }
+    ]
+  },
+  "catrine-demew": {
+    "nome": "Catrine DeMew",
+    "especie": "Filha de uma Gata-Garota",
+    "fotoPrincipal": "imagens/imagens personagens/Catrine.png",
+    "corTema": "#c8b6ff",
+    "corFundoListras": [
+      "#c8b6ff",
+      "#121013"
+    ],
+    "dadosRapidos": [
+       {
+        "titulo": "Aniversário",
+        "texto": "15 de março"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Francesa"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Embora eu prefiraaa que a minha arte seja o que atrai os turistas monstros, acho que usar a moda scarisiana certa ajuda a emoldurar minhas habilidades artísticas de arrasar."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Sou uma purrfeccionista, o que torna 'très difficile' às vezes terminar um esboço. Mesmo quando o turista ama o retrato, eu ainda sinto vontade de correr atrás dele e pedir mais tempo para deixá-lo purrfeito."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Há tantas cores na paleta que é difícil escolher apenas uma. Hoje eu acho que é lavanda; amanhã, 'qui sait' (quem sabe)?"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Mil-folhas (Mille-Feuille). São três camadas de massa folhada recheadas com um creme doce e açúcar de confeiteiro salpicado por cima. Ah... 'c'est magnifique'!"
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Monstros que não ficam parados enquanto eu estou tentando esboçá-los. É extremamente irritante."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Não tenho um animal de estimação, mas amo os pombos de Scaris; eles são 'très doux' (muito doces)."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo organizar minhas tintas, pincéis, gizes, nanquins, canetas e lápis de cor. Acho esse processo... calmante."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Anatomia Monstruosa. Há tantos tipos diferentes de monstros que vêm para Scaris, e preciso ter uma ideia melhor de como todos eles são estruturados para poder desenhá-los melhor. Eu sou a perfeccionista, lembra?"
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "História da Arte. Eu moro na cidade onde a história da arte está por toda parte ao meu redor. Por que eu preciso de uma aula sobre isso?"
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "A cidade é minha companheira constante",
+        "foto": "imagens/imagensperfil/Catrine.webp"
+      }
+    ],
+    "bonecas": [
+     {
+      "nome": "Scaris",
+      "foto": "../imagens/imagens bonecas/CatrineScaris.jpg"
+    },
+    {
+      "nome": "New Scaremester",
+      "foto": "../imagens/imagens bonecas/CatrineScaremester.jpg"
+    },
+    {
+      "nome": "Ghoul Chat",
+      "foto": "../imagens/imagens bonecas/CatrineChat.jpg"
+    },
+    {
+      "nome": "Gloom and Bloom",
+      "foto": "../imagens/imagens bonecas/CatrineBloom.jpg"
+    },
+    {
+      "nome": "Fangtastic Fitness",
+      "foto": "../imagens/imagens bonecas/CatrineFitness.jpg"
+    }
+    ]
+  },
+  "gigi-grant": {
+    "nome": "Gigi Grant",
+    "especie": "Filha do Gênio da Lâmpada",
+    "fotoPrincipal": "imagens/imagens personagens/gigi.png",
+    "corTema": "#e02aa4",
+    "corFundoListras": [
+      "#e02aa4",
+      "#121013"
+    ],
+    "dadosRapidos": [
+     {
+        "titulo": "Aniversário",
+        "texto": "7 de novembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Deserto do Pavor"
+      },
+      {
+        "titulo": "Idade",
+        "texto": " 15 anos "
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Tecidos naturais, especialmente seda, em cores brilhantes. Também adoro blusas frente-única, calças largas e chinelos. Basicamente, eu prezo totalmente pelo conforto. Claro que não posso andar desleixada, porque nunca sei quando vou ter que dar uma 'escapadinha' para uma reunião com um novo mestre."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Não é nenhum mistério adivinhar que sou claustrofóbica. Ficar presa em uma lanterna por milênios faz isso com você."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Eu amo tons de pêssego e dourado."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "O homus com receita secreta do meu pai e pão pita quentinho, saído do forno. Mesmo depois de todo esse tempo, eu nunca me cansei disso!"
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Aquela coisa de desejar desejos extras. Como se 13 desejos já não fossem suficientes!"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Um escorpião chamado Sultan Sting. Não se deixe enganar pelo nome, ele na verdade é bem despretensioso."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Adoro fazer passeios turísticos. É sempre um bônus quando um monstro deseja fazer uma viagem para algum lugar onde eu ainda não estive."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Astronomia. Eu amo o espaço. É simplesmente tão aberto e sem nenhuma tampa."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Autoescola (Driver's Ed). Não é nem tanto pela aula em si, mas sim por causa daquele carrinho minúsculo que você é obrigada a dirigir."
+      }
+    ],
+    "melhoresAmigas": [
+     {
+        "id": "Gigi-Grant",
+        "nome": "Eu queria conseguir falar apenas um",
+        "foto": "imagens/imagensperfil/Gigi.jpg"
+      }
+    ],
+    "bonecas": [
+     {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/GigiWishes.jpg"
+    },
+    {
+      "nome": "New Scaremester",
+      "foto": "../imagens/imagens bonecas/GigiScaremester.jpg"
+    },
+    {
+      "nome": "Freaky Field Trip",
+      "foto": "../imagens/imagens bonecas/GigiTrip.jpg"
+    },
+    {
+      "nome": "Geek Shriek",
+      "foto": "../imagens/imagens bonecas/GigiGeek.jpg"
+    },
+    {
+      "nome": "Maul Monsteristas",
+      "foto": "../imagens/imagens bonecas/GigiMonsteristas.jpg"
+    },
+    {
+      "nome": "Budget Basic",
+      "foto": "../imagens/imagens bonecas/GigiBudgetBasic.jpg"
+    }
+    ]
+  },
+  "twyla-boogeyman": {
+    "nome": "Twyla",
+    "especie": "Filha do Bicho-Papão",
+    "fotoPrincipal": "imagens/imagens personagens/twyla.png",
+    "corTema": "#a9ffe9",
+    "corFundoListras": [
+      "#a9ffe9",
+      "#121013"
+    ],
+    "dadosRapidos": [
+     {
+        "titulo": "Aniversário",
+        "texto": "1º de outubro"
+      },
+      {
+        "titulo": "Nacionalidade",
+      "texto": "Nova Salém"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "14 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Meus amigos dizem que eu tenho uma silhueta sombria, ou talvez seja porque eu sou uma figura sombria... de qualquer forma, eu realmente amo azul-escuro e roxo profundo, especialmente quando eles se misturam como fumaça sobre a água."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Sou dolorosamente tímida e passo a maior parte do meu tempo dormindo ou me escondendo embaixo de camas, por isso é difícil fazer novos amigos. Mas tudo bem, é apenas um dia comum na vida de uma criatura do bicho-papão."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Azuoxo (Blurple), que é azul misturado com roxo. É bem diferente de roxazul."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Pesadelos, é claro!"
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando outros monstros não entendem por que eu quero ajudar os normies (humanos), e quando os normies não entendem que eu não estou ali para assustá-los. É muito difícil construir sonhos em mentes desconfiadas. Ah, e aspiradores de pó."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Um coelhinho de poeira chamado Dustin. Eu o vi sendo levado pelo vento um dia, então o resgatei e o adotei."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo capturar os pesadelos dos normies, assim apenas as coisas que se transformam em doces sonhos conseguem passar. Como alguém pode discordar que isso não é uma coisa boa?"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Psicologia, porque as coisas que aprendo na aula realmente me ajudam a passar pela noite."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Oratória. Ficar de pé na frente de um bando de monstros é muito difícil para mim, mas se eu não falar, como os outros monstros vão saber o que estou dizendo?"
+      }
+    ],
+    "melhoresAmigas": [
+     {
+        "id": "howleen-wolf",
+        "nome": "Howleen Wolf",
+        "foto": "imagens/imagensperfil/Howleen.jpg"
+      },
+      {
+        "id": "spectra-vondergeist",
+        "nome": "Spectra Vondergeist",
+        "foto": "imagens/imagensperfil/Spectra.png"
+      }
+    ],
+    "bonecas": [
+    {
+      "nome": "13 Wishes",
+      "foto": "../imagens/imagens bonecas/TwylaWishes.jpg"
+    },
+    {
+      "nome": "New Scaremester",
+      "foto": "../imagens/imagens bonecas/TwylaScaremester.jpg"
+    },
+      {
+      "nome": "Coffin Bean",
+      "foto": "../imagens/imagens bonecas/TwylaCoffin.jpg"
+    },
+    {
+      "nome": "Haunted",
+      "foto": "../imagens/imagens bonecas/TwylaHaunted.jpg"
+    },
+     {
+      "nome": "Freak Du Chic",
+      "foto": "../imagens/imagens bonecas/TwylaChic.jpg"
+    },
+    {
+      "nome": "SDCC (2025)",
+      "foto": "../imagens/imagens bonecas/TwylaSDCC.jpg"
+    }
+    ]
+  },
+  "heath-burns": {
+    "nome": "Heath Burns",
+    "especie": "Filho dos Elementais de Fogo",
+    "fotoPrincipal": "imagens/imagens personagens/heath.png",
+    "corTema": "#ff6325",
+    "corFundoListras": [
+      "#ff6325",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "5 de abril"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Não informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu sei que todos os outros caras de MH se inspiram no estilo do 'Heathster', então eu tento não ofuscá-los muito e costumo manter um visual casual perto dos meus manos. Claro que eu não posso deixar de usar a minha jaqueta com mangas de chamas; as garotas acham que é um estouro."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Tenho um leve problema de impulso e autocontrole, o que me faz entrar em combustão espontânea acidentalmente nos piores momentos possíveis. Meu pai também diz que o meu tempo de atenção é tão curto que... Ei! O que foi aquilo ali?"
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Vermelho e Amarelo."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Pimentas Fantasma (Ghost Chilis) — cara, elas são como doces para o Heathster."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando eu digo 'Deixa comigo!' e logo em seguida ouço outro monstro gritar 'Heath, não!'. É como se eles simplesmente não tivessem nenhuma fé no Heathster."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Estou economizando para comprar um dragão de estimação. Eu quase tinha o suficiente até precisar usar o dinheiro guardado para substituir a máquina de sorvete (ice scream) da cantina... não pergunte."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo jogar videogame porque eu sempre posso ser o herói e, se eu cometer algum erro, é só apertar o botão de reiniciar."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Educação Física (Physical Deaducation). Eu posso exibir as minhas habilidades atléticas absurdas na frente das garotas."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Ciência Maluca (Mad Science). Não é que eu não goste da matéria, mas é que tem tantas distrações dolorosas na sala de aula."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "deuce-gorgon",
+        "nome": "Deuce Gorgon",
+        "foto": "imagens/imagensperfil/Deuce.png"
+      },
+      {
+        "id": "clawd-wolf",
+        "nome": "Clawd Wolf",
+        "foto": "imagens/imagensperfil/Clawd.png"
+      }
+    ],
+    "bonecas": [
+     {
+      "nome": "Classroom",
+      "foto": "../imagens/imagens bonecas/HeathClassroom.jpg"
+    },
+    {
+      "nome": "Ghoul Fair",
+      "foto": "../imagens/imagens bonecas/HeathFair.jpg"
+    }
+    ]
+  },
+  "viperine-gorgon": {
+    "nome": "Viperine Gorgon",
+    "especie": "Filha de Esteno",
+    "fotoPrincipal": "imagens/imagens personagens/Viperine.webp",
+    "corTema": "#ff85a2",
+    "corFundoListras": [
+      "#ff85a2",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "18 de abril"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Espanhola"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Hippie Boho Chic. Gosto de estar confortável e nunca recuo quando o assunto é misturar cores, estampas e tecidos diferentes."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Algumas pessoas acenam, algumas dão batem as mãos, algumas abraçam... eu mordo. Eu simplesmente não consigo evitar, é o meu jeito de demonstrar afeto. Eu tento me lembrar de apenas apertar as mãos, mas às vezes eu esqueço."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Rosa e ouro cintilante."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Tâmaras... recheadas com amêndoas e enroladas em bacon. Deliciosooo..."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Maquiagem barata. É a mesma coisa que usar tinta guache para pintura a dedo."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Caso você não tenha notado, sob esta juba de cabelo assustadoramente fabuloso existe um ninho de víboras bastante ativo. Eu realmente não tenho espaço na minha pós-vida para mais nada."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo comprar e experimentar maquiagens. Faço a maquiagem das minhas amigas para bailes e fotos escolares, e às vezes vou ao lar dos monstros idosos para fazer transformações nos monstros que vivem lá. Eles têm ótimas histórias para contar, e eu adoro ouvi-las. #GanhaGanha."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Artes. Pintura, escultura e teoria das cores são habilidades que vêm muito a calhar na hora de maquiar."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Matemática. Ah, eu sou boa nisso, só não é a minha favorita."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "elissabat",
+        "nome": "Elissabat",
+        "foto": "imagens/imagensperfil/Elissabat.jpg"
+      },
+      {
+        "id": "honey-swamp",
+        "nome": "Honey Swamp",
+        "foto": "imagens/imagensperfil/honey.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/ViperineFCA.jpg"
+    },
+    {
+      "nome": "Ghoulebrities in Londoom",
+      "foto": "../imagens/imagens bonecas/ViperineLondoom.jpg"
+    },
+    {
+      "nome": "Scare & Makeup",
+      "foto": "../imagens/imagens bonecas/ViperinecareMakeup.jpg"
+    }
+  ]
+  },
+  "elissabat": {
+    "nome": "Elissabat",
+    "especie": "Filha de um Vampiro",
+    "fotoPrincipal": "imagens/imagens personagens/Elissabat_basic.webp",
+    "corTema": "#7209b7",
+    "corFundoListras": [
+      "#7209b7",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "21 de janeiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Romena"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "1601 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Sou 'presas-amente' apaixonada por renda, babados, seda e cetim — desde que seja cheio de frufrus e seja preto ou roxo-escuro."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Tenho um pavor terrível de palco, então preciso estar completamente preparada antes de ficar diante de um público. Já me disseram que sou um talento natural no palco e na frente das câmeras, mas isso é só porque passo horas garantindo que decorei minhas falas. É a única maneira de conseguir fazer o que faço."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Roxo Ameixa."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Laranjas-sanguíneas."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando eu erro uma fala. Eu trabalho duro demais para aprender o meu papel para não cometer erros, e me deixa totalmente morcegada quando isso acontece."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Eu interpretei o papel de uma encantadora de dragões em um filme uma vez. Foi um ótimo personagem, mas nunca transformei isso em um bicho de estimação de verdade na minha pós-vida."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Atuar! Pode parecer estranho eu gostar de atuar tendo medo de palco, mas eu amo dar vida aos personagens que interpreto."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Teatro (Drama). Tive a sorte de treinar com os melhores preparadores de elenco do mundo e estou sempre ansiosa para aprender mais."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Educação Física (Physical Deaducation). Acho que seria aceitável se eu pudesse usar um monstro dublê para ocupar o meu lugar."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "draculaura",
+        "nome": "Draculaura",
+        "foto": "imagens/imagensperfil/Draculaura.jpg"
+      },
+      {
+        "id": "honey-swamp",
+        "nome": "Honey Swamp",
+        "foto": "imagens/imagensperfil/honey.jpg"
+      }
+    ],
+    "bonecas": [
+     {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/ElissabatFCA.jpg"
+    },
+    {
+      "nome": "Ghoulebrities in Londoom",
+      "foto": "../imagens/imagens bonecas/ElissabatLondoom.jpg"
+    },
+    {
+      "nome": "Ghoul Fair",
+      "foto": "../imagens/imagens bonecas/ElissabatFair.jpg"
+    },
+    {
+      "nome": "Frightfully Tall",
+      "foto": "../imagens/imagens bonecas/ElissabatTall.jpg"
+    },
+    {
+      "nome": "Ghouls Getaway",
+      "foto": "../imagens/imagens bonecas/ElissabatGetaway.jpg"
+    }
+    ]
+  },
+  "clawdia-wolf": {
+    "nome": "Clawdia Wolf",
+    "especie": "Filha do Lobisomem",
+    "fotoPrincipal": "imagens/imagens personagens/clawdia.png",
+    "corTema": "#ffe553",
+    "corFundoListras": [
+      "#ffe553",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "13 de fevereiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Norte-Americana"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "19 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Tribal Mauricinho (Tribal Prep). Eu amo misturar estampas tribais gráficas com um toque acadêmico. Como Londoom é 'presas-amente' viva com história literária e fashion, tanto meu cérebro quanto meu guarda-roupa saem ganhando. Para parafrasear Spookspeare: 'Nós somos feitos da mesma matéria de que são feitos os gritos'."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Sempre que estou pensando ou fico nervosa, eu mastigo. Lápis, canetas, clipes de papel, chiclete... o canto do meu iCoffin. Um ano, a Clawdeen me deu uma manicure de aniversário, mas no caminho para casa, tive uma ideia para uma história e, bem — digamos que minha irmãzinha não ficou nada feliz com o que eu mastiguei naquele dia."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Vermelho."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Eu amo 'presas com purê' (fangers and mash), carne de fera assada, e peixe com criptas (fish and crypts). Também gosto de torta de pastor... só que sem a lã."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Monstros que pedem minha caneta emprestada. Sério, eu tenho uma caneta que eu uso. Eu a tenho desde sempre e não a empresto. Ela escreve perfeitamente e eu não consigo criar sem ela."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Estou vasculhando todas as minhas referências literárias tentando decidir o que devo escolher... talvez eu escolha um albatroz ou, uau... um corvo."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Escrever! Eu escrevo todos os dias, porque se você não escreve, não pode se autodenominar uma escritora. Um dia espero ser uma roteirista de terror (screamwriter) em Hauntlywood!"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Filosofia da Estrutura de Roteiros de Terror. Soa entediante, mas é assustadoramente legal! Nós lemos todos os roteiros mais famosos e vemos como os mestres aperfeiçoaram seu ofício."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Artes. Eu sei escrever minhas ideias, mas certamente não sei desenhá-las! Prefiro pintar quadros com palavras."
+      }
+    ],
+    "melhoresAmigas": [
+       {
+        "id": "clawdeen-wolf",
+        "nome": "Clawdeen Wolf",
+        "foto": "imagens/imagensperfil/clawdeen.jpg"
+      },
+      {
+        "id": "howleen-wolf",
+        "nome": "Howleen Wolf",
+        "foto": "imagens/imagensperfil/Howleen.jpg"
+      },
+      {
+       "id": "clawd-wolf",
+        "nome": "Clawd Wolf",
+        "foto": "imagens/imagensperfil/Clawd.png"
+      }
+    ],
+    "bonecas": [
+       {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/ClawdiaFCA.jpg"
+    },
+    {
+      "nome": "A Pack of Trouble",
+      "foto": "../imagens/imagens bonecas/Clawdiatrouble.jpg"
+    }
+    ]
+  },
+  "jane-boolittle": {
+    "nome": "Jane Boolittle",
+    "especie": "Filha do Doutor Boolittle",
+    "fotoPrincipal": "imagens/imagens personagens/jane.png",
+    "corTema": "#bfa8ff",
+    "corFundoListras": [
+      "#bfa8ff",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "19 de junho"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Não informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 ou 16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Acho que chamariam o meu estilo de 'selva chique'. Eu simplesmente adoro pele falsa, estampas de animais e penas. Também tenho uma bengala absolutamente fantástica da qual não consigo me separar por nada."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Passar os meus anos de formação em uma ilha na selva apenas com a companhia de animais não me preparou muito para a convivência com outros monstros em grandes grupos. Quando me vejo nessa situação, meu coração acelera, respiro muito rápido e começo a procurar lugares para me esconder."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Azul e Preto."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Mangas. Quando não consigo encontrá-las frescas, como as desidratadas — uma delícia."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros querem que eu escute escondido as conversas entre os seus bichinhos de estimação e outros animais. Sinceramente, isso não é menos rude do que se eu estivesse bisbilhotando a conversa daquele monstro com um de seus amigos."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Needles é o meu bicho-preguiça de vodu. Eu o amo muito, mas ele está sempre ficando preso, então preciso constantemente lembrar ele de ter 'cuidado-zinho' (scareful)."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo uma boa caminhada. Não há nada tão pacífico e revigorante quanto explorar a natureza e conhecer as criaturas que vivem nela."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Morfologia (Biteology) é 'presa-tástica'! Quer dizer, eu ainda não fui às aulas de verdade, mas já estou com os livros didáticos e aprendendo muito."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Culinária Escarnium (Home Ick). Sou muito boa em juntar todos os ingredientes, mas se eu tiver que juntá-los em uma receita, estou em apuros."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "Sou amiga de qualquer animal necessitado.",
+        "foto": "imagens/imagensperfil/Jane.jpg"
+      }
+    ],
+    "bonecas": [
+     {
+      "nome": "Gloom and Bloom",
+      "foto": "../imagens/imagens bonecas/JaneBloom.jpg"
+    },
+    {
+      "nome": "Ghouls Getaway",
+      "foto": "../imagens/imagens bonecas/JaneGetaway.jpg"
+    },
+    {
+      "nome": "Self-standing Signature",
+      "foto": "../imagens/imagens bonecas/JaneSelfStanding.jpg"
+    }
+    ]
+  },
+  "honey-swamp": {
+    "nome": "Honey Swamp",
+    "especie": "Filha do Monstro do Pântano de Honey Island",
+    "fotoPrincipal": "imagens/imagens personagens/honey.png",
+    "corTema": "#a4fffa",
+    "corFundoListras": [
+      "#a4fffa",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "28 de janeiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Norte-Americana/Nova Goreleans"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "115 anos em anos de monstro do pântano"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Sou doce de temperamento, educada nos modos, feminina na aparência e sociável em companhia. Resumindo, eu corporifico a monstrinha sulista moderna. Também sou forte, independente e capaz — e você faria bem em se lembrar disso."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Sou uma perfeccionista. Acredito que sempre há tempo para fazer algo do jeito certo, e sim, eu percebo que isso pode ser cansativo para os outros monstros."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Verde e Amarelo."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Arroz com feijão-da-morte e jamboolya (jambalaya modificado)."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Não gosto que me confessem pressa. Por favor, reserve o tempo adequado quando me convidar para ir a algum lugar com você."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Morar no pântano significa que minha casa está literalmente rastejando cheia de criaturas. Infelizmente, ainda não consegui encontrar a perfeição em um bicho de estimação. Acho que isso significa que terei que continuar procurando."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu sou uma fotógrafa. Eu não quero ser uma, você entende? Eu já sou uma. Estou sempre me esforçando para aprender mais e ser... perfeita."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Cinematogre-fia (Cinema-togre-phy). Amo aprender novas dicas e truques que me ajudem a aperfeiçoar o meu ofício."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Culinária Escarnium (Home Ick). Querido, eu já sei cozinhar, e garanto que uma aula de uma hora não é nem de longe tempo suficiente para aperfeiçoar qualquer receita."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "viperine-gorgon",
+        "nome": "Viperine Gorgon",
+        "foto": "imagens/imagensperfil/Viperine.jpg"
+      },
+      {
+        "id": "clawdia-wolf",
+        "nome": "Clawdia Wolf",
+        "foto": "imagens/imagensperfil/Clawdia.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Frights, Camera, Action!",
+      "foto": "../imagens/imagens bonecas/HoneyFCA.jpg"
+    },
+    {
+      "nome": "Freak Du Chic",
+      "foto": "../imagens/imagens bonecas/HoneyChic.jpg"
+    },
+    {
+      "nome": "Gore-Geous Accessories",
+      "foto": "../imagens/imagens bonecas/HoneyAccessories2.jpg"
+    }
+    ]
+  },
+  "slo-mo-mortavitch": {
+    "nome": "Sloman 'Slo Mo' Mortavitch",
+    "especie": "Filho dos Zumbis",
+    "fotoPrincipal": "imagens/imagens personagens/SloMo.png",
+    "corTema": "#4a4e69",
+    "corFundoListras": [
+      "#4a4e69",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "13 de maio"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "russo-americano"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu tenho que passar tanto tempo da minha pós-vida tomando decisões que não gosto de gastar tempo escolhendo o que vou vestir. Meu estilo é simples e direto: jeans, camiseta, tênis e a minha jaqueta do time da escola. Isso me deixa com muito mais tempo para as decisões realmente importantes. Onde vou me encontrar com a Ghoulia, por exemplo."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu sempre levo um tempo incrivelmente longo para pensar sobre as coisas. Preciso fazer investigações e reunir todos os fatos necessários antes de dizer 'sim' ou 'não'. Não sei se isso é um defeito típico de zumbi ou se é apenas coisa minha. De qualquer forma, a Ghoulia sempre diz que eu sou tão espontâneo quanto uma geleira."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Roxo."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Cereal de Caixão (Grave Flakes) com leite — é a minha melhor escolha!"
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Monstros que não entendem o meu senso de humor. Eu odeio ter que explicar o final de uma piada — isso arruína toda a graça."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Ainda preciso fazer muito mais pesquisas antes de tomar uma decisão sobre escolher um bicho de estimação."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "São duas coisas: basquete de caixão (casketball) e xadrez. Não consigo decidir de qual gosto mais, e não vou mudar de ideia tão cedo."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Matemática Avançada. Mesmo quando é diabolicamente difícil, acho o cálculo incrivelmente interessante."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Retórica — ou, estritamente falando, ter que falar de forma espontânea na frente de outras pessoas. Eu preciso de tempo para me preparar."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "ghoulia-yelps",
+        "nome": "Ghoulia Yelps",
+        "foto": "imagens/imagensperfil/Ghoulia.png"
+      },
+       {
+        "id": "deuce-gorgon",
+        "nome": "Deuce Gorgon",
+        "foto": "imagens/imagensperfil/Deuce.png"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Ghoul Spirit", "foto": "imagens/imagens bonecas/SloMoSpirit.jpg" },
+      { "nome": "We Are Monster High", "foto": "imagens/imagens bonecas/SloMoWeAreMH.jpg" },
+      { "nome": "Love's Not Dead", "foto": "imagens/imagens bonecas/SloMoLovesNotDead.jpg" }
+    ]
+  },
+  "catty-noir": {
+    "nome": "Catty Noir",
+    "especie": "Filha do Homem-Gato",
+    "fotoPrincipal": "imagens/imagens personagens/Catty_Noir.webp",
+    "corTema": "#e73396",
+    "corFundoListras": [
+      "#e73396",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "13 de setembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Não informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Quando estou me apresentando, eu amo roupas grandes, chamativas e maiores que a pós-vida, porque elas são monstruosamente glamourosas, assustadoramente descoladas e 'presas-amente' divertidas! Mesmo quando estou fora dos palcos, gosto de usar roupas que brilham e piscam, porque me fazem sentir sortuda."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu sou extremamente supersticiosa. Por exemplo, eu sempre como a mesma coisa duas horas antes de cada show: 7 nuggets de frango, 5 fatias de maçã e 1 milkshake de morango assustador (strawscarry shake). Eu tenho que entrar no palco pelo lado esquerdo passando por baixo de uma escada e sair pelo lado direito passando por baixo de outra e, finalmente, sempre uso um pedaço de espelho quebrado quando estou no palco. Acho que dá muito azar se alguma dessas coisas não acontecer."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Magenta."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Batatas fritas de arrepiar com queijo (Chilling cheese fries). São a minha comida favorita para depois dos shows."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Não ser capaz de fazer a minha própria agenda. Depois de passar anos tendo cada minuto da minha pós-vida planejado por mim, eu já estou TO-TAL-MEN-TE ES-GO-TA-DA disso!"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Não ter um animal de estimação foi apenas um dos sacrifícios que senti que tive que fazer para seguir a carreira de cantora, mas agora estou ansiosa para conseguir algo assustadoramente fofo e terrivelmente doce."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu gosto de responder pessoalmente às cartas dos fãs, de verdade. Sei que isso pode não soar muito glamouroso, mas me ajuda a me sentir conectada a eles, especialmente porque, sem o apoio deles, eu não estaria aqui."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Acho que vai ser Literatura Monstruosa. Uma das coisas que eu mais fazia enquanto viajava muito entre os shows era ler, e estou animada para aprender e ler mais sobre os clássicos."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Eu realmente não tenho uma. Acho que sou bastante sortuda porque tenho interesse em praticamente tudo."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "Estou ansiosa para fazer alguns amigos.",
+        "foto": "imagens/imagensperfil/Catty.jpg"
+      }
+    ],
+    "bonecas": [
+       {
+      "nome": "New Scaremester",
+      "foto": "../imagens/imagens bonecas/CattyScaremester.jpg"
+    },
+    {
+      "nome": "Geek Shriek",
+      "foto": "../imagens/imagens bonecas/CattyGeek.jpg"
+    },
+    {
+      "nome": "Ghoulebrities in Londoom",
+      "foto": "../imagens/imagens bonecas/CattyLondoom.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/CattyBooYork.jpg"
+    },
+    {
+      "nome": "Boo York, Boo York",
+      "foto": "../imagens/imagens bonecas/CattyBooYork2.jpg"
+    },
+    {
+      "nome": "Fierce Rockers",
+      "foto": "../imagens/imagens bonecas/CattyireRockers.jpg"
+    },
+    {
+      "nome": "Self-standing Signature",
+      "foto": "../imagens/imagens bonecas/CattySelfStanding.jpg"
+    }
+    ]
+  },
+  "wydowna-spider": {
+    "nome": "Wydowna Spider",
+    "especie": "Filha de Aracne",
+    "fotoPrincipal": "imagens/imagens personagens/wydowna.png",
+    "corTema": "#e63946",
+    "corFundoListras": [
+      "#e63946",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "15 de novembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Não informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gosto de chamar o meu estilo de 'geek rock and roll'. Amo me envolver em espinhos, tachas e cores que totalmente gritam. Pode parecer intimidador, mas o meu coração é tão macio quanto a seda."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu sou tão multitarefa que às vezes fico totalmente esgotada. Nem percebo isso até me ver encolhida em uma bola, me perguntando como fiquei tão cansada 'de repente'."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Vermelho."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Fonboo (Fondue) é o meu favorito, porque com seis braços eu posso comer doce e salgado ao mesmo tempo."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Será que os monstros poderiam parar com essa piada de 'viúva negra'? É tão sem graça na milésima vez quanto foi na primeira, e isso realmente deixa a minha teia toda embaraçada."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Shoo é a minha mosca de estimação. Ela está sempre me abastecendo com momentos dignos de zumbido."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo dar uma 'mãozinha' (ou várias) para as minhas amigas, pegando as ideias delas e trazendo-as para a pós-vida com as minhas habilidades de ilustração e costura. Como sou uma fã de carteirinha no fundo do coração, é assustadoramente legal que elas confiem em mim com suas visões."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Artes, Culinária Escarnium (Home Ick) e Geometria. Consigo fazer as três ao mesmo tempo e nunca fico travada."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Línguas Mortas. Eu basicamente tenho que sentar sobre as minhas mãos a aula inteira, o que me deixa super ansiosa."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "ghoulia-yelps",
+        "nome": "Ghoulia Yelps",
+        "foto": "imagens/imagensperfil/Ghoulia.png"
+      },
+       {
+        "id": "clawdeen-wolf",
+        "nome": "Clawdeen Wolf",
+        "foto": "imagens/imagensperfil/clawdeen.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "SDCC Exclusive (2013)", "foto": "imagens/imagens bonecas/WydownaSDCC.jpg" },
+     {
+      "nome": "I Heart Fashion",
+      "foto": "../imagens/imagens bonecas/WydownaFashion.jpg"
+    }
+    ]
+  },
+  "bonita-femur": {
+    "nome": "Bonita Femur",
+    "especie": "Híbrida (Filha de um Esqueleto com uma Mariposa)",
+    "fotoPrincipal": "imagens/imagens personagens/Bonita.png",
+    "corTema": "#ff91c8",
+    "corFundoListras": [
+      "#ff91c8",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "17 de setembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Não informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu sou totalmente atraída por cores brilhantes, e meu lugar favorito para garimpá-las são mercados de pulgas! Não julgue. Você sempre pode encontrar modas vintage assustadoramente descoladas e transformá-las em algo único."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Quando fico nervosa, costumo roer minhas próprias roupas. Sei que é um mau hábito, mas uma boa mistura de lã realmente me acalma."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Qualquer uma que seja brilhante e vibrante!"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Lã e seda."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando as pessoas me chamam de 'cabeça de vento', só porque sempre me veem esvoaçando pelos corredores. E eu também não sou muito fã de redes."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Acho que sou nervosa demais para ter um bicho de estimação. Eu viveria preocupada em como ele estaria passando enquanto eu estivesse longe dele na escola."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Fazer compras! Uma monstrinha como eu nunca se cansa de ganhar roupas novas, especialmente quando todas as minhas roupas atuais têm marcas de mastigação e furos."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Artes. Sou realmente atraída por formas e luz. Especialmente a luz... ela é tãoooo fascinante e maravilhosa."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Morfologia (Biteology). Não sei dizer exatamente o porquê de eu não gostar, mas tenho uma dificuldade mortal em me concentrar nesta aula."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "neighthan-rot",
+        "nome": "Neighthan Rot",
+        "foto": "imagens/imagensperfil/Neightan.jpg"
+      },
+      {
+        "id": "avea-trotter",
+        "nome": "Avea Trotter",
+        "foto": "imagens/imagensperfil/Avea.jpg"
+      },
+      {
+        "id": "sirena-von-boo",
+        "nome": "Sirena Von Boo",
+        "foto": "imagens/imagensperfil/Sirena.jpg"
+      }
+    ],
+    "bonecas": [
+     {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/BonitaFusion.jpg"
+    }
+    ]
+  },
+  "avea-trotter": {
+    "nome": "Avea Trotter",
+    "especie": "Híbrida (Filha de um Centauro com uma Harpia)",
+    "fotoPrincipal": "imagens/imagens personagens/Avea.png",
+    "corTema": "#51a2ff",
+    "corFundoListras": [
+      "#51a2ff",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "5 de maio"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Não informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu amo a alta costura assustadora equestre, e não há nada que me dê mais vontade de empinar e bater os cascos do que um par de luvas novas."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu sou um pouquinho... ok, bastante... teimosa. Assim que tomo uma decisão, odeio ser refreada e tenho muita dificuldade em não ir contra a maré."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Vermelho. Fica muito bem em mim, então é o que eu gosto de usar."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Milho, aveia, alfafa e vitaminas de grama de trigo. Também sou bastante fã de maçãs e cubos de açúcar."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Eu não sou pônei de passeio de parque de diversões, então não, eu não vou te dar uma carona, deixar você pegar 'carona' nas minhas costas ou simplesmente 'te levar num trote até a próxima aula'. É indigno."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Nunca encontrei nenhum que conseguisse acompanhar o meu ritmo."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Consigo correr como o vento, e não há nada que eu goste mais do que sair galopando por aí, bem... por qualquer lugar."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Educação Física (Physical Deaducation). Qualquer aula que me permita correr é de arrasar!"
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Natação. Você tem ideia de quanto tempo eu levo para me secar inteira para não ter que ir para a próxima aula ensopada e batendo os cascos de molhado?"
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "neighthan-rot",
+        "nome": "Neighthan Rot",
+        "foto": "imagens/imagensperfil/Neightan.jpg"
+      },
+      {
+        "id": "bonita-femur",
+        "nome": "Bonita Femur",
+        "foto": "imagens/imagensperfil/Bonita.jpg"
+      },
+      {
+        "id": "sirena-von-boo",
+        "nome": "Sirena Von Boo",
+        "foto": "imagens/imagensperfil/Sirena.jpg"
+      }
+    ],
+    "bonecas": [
+     {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/AveaFusion.jpg"
+    }
+    ]
+  }, 
+  "sirena-von-boo": {
+    "nome": "Sirena Von Boo",
+    "especie": "Híbrida (Filha de uma Sereia com um Fantasma)",
+    "fotoPrincipal": "imagens/imagens personagens/Sirena.png",
+    "corTema": "#8395ff",
+    "corFundoListras": [
+      "#8395ff",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "12 de agosto"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Não informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gosto de combinar modas de ambos os lados da minha herança, como entrelaçar cordões de pérolas com as minhas correntes. Quero dizer, se você vai sair por aí fazendo barulho com correntes, é melhor estar na moda enquanto faz isso."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Acho que alguns monstros me acham um pouco 'cabeça de vento' (air fin), mas o que eu realmente sou é uma sonhadora acordada. Estou sempre flutuando longe em meus pensamentos, seja na terra ou no mar."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Azul Pervinca."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Sushi de alga marinha. É tão leve e mortalmente saboroso."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Odeio ficar ancorada em um só lugar. Prefiro muito mais me deixar levar para onde quer que a maré me leve."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Eu sonho em ter um bicho de estimação um dia, mas até agora esse sonho não se tornou realidade."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Sou supercuriosa, então amo caçar tesouros no mar e ir a lojas de antiguidades em terra firme. Adoro encontrar descobertas bizarras, únicas e especiais."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Arqueologia. É como uma nova aventura todos os dias, porque você nunca sabe o que a maré vai trazer."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Às vezes, a minha matéria favorita em um dia é a que eu menos gosto no dia seguinte. Estranho, né?"
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "neighthan-rot",
+        "nome": "Neighthan Rot",
+        "foto": "imagens/imagensperfil/Neightan.jpg"
+      },
+      {
+        "id": "bonita-femur",
+        "nome": "Bonita Femur",
+        "foto": "imagens/imagensperfil/Bonita.jpg"
+      },
+      {
+        "id": "avea-trotter",
+        "nome": "Sirena Von Boo",
+        "foto": "imagens/imagensperfil/Avea.jpg"
+      }
+    ],
+    "bonecas": [
+       {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/SirenaFusion.jpg"
+    }
+    ]
+  },
+  "neighthan-rot": {
+    "nome": "Neighthan Rot",
+    "especie": "Híbrido (Filho de um Zumbi com um Unicórnio)",
+    "fotoPrincipal": "imagens/imagens personagens/Neighthan.webp",
+    "corTema": "#41a3ff",
+    "corFundoListras": [
+      "#41a3ff",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "10 de setembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Não informada"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gosto de detalhes com espinhos para combinar com o meu chifre e cores fortes e brilhantes, porque elas fazem um trabalho melhor em camuflar os resultados dos meus tombos e da minha falta de jeito. Além disso, e espero que isso não soe arrogante, mas acho que a minha crina e a minha cauda são de arrasar."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Não dá para esconder o fato de que eu sou simplesmente desastrado, e tem dias que acho que conseguiria tropeçar até no vento. Se você precisa de algo derrubado, derramado ou quebrado, eu sou definitivamente o monstro certo para o serviço."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Principalmente Vermelho, Amarelo e Azul."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Picles fritos e salgadinhos de cérebro (brain puffs) — mas não ao mesmo tempo, porque isso seria nojento."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros fazem julgamentos sobre outros monstros baseando-se apenas na aparência. Isso não é justo, e eu não gosto disso."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Sendo desastrado do jeito que sou, acho que o único bicho de estimação em quem eu confiaria seria um mastodonte, e ouvi dizer que eles ocupam muito espaço."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Gosto de passar o tempo com as minhas melhores amigas. Sei que isso não soa aventureiro ou emocionante, embora possa ser, mas sou um monstro sociável e é isso que eu gosto de fazer."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Psicologia Monstruosa. É assustador o quanto você pode aprender sobre uma matéria quando a ama. Eu quero ajudar os monstros a se curarem por dentro. As feridas que levam mais tempo para cicatrizar costumam ser aquelas que não conseguimos ver."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Dança. Eu gostaria de ter dois pés esquerdos, acho que isso melhoraria a minha coordenação."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "sirena-von-boo",
+        "nome": "Neighthan Rot",
+        "foto": "imagens/imagensperfil/Neightan.jpg"
+      },
+      {
+        "id": "bonita-femur",
+        "nome": "Bonita Femur",
+        "foto": "imagens/imagensperfil/Bonita.jpg"
+      },
+      {
+        "id": "sirena-von-boo",
+        "nome": "Sirena Von Boo",
+        "foto": "imagens/imagensperfil/Sirena.jpg"
+      }
+    ],
+    "bonecas": [
+      {
+      "nome": "Freaky Fusion",
+      "foto": "../imagens/imagens bonecas/NeighthanFusion.jpg"
+    }
+    ]
+  },
+  "diretora-sem-cabeça": {
+    "nome": "Diretora Sem-Cabeça Bloodgood",
+    "especie": "Filha do Cavaleiro Sem Cabeça",
+    "fotoPrincipal": "imagens/imagens personagens/Diretora.png",
+    "corTema": "#4c3288",
+    "corFundoListras": [
+      "#4c3288",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "29 de novembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Norte-Americana"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "Velha o suficiente para ser sua avó — jovem o suficiente para ser sua irmã."
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Capa preta de sarja, blusa de gola alta, botas de montaria, uma régua de madeira e um livro de gramática."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Uma dama não revela tais coisas em público. É inadequado. Embora eu deva confessar que, às vezes, a minha cabeça e o meu corpo se encontram em locais completamente separados."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Eu prefiro azul-escuro ou preto, mas a minha verdadeira cor favorita é a cor do conhecimento."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Scones fresquinhos com geleia e uma xícara de chá. Encantador."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Monstros jovens que presumem que não têm mais nada a aprender. É desagradável ver uma mentalidade tão estreita nos mais jovens."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Nightmare é a minha égua e companheira constante. Embora o seu comportamento nervoso desminta o seu nome bastante intimidador, ela está quase sempre pronta para atacar em qualquer situação a qualquer momento... quase."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo reunir monstros de diferentes culturas e origens e assistir a eles descobrindo que as suas semelhanças superam, e muito, as suas diferenças."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Por que não pergunta de qual dos meus alunos eu gosto mais?"
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Não me faça ir buscar a minha régua de madeira."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "Estou satisfeita com um bom livro",
+        "foto": "imagens/imagensperfil/Diretora.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Self-standing Signature", "foto": "imagens/imagens bonecas/DiretoraSelfStanding.jpg" },
+      { "nome": "Self-standing Signature (Nightmare)", "foto": "imagens/imagens bonecas/NightmareSelfStanding.jpg" }
+    ]
+  },
+  "river-styxx": {
+    "nome": "River Styxx",
+    "especie": "Filha do Ceifador da Morte (Grim Reaper)",
+    "fotoPrincipal": "imagens/imagens personagens/River.png",
+    "corTema": "#d6c4ff",
+    "corFundoListras": [
+      "#d6c4ff",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "13 de junho"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Grega"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "14 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Tão doce que vai fazer os seus ossos doerem! ;p Eu amo cores doces misturadas e espiraladas juntas."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Tenho muita energia, o que torna difícil para mim flutuar parada, e eu fico aparecendo e sumindo do nada, o que tende a fazer os monstros pularem de susto... muito. Especialmente quando eu surjo bem atrás deles! Eu não acho que seja um defeito tão grande quanto os outros monstros pensam."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Roxo Plasma. Eu simplesmente amo o jeito que brilha — é claro e escuro ao mesmo tempo!"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "DOCES! Eu tenho um osso tão doce! Caveiras de açúcar... não, chocolate podre... não, correntes de alcaçuz... ah, não consigo escolher um favorito!"
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Desmancha-prazeres em festas! Quer dizer, qual é! Se você não consegue se animar para uma festa, você está simplesmente morto por dentro."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Um esqueleto de corvo chamado Cawtion — ele nunca falha em vir quando eu o 'grunho' (caw)."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Planejamento de festas! Comida, decoração, entretenimento — eu amo tudo o que envolve uma festa bem... executada.. hehe."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Línguas Mortas (Dead Languages). Ai meu Monstro, é tão assustadoramente divertido ser capaz de conversar com fantasmas de todo o mundo!"
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Ciência Fantasma. Tenho certeza de que é importante, mas ouvir por horas a análise 'boo-lógica' do ectoplasma consegue fazer até eu dormir."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "vandala-doubloons",
+        "nome": "Vandala Doubloons",
+        "foto": "imagens/imagensperfil/vandala.jpg"
+      },
+       {
+        "id": "porter-geiss",
+        "nome": "Porter Geiss",
+        "foto": "imagens/imagensperfil/porter.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Haunted", "foto": "imagens/imagens bonecas/RiverHaunted.jpg" }
+    ]
+  },
+  "porter-geiss": {
+    "nome": "Porter 'Paintergeist' Geiss",
+    "especie": "Filha de um Poltergeist",
+    "fotoPrincipal": "imagens/imagens personagens/Porter.png",
+    "corTema": "#93ff7d",
+    "corFundoListras": [
+      "#93ff7d",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "23 de agosto"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Nova-iorquino (EUA)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gosto de vestir a minha arte. Isso cria uma declaração de moda que é unicamente minha. Eu me esforço para ser uma obra-prima (monsterpiece) original."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Costumo me expressar através da minha arte, o que alguns críticos nem sempre apreciam. Acho que você poderia dizer que eu não apenas falo; eu picho (I don't say it; I spray it)."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Branco. É a base de todas as cores."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Picles. Doces, azedos ou apimentados — eu saboreio em todas as formas."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros me chamam de vândalo. Eu não sou um vândalo. Quando eu pinto em algo que não me pertence, uso tinta fantasma, então ela evapora. Mas espero que a minha mensagem assombre os espectadores muito depois de sumir."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Um guaxinim chamado Huebert. Ele é quase tão travesso quanto eu."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Pintar. Eu transformo qualquer coisa em tela! Uma parede, o chão, os meus sapatos... se estiver em branco, eu pinto por cima! Mas apenas com tinta fantasma, é claro!"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Artes. Existem tantos meios diferentes! E eu amo tentar coisas além da pintura."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Ciência Maluca (Mad Science). Aparentemente, criatividade e ciência não se misturam. Pelo menos foi o que me disseram depois que eu redesenhei a tabela 'pavoriódica' dos elementos para deixá-la 100% menos entediante."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "vandala-doubloons",
+        "nome": "Vandala Doubloons",
+        "foto": "imagens/imagensperfil/vandala.jpg"
+      },
+       {
+        "id": "river-styxx",
+        "nome": "River Styxx",
+        "foto": "imagens/imagensperfil/river.jpg"
+      },
+       {
+        "id": "kiyomi-haunterly",
+        "nome": "Kiyomi Haunterly",
+        "foto": "imagens/imagensperfil/Kiyomi.jpg"
+      },
+      {
+        "id": "spectra-vondergeist",
+        "nome": "Spectra Vondergeist",
+        "foto": "imagens/imagensperfil/Spectra.png"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Haunted", "foto": "imagens/imagens bonecas/PorterHaunted.jpg" }
+    ]
+  },
+  "vandala-doubloons": {
+    "nome": "Vandala Doubloons",
+    "especie": "Filha de um Pirata Fantasma",
+    "fotoPrincipal": "imagens/imagens personagens/Vandala.png",
+    "corTema": "#a9ffec",
+    "corFundoListras": [
+      "#a9ffec",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "19 de setembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Mar Aberto (Águas Internacionais)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Náutico Yo-Ho Bo-Ho chique. Silhuetas fluidas me lembram os respingos da proa em mar aberto e um vento favorável nas minhas velas."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Arrgh, isso é tão embaraçoso, mas às vezes eu sinto enjoo marítimo... Eu sou um fantasma — como isso sequer acontece? Além disso, às vezes a atração pela aventura naufraga a minha capacidade de considerar as consequências."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Verde espuma do mar."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Peixe com criptas (Fish and crypts)."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando um fantasma não consegue tomar uma decisão! Um capitão deve ser decisivo, então ou me dê uma ordem para cumprir ou me dê o timão e me deixe pilotar."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Polvo/Choco (cuttlefish) com um tapa-olho. Sim, o nome dele é Olho! (Aye!)."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Explorar áreas desconhecidas do profundo mar 'boo'. Você nunca sabe quais novas terras vai descobrir ou quais tesouros vai desenterrar."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Ge-ogre-fia (Ge-ogre-phy). Eu AMO mapas, especialmente aqueles onde o 'X' marca o lugar."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Teatro (Drama). Não há espaço para isso em alto-mar."
+      }
+    ],
+    "melhoresAmigas": [
+     {
+        "id": "river-styxx",
+        "nome": "River Styxx",
+        "foto": "imagens/imagensperfil/river.jpg"
+      },
+       {
+        "id": "kiyomi-haunterly",
+        "nome": "Kiyomi Haunterly",
+        "foto": "imagens/imagensperfil/Kiyomi.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Haunted", "foto": "imagens/imagens bonecas/VandalaHaunted.jpg" }
+    ]
+  },
+  "kiyomi-haunterly": {
+    "nome": "Kiyomi Haunterly",
+    "especie": "Filha do Noppera-bō (Fantasma Sem Rosto Japonês)",
+    "fotoPrincipal": "imagens/imagens personagens/Kiyomi.png",
+    "corTema": "#d29bff",
+    "corFundoListras": [
+      "#d29bff",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "1 de novembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Japonesa"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gosto de modas que sejam confortáveis e 'fluidas'. Elas são muito práticas se você vai passar muito tempo flutuando por aí."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Sempre fui um espírito reservado e silencioso, preferindo deixar que a minha aparência diga o que precisa ser dito. No entanto, eu mudo de tom de cor com base na emoção que estou sentindo no momento."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Murasaki... roxo."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "O udon caseiro da minha avó. É uma refeição de morrer."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Não gosto quando as criaturas reclamam em voz alta. É cansativo e não é honroso."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Um filhote de kaiju. Meus pais sugeriram uma kitsune, já que os kaijus são barulhentos e meio destrutivos. Mas eu acho ele super 'kawaii', mesmo que ele ache que rugir seja mais assustador do que aparecer silenciosamente."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo observar as outras criaturas vivendo suas pós-vidas diárias. Também acho divertido ver as reações delas quando eu copio o rosto delas no meu."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Caligrafia. A arte da escrita é uma habilidade 'presa-tástica' e pode acalmar um espírito perturbado."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Educação Física (Physical Deaducation). Há gritaria e comoção demais para o meu gosto."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "spectra-vondergeist",
+        "nome": "Spectra Vondergeist",
+        "foto": "imagens/imagensperfil/Spectra.png"
+      },
+       {
+        "id": "draculaura",
+        "nome": "Draculaura",
+        "foto": "imagens/imagensperfil/Draculaura.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Haunted: Getting Ghostly", "foto": "imagens/imagens bonecas/KiyomiHaunted.jpg" }
+    ]
+  },
+  "casta-fierce": {
+    "nome": "Casta Fierce",
+    "especie": "Filha de Circe",
+    "fotoPrincipal": "imagens/imagens personagens/Casta.webp",
+    "corTema": "#7209b7",
+    "corFundoListras": [
+      "#7209b7",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "23 de outubro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Grega"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "19 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu gosto de muitas fivelas e tiras cruzadas sobre roupas pretas e roxas salpicadas de glitter."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Tenho que me certificar de escrever as letras das minhas músicas exatamente da maneira certa, ou corro o risco de transformar o meu público em... bem... vamos apenas dizer que sapos não costumam pedir bis."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Preto e Roxo."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Tomates e queijo monsterella com vinagre balsâmico."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Fãs que chegam tarde e vão embora cedo. Se você vem ao meu show, por favor, chegue na hora e fique até o final. Isso distrai, especialmente os fãs de verdade que realmente querem estar lá. Se isso me faz parecer uma diva, eu posso conviver (ou desviver) com isso!"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Não posso ter um animal de estimação porque acho que não aguentaria ser constantemente questionada: 'Ah, que fofo... esse era um fã seu?'"
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Sou uma artista. Amo estar no palco sob as luzes com um público na minha frente. Não há nada igual, e é tudo o que eu sempre quero fazer."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Quando eu estava na escola, era Teatro (Drama). Eu sempre soube atuar e cantar, mas as aulas de teatro me ensinaram a ser uma artista de entretenimento. Também foi lá que aprendi os efeitos 'feitiçais' e a 'foguetecnia' que uso nos meus shows."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "—"
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "catty-noir",
+        "nome": "Catty Noir",
+        "foto": "imagens/imagensperfil/Catty.jpg"
+      },
+       {
+        "id": "operetta",
+        "nome": "Operetta",
+        "foto": "imagens/imagensperfil/Operetta.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Self-standing Signature", "foto": "imagens/imagens bonecas/CastaSelfStanding.jpg" }
+    ]
+  },
+  "marisol-coxi": {
+    "nome": "Marisol Coxi",
+    "especie": "Filha do Maricoxi (Pé-Grande Sul-Americano)",
+    "fotoPrincipal": "imagens/imagens personagens/Marisol.webp",
+    "corTema": "#ffa3d6",
+    "corFundoListras": [
+      "#ffa3d6",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "25 de março"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Monster Picchuense (Peru)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu gosto de tudo GRANDE E BARULHENTO! Cores, música, cabelo — tudo comigo vai até o '12', exceto os meus pés; eles estão totalmente fora da escala porque são simplesmente assustadoramente lindos demais para serem medidos. Então, quando me vir chegando (e sou impossível de passar despercebida na minha versão colorida e moderna das modas tradicionais de Monster Picchu), lembre-se: Cabelo Grande Não Assusta."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Meus pais dizem que mesmo quando estou sussurrando, sou quase tão silenciosa quanto uma avalanche, mas eu sou simplesmente maior do que a própria vida (larger than unlife) e não consigo esconder — nem que eu quisesse — o que estou sentindo por dentro."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Verde-limão brilhante e rosa choque brilhante."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Ceviche é de longe a minha comida favorita, e eu amo especialmente o leite de tigre que sobra no fundo da tigela."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Lojas de sapatos que não vendem o meu tamanho. Meus pés são uma obra de arte, então seria pedir demais que uma loja oferecesse uma variedade de 'molduras' estilosas no meu tamanho?"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Eu amo lhamas, embora não tenha uma de estimação. Quero dizer, como eu poderia não amá-las? Elas são peludinhas, excêntricas e fazem tanta parte de Monster Picchu quanto eu."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo fazer novas artes nas unhas! É a maneira mais perfeita de realçar as minhas melhores características, e que monstrinha não gosta de ganhar uma manicure e pedicure?"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Educação Física (Physical Deaducation). Sou uma excelente jogadora de basquete (casketball), e uso o fato de ser alta e barulhenta como uma grande vantagem. Eu também consigo enterrar a bola, o que é de arrepiar."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Dragonomia (Dragonomics). Você tem que ficar tão quieta enquanto todo mundo está se concentrando."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "abbey-bominable",
+        "nome": "Abbey Bominable",
+        "foto": "imagens/imagensperfil/Abbey.png"
+      },
+      {
+        "id": "lorna-mcNessie",
+        "nome": "Lorna McNessie",
+        "foto": "imagens/imagensperfil/lorna.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Monster Exchange", "foto": "imagens/imagens bonecas/MarisolExchange.jpg" }
+    ]
+  },
+  "lorna-mcnessie": {
+    "nome": "Lorna McNessie",
+    "especie": "Filha do Monstro do Lago Ness",
+    "fotoPrincipal": "imagens/imagens personagens/Lorna.webp",
+    "corTema": "#00a896",
+    "corFundoListras": [
+      "#00a896",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "16 de maio"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Rotlandesa (Escócia)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "14 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Sendo uma monstrinha das Terras Altas, eu estaria fazendo um desserviço ao meu clã se não usasse o meu xadrez (plaid). E já que pode fazer um frio de rachar em Rotland, também gosto de usar saias de lã e cachecóis para manter o frio bem longe."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Nunca vi uma foto da qual eu não quisesse fazer parte, para o desespero dos meus pais, que são notoriamente tímidos para fotos. Não é que eu queira estragar o clique, mas é que é divertido demais!"
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Gosto da maioria das cores, desde que venham em estampa xadrez."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Haggis — se é que existe um prato que foi feito sob medida para um monstro, com certeza é esse."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Expedições de normies para tentar descobrir se nós realmente existimos. Toda vez que eles trazem um submarino, uma câmera subaquática ou um sonar, temos que deixar o lago até que eles vão embora. Não é nada divertido ter que se mudar, e eu perco a chance de aparecer nas fotos."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Sempre quis um bicho de terra firme, como uma vaca das Terras Altas, mas quando você mora em um lago, não tem lugar nenhum para guardar uma."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Sim, é o 'photobombing' (invadir fotos alheias), mas não do tipo comum. Gosto de encontrar maneiras de entrar em um clique de forma que não seja tão óbvia. Então, você pode não me ver quando olhar para a imagem pela primeira vez."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Culinária (Home Ick). Gosto de assar doces e a sala de aula está sempre quentinha, o que é ótimo."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Artes. Eu não quero desenhar imagens, eu quero estar nelas!"
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "marisol-coxi",
+        "nome": "Marisol Coxi",
+        "foto": "imagens/imagensperfil/marisol.jpg"
+      },
+      {
+        "id": "gil-webber",
+        "nome": "Gil Webber",
+        "foto": "imagens/imagensperfil/Gil.webp"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Monster Exchange", "foto": "imagens/imagens bonecas/LornaExchange.jpg" }
+    ]
+  },
+  "invisi-billy": {
+    "nome": "Invisi Billy",
+    "especie": "Filho do Homem Invisível",
+    "fotoPrincipal": "imagens/imagens personagens/Invisi_Billy.webp",
+    "corTema": "#00b4d8",
+    "corFundoListras": [
+      "#00b4d8",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "11 de dezembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Norte-americano (EUA)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu praticamente vivo de moletom com capuz, jeans skinny rasgado e touca, então acho que se eu tivesse que dar um nome ao meu estilo, provavelmente seria 'blipster' (um hipster invisível)."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Consigo ficar visível sempre que eu quiser, mas é simplesmente mais fácil para mim continuar invisível porque aí eu não preciso pensar nisso. Às vezes, porém, preciso me lembrar que pegar o caminho mais fácil nem sempre me leva aonde preciso ir."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Azul-Invisível."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Eu amo frutos do mar e tortas."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros acham que eu sou um fantasma. Eu sou apenas invisível — não consigo atravessar paredes, a menos que haja portas abertas nelas."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Eu tive um cachorro uma vez, mas precisei doá-lo porque toda vez que eu o levava para passear, a carrocinha tentava pegá-lo achando que ele era um vira-lata perdido na rua."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo fazer os efeitos especiais para as produções de teatro de Monster High. É assustadoramente legal quando o público faz 'oh' e 'ah' por causa de um efeito, ficando claro que eles não conseguem descobrir como foi feito. Ah, e passar o tempo com a minha monstronamorada, Scarah Screams."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Teatro (Drama). Não a parte de atuar, mas as partes técnicas, como design de cenários e efeitos especiais."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Educação Física (Physical Deaducation). Especialmente nos dias em que jogamos futebol. Eu fico tipo: 'Ei quarterback, eu estava completamente livre!', e ele responde: 'Desculpe, eu não te vi'. Patético."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "scarah-screams",
+        "nome": "Scarah Screams",
+        "foto": "imagens/imagensperfil/Scarah.Webp"
+      },
+      {
+        "id": "catty-noir",
+        "nome": "Catty Noir",
+        "foto": "imagens/imagensperfil/Catty.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "New Scaremester", "foto": "imagens/imagens bonecas/InvisiScaremester.jpg" },
+       { "nome": "Maul Monsteristas", "foto": "imagens/imagens bonecas/InvisiMonsteristas.jpg" }
+    ]
+  },
+ "amanita-nightshade": {
+    "nome": "Amanita Nightshade",
+    "especie": "Filha da Flor Cadáver",
+    "fotoPrincipal": "imagens/imagens personagens/Amanita.webp",
+    "corTema": "#9affc4",
+    "corFundoListras": [
+      "#9affc4",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "19 de março"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Selva de Gloom"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos em anos de Flor Cadáver"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "O visual cuidadosamente cultivado de Amanita Nightshade faz com que qualquer outra flor no jardim do estilo pareça uma erva daninha em comparação. Não é como se faltasse cor nelas, mas o arranjo delas parece mero broto quando plantado ao lado do meu desabrochar da moda."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Amanita acredita que não há nada tão maravilhoso quanto o som de sua própria voz melódica, mas há muitos que sentem que talvez suas vozes sejam igualmente importantes. Amanita passou muitos anos ponderando sobre isso e, ainda assim, vê pouco mérito nesse argumento."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Verde e Roxo."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Água mineral filtrada com um toque de fertilizante orgânico."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Você quer saber o que apodrece as raízes de Amanita? Mau atendimento e os monstros de pele sensível que o fornecem. Se você não consegue fazer a coisa certa, então não perca as suas folhas quando Amanita expressar sua insatisfação."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Amanita dynamic tem uma larva adoradora que é uma 'querrrida' (die-rling), servindo tanto como bicho de estimação quanto como acessório."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amanita ama ser adorada e celebrada por sua beleza inerente — tanto por dentro quanto por fora."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Fotografia. Amanita sempre foi o tema perfeito para todos os projetos da classe."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Educação Física (Physical Deaducation). Vocês querem que Amanita corra? Ah, não, não, não! Os monstros correm até Amanita Nightshade ou por Amanita Nightshade. Amanita não corre."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "Amanita Nightshade",
+        "foto": "imagens/imagensperfil/amanita.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Self-standing Signature", "foto": "imagens/imagens bonecas/AmanitaSelfStanding.jpg" }
+    ]
+  },
+  "isi-dawndancer": {
+    "nome": "Isi Dawndancer",
+    "especie": "Filha do Espírito do Cervo",
+    "fotoPrincipal": "imagens/imagens personagens/Isi.webp",
+    "corTema": "#fa5151",
+    "corFundoListras": [
+      "#fa5151",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "21 de setembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Boo Mexico (EUA)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu amo misturar estampas tribais com franjas e cores vibrantes para criar um visual moderno que se mantenha fiel à minha herança monstruosa. Também gosto que as minhas roupas sejam flexíveis e confortáveis, porque sou propensa a começar a dançar espontaneamente."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "É meio embaraçoso, mas eu tenho esse efeito sobre os garotos (mansters) que os faz se apaixonarem de quatro (hoof-over-antlers) por mim. Infelizmente, eles geralmente acabam caindo de cara e partindo o coração."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Laranja terracota e turquesa."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Maçãs e mel."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Odeio quando acendem luzes brilhantes na minha cara. Elas me dão vontade de ficar completamente estática e de sair correndo ao mesmo tempo."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "As aves do céu e os animais do campo são todos meus amigos. Eu não gostaria de causar ciúmes escolhendo um em detrimento do outro."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu amo dançar acima de todas as outras coisas, e qualquer desculpa para dançar é uma boa desculpa."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Aula de Dança, é claro."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Culinária (Home Ick). Dançar não é muito recomendado enquanto se está cozinhando."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "twyla-boogeyman",
+        "nome": "Twyla Boogeyman",
+        "foto": "imagens/imagensperfil/twyla.jpg"
+      },
+      {
+        "id": "gilda goldstag",
+        "nome": "Gilda Goldstag",
+        "foto": "imagens/imagensperfil/Gilda.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "We Are Monster High", "foto": "imagens/imagens bonecas/GildaWeAreMH.jpg" }
+    ]
+  },"batsy-claro": {
+    "nome": "Batsy Claro",
+    "especie": "Filha do Morcego Vampiro Branco",
+    "fotoPrincipal": "imagens/imagens personagens/Batsy.webp",
+    "corTema": "#e2ff91",
+    "corFundoListras": [
+      "#e2ff91",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "26 de julho"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Costa Rica"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu busco a minha inspiração de moda na selva ao meu redor, como o verde das folhas de palmeira tecidas e as cores vibrantes das orquídeas. Elas me ajudam a me misturar e a me destacar ao mesmo tempo."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu tenho um verdadeiro problema com monstros que escolhem ficar no escuro quando o assunto é proteger o mundo em que desvivemos. Este é o único mundo que temos, e não deveríamos fechar os olhos quando se trata de cuidar dele."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Verde-folha e branco."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Laranjas... de sangue (Blood oranges)."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros querem levar a flora ou a fauna da selva de volta para casa com eles. Eu entendo o motivo de quererem fazer isso, mas o melhor lugar para qualquer planta ou criatura é no lar dela."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Animal de estimação? Nem pensar nisso!"
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Apresentar a selva aos monstros pela primeira vez. Ver os rostos deles se iluminarem diante de toda aquela maravilha natural é algo que nunca perde a graça."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Ge-ogre-fia (Ge-ogre-phy). Amo aprender mais sobre o mundo ao meu redor."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Teatro (Drama). Não sou boa nisso e não gosto."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "venus-mcflytrap",
+        "nome": "Venus McFlytrap",
+        "foto": "imagens/imagensperfil/venus.jpg"
+      },
+      {
+        "id": "jane-boolittle",
+        "nome": "Jane Boolittle",
+        "foto": "imagens/imagensperfil/Jane.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Brand-Boo Students", "foto": "imagens/imagens bonecas/BatsyrandBoo.jpg" }
+    ]
+  },
+  "kjersti-trollsøn": {
+    "nome": "Kjersti Trollsøn",
+    "especie": "Filha de um Troll",
+    "fotoPrincipal": "imagens/imagens personagens/Kjersti.webp",
+    "corTema": "#f02ea5",
+    "corFundoListras": [
+      "#f02ea5",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "10 de novembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Goreway (Noruega)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "14 anos em anos de Troll"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu sou uma gamer e gosto de dar um 'turbo boost' de fofura no meu guarda-roupa com saias, camisetas e sapatos temáticos de jogos que são assustadoramente fofos. Eu curto a sensação de estar na moda, especialmente quando estou chutando o personagem de outro jogador por toda a tela."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu sou uma maníaca por controle e mais do que um pouquinho nerd. Acho que é por isso que gosto de jogar, porque posso fazer os personagens que estou controlando fazerem tudo o que eu mando... e se não fizerem, eu posso sempre resetar o jogo. Infelizmente, não existem botões de reset na vida real."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Roxo e azul pixelados."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Screechza (Pizza barulhenta / de gritos). É a comida perfeita para um gamer."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Lag no servidor. Em um minuto o seu personagem está de fininho atrás do personagem de outro monstro, aí a tela congela e, no minuto seguinte, é você quem está dando re-spawn."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Seria estranho se eu dissesse que é o meu console de videogame?"
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Amo jogar videogames com monstros de todo o mundo. Mesmo que nunca tenhamos nos conhecido cara a cara, sinto como se eles fossem os meus amigos."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Física. Eu amo a matemática por trás da magia."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Línguas Mortas (Dead Languages). Eu prefiro deixar que os personagens dos meus jogos falem por mim."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "ghoulia-yelps",
+        "nome": "Ghoulia Yelps",
+        "foto": "imagens/imagensperfil/Ghoulia.png"
+      },
+      {
+        "id": "heath-burns",
+        "nome": "Heath Burns",
+        "foto": "imagens/imagensperfil/Heath.webp"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Brand-Boo Students", "foto": "imagens/imagens bonecas/KjerstirandBoo.jpg" }
+    ]
+  },
+  "finnegan-wake": {
+    "nome": "Finnegan Wake",
+    "especie": "Filho de um Tritão",
+    "fotoPrincipal": "imagens/imagens personagens/Finnegan.webp",
+    "corTema": "#00b4d8",
+    "corFundoListras": [
+      "#00b4d8",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "8 de agosto"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Atalântida (Oceano)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Meu moicano azul e minhas tatuagens iradas podem até dizer 'punk rocker', mais minhas modas ferozes são roupas de corrida assustadoramente legais."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Sou um demônio destemido que não gosta de ouvir 'isso é perigoso demais'. Embora, às vezes, eu possa mergulhar de cabeça rápido demais!"
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Preto e Roxo."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Smoothies de algas marinhas com reforço de proteína. Eles têm um gosto fantasmagórico e me dão muita energia, então estou sempre pronto para rodar, com o perdão do trocadilho!"
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Monstros que pensam que, pelo fato de eu estar em uma cadeira, a minha condição vai me segurar. Eu posso ser um peixe fora d'água, mas eu sei o que posso — e o que não posso — fazer."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Um guepardo fantasma seria o meu bicho de estimação supremo porque eles são as criaturas mais rápidas do mundo monstro... mas eles são selvagens demais para serem domados."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Quando não estou rodando pela escola na minha cadeira, você pode me encontrar treinando na piscina da escola, na Praia do Gloom ou no oceano. Exercícios na água realmente mantêm as minhas barbatanas em forma."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Oficina de Metal (Metal Shop). Eu amo construir coisas e trabalhar com as minhas mãos. Um dia quero projetar a minha própria linha de cadeiras para acrobacias."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Teatro (Drama). Cara... a desvida é tão cheia de emoção e aventura que eu não preciso fingir."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "lorna-mcNessie",
+        "nome": "Lorna McNessie",
+        "foto": "imagens/imagensperfil/lorna.jpg"
+      },
+      {
+        "id": "gigi-grant",
+        "nome": "Gigi Grant",
+        "foto": "imagens/imagensperfil/Gigi.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Self-standing Signature", "foto": "imagens/imagens bonecas/FinneganSelfStanding.jpg" }
+    ]
+  },
+  "manny-taur": {
+    "nome": "Manny Taur",
+    "especie": "Filho do Minotauro",
+    "fotoPrincipal": "imagens/imagens personagens/Manny.webp",
+    "corTema": "#d90429",
+    "corFundoListras": [
+      "#d90429",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "16 de julho"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Monsterterraniano (Grécia)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu sou um tipo de monstro de colarinho simples (boo collar), e é muito fácil para mim se perder no labirinto das tendências de moda. Fico mais feliz quando estou de jeans, camiseta e botas. Também é bem difícil encontrar roupas descoladas que caibam em mim."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu costumo quebrar as coisas, geralmente sem querer, veja bem, mas você provavelmente ainda não iria querer me convidar para um chá onde planeja usar a porcelana de herança da sua avó-monstro. Eu também tenho dificuldade em colocar meus sentimentos em palavras. Sou muito mais um monstro de 'mostrar que gosto de você' do que um de 'dizer que gosto de você'."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Cinza — Amo filmes antigos em preto e branco, sem vermelho para me distrair."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Broa de milho com muita manteiga e mel. Minha mãe faz a melhor de todas."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros tentam me fazer ver vermelho. Pode ser engraçado para eles, mas não é para mim. Além disso, parem de me pedir direções. Só porque eu nasci em um labirinto não significa que eu saiba te dizer o melhor caminho para ir a algum lugar."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Eu gosto de filhotes de grifo porque eles são tão peludinhos, fofos e brincalhões. O quê? Só porque eu não fico mostrando o meu lado esquerdo macio não significa que ele não esteja lá."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu amo jogar e competir. Seja futebol, basquete (casketball), SKRM ou 'caixão-lápide-guilhotina', estou sempre pronto para o desafio."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Educação Física (Physical Deaducation). Eu não preciso ficar me preocupando em tentar ser gentil o tempo todo."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Línguas Mortas (Dead Languages). Eu já tenho dificuldade o suficiente querendo falar em voz alta na minha própria língua."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "heath-burns",
+        "nome": "Heath Burns",
+        "foto": "imagens/imagensperfil/Heath.webp"
+      },
+      {
+        "id": "iris-clops",
+        "nome": "Iris Clops",
+        "foto": "imagens/imagensperfil/iris.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "SDCC Exclusive 2-Pack", "foto": "imagens/imagens bonecas/MannySDCC.jpg" }
+    ]
+  },
+  "iris-clops": {
+    "nome": "Iris Clops",
+    "especie": "Filha do Ciclope",
+    "fotoPrincipal": "imagens/imagens personagens/Iris.webp",
+    "corTema": "#6c945c",
+    "corFundoListras": [
+      "#6c945c",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "26 de abril"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Grega"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Acho que tenho um olho muito perspicaz para a moda, e é fácil para mim focar de verdade nos designs e estilos que melhor combinam comigo. Eu amo especialmente tecidos com estampas de olhos."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "É fácil ver, pelos calombos e roxos que estou constantemente cuidando, que sou mais do que um pouquinho desajeitada. Gosto de culpar a minha falta de percepção de profundidade, mas acho que é principalmente porque nem sempre olho por onde ando."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Bordô (Maroon)."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Feijão-fradinho (Black eyed peas)."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Não conseguir encontrar um par de óculos escuros estilosos de prateleira. Quero dizer, eu não posso ser a única Ciclope antenada na moda que acha que a proteção UV não deve ser apenas útil."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Eu quero muito um bicho de estimação alienígena de algum tipo — de preferência algo com vários olhos e peludinho, e não cheio de tentáculos e gosmento."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Eu amo observar as estrelas. É simplesmente maravilhoso olhar para o céu noturno e imaginar quem ou o que está lá fora."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Astronomia, é claro! É de arrepiar de tão legal que exista uma aula que me ensine mais sobre aquilo pela qual sou apaixonada."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Educação Física (Physical Deaducation). Alô! É como a tempestade perfeita para um monstro com percepção de profundidade ruim e uma tendência a ser desajeitada."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "gigi-grant",
+        "nome": "Gigi Grant",
+        "foto": "imagens/imagensperfil/Gigi.jpg"
+      },
+      {
+        "id": "manny-taur",
+        "nome": "Manny Taur",
+        "foto": "imagens/imagensperfil/manny.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "I Heart Fashionk", "foto": "imagens/imagens bonecas/IrisFashion.jpg" },
+      { "nome": "SDCC Exclusive 2-Pack", "foto": "imagens/imagens bonecas/IrisSDCC.jpg" }
+    ]
+  },
+  "astranova": {
+    "nome": "Astranova",
+    "especie": "Filha dos Alienígenas de um Cometa",
+    "fotoPrincipal": "imagens/imagens personagens/Astranova.webp",
+    "corTema": "#3b4b92",
+    "corFundoListras": [
+      "#3b4b92",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "15 de maio"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Espaço Sideral"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos em anos espaciais"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Eu amo glam rock. Quanto mais brilho e resplendor de outro mundo, melhor. Minha busca é ser o objeto mais deslumbrante em um universo cheio de estrelas!"
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Depois de viajar por anos-luz, às vezes tenho dificuldade em me guiar por Monster High. O que estou tentando dizer se perde na tradução, ou eu não entendo as gírias de presas das minhas novas amigas, e aí sinto que as nossas conversas ficam apenas orbitando em círculos."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Brilhante. Isso é uma cor, certo?"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Espaguete com almôndegas da lua (A receita secreta da vovó)."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros me perguntam de qual planeta eu sou. Eu sou uma garota do COMETA — a galáxia inteira é a minha casa."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Nenhuma criatura hiberna por tanto tempo quanto eu estive em estase, então não seria justo ter um animal de estimação."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Cantar. A música é um solo comum — e um espaço comum. É a linguagem compreendida por todos os monstros."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Astronomia. Eu amo olhar para as estrelas. Isso me ajuda a sentir que não me afastei muito para fora da minha própria atmosfera."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Autoescola dos Mortos (Driver's Dead). Quando você voa por eras como eu voei, veículos que ficam presos no chão são meio entediantes."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "elle-eedee",
+        "nome": "Elle Eedee",
+        "foto": "imagens/imagensperfil/elle.jpg"
+      },
+      {
+        "id": "luna-mothews",
+        "nome": "Luna Mothews",
+        "foto": "imagens/imagensperfil/luna.jpg"
+      },
+      {
+        "id": "mouscedes-king",
+        "nome": "Mouscedes King",
+        "foto": "imagens/imagensperfil/mouscedes.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Boo York, Boo York ", "foto": "imagens/imagens bonecas/AstranovaBooYork.jpg" }
+    ]
+  },
+  "elle-eedee": {
+    "nome": "Elle Eedee",
+    "especie": "Filha dos Robôs",
+    "fotoPrincipal": "imagens/imagens personagens/Elle.webp",
+    "corTema": "#ffffff",
+    "corFundoListras": [
+      "#ffffff",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "20 de outubro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Boo York (EUA)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "O futuro é agora! Eu amo linhas limpas e modas em metal brilhante."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu consigo soltar uma batida monstruosa, mas quando danço, fico animada demais e às vezes posso queimar um fusível! Por mais que eu ame a pista de dança, geralmente prefiro ficar atrás das picapes, onde não vou precisar pedir um cabo para a Frankie me reiniciar."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Prata. Faz tudo parecer de última geração."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Qualquer coisa com azeite de oliva. Ctrl-Alt-Delícia!"
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros me perguntam se a minha inteligência é artificial! Como se eu nunca tivesse ouvido essa antes."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Estou trabalhando em um bicho de estimação para o futuro, mas ela ainda está em versão beta."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Compor. Eu amo transformar ruídos eletrônicos em músicas fantásticas."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Oficina de Metal (Metal Shop). Eu amo fazer reparos, e o professor me dá liberdade para trabalhar na minha música, assim como na programação."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Natação. Meu sistema é muito mais compatível com ondas sonoras do que com a variedade molhada."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "luna-mothews",
+        "nome": "Luna Mothews",
+        "foto": "imagens/imagensperfil/luna.jpg"
+      },
+      {
+        "id": "mouscedes-king",
+        "nome": "Mouscedes King",
+        "foto": "imagens/imagensperfil/mouscedes.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Boo York, Boo York", "foto": "imagens/imagens bonecas/ElleBooYork.jpg" },
+      { "nome": "Boo York, Boo York", "foto": "imagens/imagens bonecas/ElleBooYork2.jpg" }
+    ]
+  },
+  "luna-mothews": {
+    "nome": "Luna Mothews",
+    "especie": "Filha do Homem-Mariposa",
+    "fotoPrincipal": "imagens/imagens personagens/Luna.webp",
+    "corTema": "#fd5f37",
+    "corFundoListras": [
+      "#fd5f37",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "30 de agosto"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Nova Jersey / Boo York (EUA)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Totalmente Gótica Mariposa! Eu amo cores escuras com toques brilhantes de cor, bem parecido com a cidade à noite."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu sou atraída pelo estrelato. Para mim, essa é a luz que brilha mais forte, e estou determinada a alcançá-la. Mas também sou encantada pelas minhas amigas, e não me importo de sair um pouco do meu rumo se isso significar estender uma asa amiga para uma das minhas monstrinhas."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Amarelo fluorescente. Isso simplesmente me fascina, sabe?"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Red Velvet com cobertura de 'creme de grito' (scream cheese)."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando as minhas amigas não me emprestam as roupas delas porque acham que vou devolvê-las todas roídas por traça."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Não acho que exista um animal de estimação morto-vivo que consiga acompanhar a minha agenda caótica."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Cantar, dançar, atuar... eu não conseguiria escolher apenas uma!"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Canto. É a nota mais alta do meu dia."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Qualquer aula que seja no primeiro período. Eu sou noturna, então definitivamente não sou uma monstrinha matutina."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "elle-eedee",
+        "nome": "Elle Eedee",
+        "foto": "imagens/imagensperfil/elle.jpg"
+      },
+       {
+        "id": "mouscedes-king",
+        "nome": "Mouscedes King",
+        "foto": "imagens/imagensperfil/mouscedes.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Boo York, Boo York", "foto": "imagens/imagens bonecas/LunaBooYork.jpg" },
+      { "nome": "Boo York, Boo York", "foto": "imagens/imagens bonecas/LunaBooYork2.jpg" }
+    ]
+  },
+  "mouscedes-king": {
+    "nome": "Mouscedes King",
+    "especie": "Filha do Rei dos Ratos",
+    "fotoPrincipal": "imagens/imagens personagens/Mouscedes.webp",
+    "corTema": "#ffb3c6",
+    "corFundoListras": [
+      "#ffb3c6",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "13 de novembro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Boo York (EUA)"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "15 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Totalmente do Upper Beast Side!"
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu sou uma garota rata que é intolerante à lactose — o que parece uma piada brega de queijo. Eu tento não ser um incômodo, mas não posso evitar se preciso pedir o meu latte com creme extra, chantilly extra, sem laticínios, substituição por soja, sem creme e com pouca espuma."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Cinza, é tão versátil."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Um belo queijo de arroz tipo cheddar forte sempre cai bem!"
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "O estigma contra nós, ratos, baseado em alguns contos de terror. Eu costumava ter vergonha de ser filha do Rei dos Ratos, mas agora eu sei que ser uma princesa monstra é totalmente demais!"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Eu gostaria de ter um bicho de estimação algum dia. Talvez algo minúsculo e fofo que eu possa carregar na minha bolsa."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Qualquer tipo de dança. Até a minha cauda tem alguns passos monstruosos."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Dança."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Artes Culinárias (Skullinary Arts). Eu gosto de cozinhar, mas muitas das receitas pedem queijo, então não estou aprendendo nada útil. Além disso, em Boo York, posso pedir para entregar qualquer coisa que eu quiser."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "luna-mothews",
+        "nome": "Luna Mothews",
+        "foto": "imagens/imagensperfil/luna.jpg"
+      },
+      {
+        "id": "elle-eedee",
+        "nome": "Elle Eedee",
+        "foto": "imagens/imagensperfil/elle.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Boo York, Boo York", "foto": "imagens/imagens bonecas/MouscedesBooYork.jpg" },
+       { "nome": "Boo York, Boo York", "foto": "imagens/imagens bonecas/MouscedesBooYork2.jpg" }
+    ]
+  },
+  "peri-e-pearl-serpentine": {
+    "nome": "Peri & Pearl Serpentine",
+    "especie": "Filhas da Hidra",
+    "fotoPrincipal": "imagens/imagens personagens/Peri_Pearl.webp",
+    "corTema": "#4ea8de",
+    "corFundoListras": [
+      "#4ea8de",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "5 de junho"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Grande Barreira de Corais"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Nosso lema é: 'O dobro de joias é duas vezes mais legal'. Nós amamos usar acessórios e estamos sempre à caça de joias escondidas para dar um brilho extra nos nossos trajes que são únicos no mundo."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Nós batemos de frente constantemente! Só porque somos grudadas assim não significa que concordamos em tudo. Mas somos irmãs e melhores amigas, então sempre protegemos as costas uma da outra!"
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Uma coisa em que é fácil concordar: Ouro! É uma escolha óbvia para duas cabeças!"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Gostamos de comidas que se comem com as mãos (finger foods) porque podemos comer ao mesmo tempo. Qualquer coisa que precise de duas mãos para chegar a cada boca pode demorar um pouco."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando somos tratadas como se fôssemos o mesmo monstro. Nós temos nossos próprios interesses, gritos e personalidades. (A Pearl escreveu isso. Eu não me importo muito. — Peri)"
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Os chefes da nossa família não nos deixam ter nenhum bicho de estimação até que a gente consiga concordar sobre qual tipo escolher."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Passar o tempo (fanging out) juntas! O que é uma coisa boa, você não acha?"
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "O favorito da Pearl é Gemologia e o da Peri é Oficina de Metal (Metal Shop), que se complementam perfeitamente porque nosso objetivo supremo é o design de joias monstruosas!"
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Debate. Discutir uma com a outra já é exaustivo demais. E discutir com os outros envolve se importar com a opinião deles."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "kala-mer'ri",
+        "nome": "Kala Mer'ri",
+        "foto": "imagens/imagensperfil/kala.jpg"
+      },
+      {
+        "id": "",
+        "nome": "elas mesmas",
+        "foto": "imagens/imagensperfil/Peri_Pearl.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Great Scarrier Reef - Down Under Ghouls", "foto": "imagens/imagens bonecas/PeriPearlScarrier.jpg" }
+    ]
+  },
+  "kala-mer'ri": {
+    "nome": "Kala Mer'ri",
+    "especie": "Filha do Kraken",
+    "fotoPrincipal": "imagens/imagens personagens/Kala.webp",
+    "corTema": "#b332d3",
+    "corFundoListras": [
+      "#b332d3",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "24 de janeiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Grande Barreira de Corais"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "16 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Gosto de cores ousadas e brilhantes que me permitam destacar em um mar de monstros. Não quero ser apenas mais uma gota no oceano; eu quero ser o olho visual da tempestade."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Preciso colocar meus tentáculos em tudo. Algumas das minhas amigas dizem que é porque sou uma maníaca por controle (control shriek), mas eu preciso me sentir segura e no comando da minha desvida."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Cores brilhantes. Tons escuros e sem graça são para monstros menos sensacionais."
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Toda monstrinha dos mares do sul ama camarão no churrasco (shrimp on the barbie)."
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando outros monstros acham que te conhecem baseados em estereótipos rasos e lendas subaquáticas."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "A Peri e a Pearl contam? Brincadeira! Eu não tenho tempo para bichos de estimação."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Sou uma artista nata e amo dançar até espantar todos os meus medos."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Eu gosto de Matemática porque é organizada e geralmente só existe uma resposta certa. Eu me sinto no controle porque são problemas que eu sei que posso resolver."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Esportes coletivos. Sou uma líder, não uma seguidora. Além disso, por que ficar de fora e deixar os outros jogarem se posso pegar, arremessar ou fazer uma cesta com qualquer um dos meus tentáculos?"
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "peri-e-pearl-serpentine",
+        "nome": "Peri & Pearl Serpentine",
+        "foto": "imagens/imagensperfil/Peri_Pearl.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Great Scarrier Reef - Down Under Ghouls", "foto": "imagens/imagens bonecas/KalaScarrier.jpg" }
+    ]
+  },
+  "posea-reef": {
+    "nome": "Posea Reef",
+    "especie": "Filha de Poseidon",
+    "fotoPrincipal": "imagens/imagens personagens/Posea.webp",
+    "corTema": "#b0dcff",
+    "corFundoListras": [
+      "#b0dcff",
+      "#121013"
+    ],
+    "dadosRapidos": [
+      {
+        "titulo": "Aniversário",
+        "texto": "12 de fevereiro"
+      },
+      {
+        "titulo": "Nacionalidade",
+        "texto": "Grande Barreira de Corais"
+      },
+      {
+        "titulo": "Idade",
+        "texto": "17 anos"
+      }
+    ],
+    "colunaEsquerda": [
+      {
+        "titulo": "Estilo",
+        "texto": "Sou o tipo de garota que vai na onda (go-with-the-flow). Literalmente e na moda. Amo sentir tecidos fluidos e acessórios girando e balançando ao meu redor, como se tivessem vida própria."
+      },
+      {
+        "titulo": "Defeito",
+        "texto": "Eu sei muito sobre... muita coisa! Mas meu conhecimento pode ficar emaranhado como algas na minha cabeça. Sei que está lá em algum lugar, mas nem sempre consigo pescar de volta."
+      },
+      {
+        "titulo": "Cor preferida",
+        "texto": "Verde-alga. Parece natural!"
+      },
+      {
+        "titulo": "Comida preferida",
+        "texto": "Bala de caramelo de água salgada (Saltwater taffy)! Mastigável, grudenta e deliciosa!"
+      },
+      {
+        "titulo": "O que mais o irrita",
+        "texto": "Quando os monstros nadam para longe de seus medos. Talvez não seja tanto uma irritação, mas algo que me deixa triste... e determinada a ajudar."
+      }
+    ],
+    "colunaDireitaInferior": [
+      {
+        "titulo": "Animal de estimação",
+        "texto": "Todas as criaturas do mar são minhas amigas, e eu jamais consideraria qualquer uma delas como um 'bicho de estimação'."
+      },
+      {
+        "titulo": "Atividade preferida",
+        "texto": "Jardinagem. Amo ficar sob o brilho do mar, cuidando das minhas lindas plantas aquáticas."
+      },
+      {
+        "titulo": "Matéria preferida",
+        "texto": "Aquicultura. Como uma deusa do mar em treinamento, é meu dever aprender tudo sobre a vida marinha — desde criaturinhas minúsculas e encantadoras até monstros gigantes, secretos e possivelmente incompreendidos."
+      },
+      {
+        "titulo": "Matéria que não gosta",
+        "texto": "Matemática. Sou boa nisso, mas prefiro coisas com mais de uma resposta certa. Gosto de ter opções, analisar cenários e escolher meu próprio caminho. Além disso, um pouco de caos criativo nunca matou ninguém."
+      }
+    ],
+    "melhoresAmigas": [
+      {
+        "id": "todos",
+        "nome": "As Éguas Marinhas (The Sea Mares)",
+        "foto": "imagens/imagensperfil/posea.jpg"
+      }
+    ],
+    "bonecas": [
+      { "nome": "Great Scarrier Reef - Glow-In-The-Dark", "foto": "imagens/imagens bonecas/PoseaScarrier.jpg" }
     ]
   }
 }

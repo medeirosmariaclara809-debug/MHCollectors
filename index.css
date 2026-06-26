@@ -2165,22 +2165,22 @@ body.perfil-clawdeen .btn-acao-card.ativo .icone-vetor-card { fill: #ffffff !imp
     --ease-smooth: cubic-bezier(0.23, 1, 0.32, 1);
 }
 
-body.perfil-draculaura {
+body.perfil-draculaura{
     --cor-principal: #ff4dc3;
     --cor-principal-clara: rgba(255, 77, 195, 0.18);
 }
 
-body.perfil-frankie {
+body.perfil-frankie{
     --cor-principal: #32d1c4;
     --cor-principal-clara: rgba(50, 209, 196, 0.18);
 }
 
-body.perfil-clawdeen {
+body.perfil-clawdee{
     --cor-principal: #a35cff;
     --cor-principal-clara: rgba(163, 92, 255, 0.18);
 }
 
-body.perfil-Lagoona {
+body.perfil-lagoona{
     --cor-principal: #48D1CC;
     --cor-principal-clara: #20B2AA;
 }
@@ -2238,4 +2238,233 @@ body.perfil-Meowlody {
 body.perfil-Purrsephone {
     --cor-principal: #e63964;
     --cor-principal-clara: rgb(177, 0, 29);
+}
+
+body.perfil-Rochelle {
+    --cor-principal: #ffb4e8;
+    --cor-principal-clara: rgb(255, 162, 227);
+}
+
+body.perfil-Venus {
+    --cor-principal: #b9ff78;
+    --cor-principal-clara: #acff5f;
+}
+
+body.perfil-howleen{
+    --cor-principal: #dd1b7c;
+    --cor-principal-clara: #dd1b76;
+}
+
+body.perfil-Gil{
+    --cor-principal: #85fff9;
+    --cor-principal-clara: #58fff7;
+}
+
+body.perfil-Hoodude {
+    --cor-principal: #9cc7ff;
+    --cor-principal-clara: #8abdff;
+}
+
+
+body.perfil-Skelita {
+    --cor-principal: #ff5f03;
+    --cor-principal-clara: #be4a06;
+}
+
+body.perfil-Jinafire {
+    --cor-principal: #128b26;
+    --cor-principal-clara: #054410;
+}
+
+body.perfil-Scarah{
+    --cor-principal: #94db42;
+    --cor-principal-clara: #5e9420;
+}
+
+
+body.perfil-Cupid{
+    --cor-principal: #ff9cde;
+    --cor-principal-clara: rgb(255, 97, 221);
+}
+
+body.perfil-Gigi{
+    --cor-principal: #e02aa4;
+    --cor-principal-clara: rgb(139, 14, 112);
+}
+
+body.perfil-Heath{
+    --cor-principal: #ff6325;
+    --cor-principal-clara: #c73800;
+}
+body.perfil-Heath{
+    --cor-principal: #ff6325;
+    --cor-principal-clara: #c73800;
+}
+
+body.perfil-viperine{
+    --cor-principal: #ff85a2;
+    --cor-principal-clara: #ff97c3;
+}
+
+body.perfil-clawdia{
+    --cor-principal: #ffe553;
+    --cor-principal-clara: #fff12f;
+}
+
+body.perfil-elissabat{
+--cor-principal: #7209b7;
+    --cor-principal-clara: #510783;
+}
+
+body.perfil-jane {
+--cor-principal: #bfa8ff;
+    --cor-principal-clara: #a99aff;
+}
+
+body.perfil-honey {
+--cor-principal: #a4fffa;
+    --cor-principal-clara: #8df2ff;
+}
+
+
+body.perfil-SloMo {
+--cor-principal: #4a4e69;
+    --cor-principal-clara: #3a3e57;
+}
+body.perfil-Catty {
+--cor-principal: #e73396;
+    --cor-principal-clara: #d32476;
+}
+
+body.perfil-wydowna{
+--cor-principal: #e63946;
+    --cor-principal-clara: #a01924;
+}
+
+body.perfil-bonita{
+--cor-principal: #ff91c8;
+    --cor-principal-clara: rgb(255, 157, 217);
+}
+
+body.perfil-avea{
+--cor-principal: #51a2ff;
+    --cor-principal-clara: #2e79cf;
+}
+
+body.perfil-sirena{
+--cor-principal: #8395ff;
+    --cor-principal-clara: #5972ff;
+}
+
+body.perfil-neightan{
+--cor-principal: #41a3ff;
+    --cor-principal-clara: #319bff;
+}
+
+body.perfil-diretora{
+--cor-principal: #4c3288;
+    --cor-principal-clara: #431580;
+}
+
+body.perfil-river{
+--cor-principal: #d6c4ff;
+    --cor-principal-clara: #cbb5ff;
+}
+body.perfil-porter{
+--cor-principal: #93ff7d;
+    --cor-principal-clara: hsl(130, 100%, 68%);
+}
+
+body.perfil-vandala{
+--cor-principal: #a9ffec;
+    --cor-principal-clara: rgb(92, 255, 233);
+}
+
+body.perfil-kiyomi{
+--cor-principal: #d29bff;
+    --cor-principal-clara: #b372e9;
+}
+body.perfil-casta{
+--cor-principal: #7209b7;
+    --cor-principal-clara: #5a327a;
+}
+body.perfil-marisol{
+--cor-principal: #ffa3d6;
+    --cor-principal-clara: #e972cb;
+}
+
+body.perfil-lorna{
+--cor-principal: #00a896;
+    --cor-principal-clara: #0b685e;
+}
+
+body.perfil-lnvisi {
+--cor-principal: #00b4d8;
+    --cor-principal-clara: #078199;
+}
+
+body.perfil-amanita {
+--cor-principal: #9affc4;
+    --cor-principal-clara: #8affbb;
+}
+
+body.perfil-isi {
+--cor-principal: #fa5151;
+    --cor-principal-clara: #ff3f3f;
+}
+
+body.perfil-batsy {
+--cor-principal: #e2ff91;
+    --cor-principal-clara: #daff76;
+}
+
+body.perfil-trollson {
+--cor-principal: #f02ea5;
+    --cor-principal-clara: #b31877;
+}
+
+body.perfil-finnegan {
+--cor-principal: #00b4d8;
+    --cor-principal-clara: #0494b1;
+}
+body.perfil-manny {
+--cor-principal: #d90429;
+    --cor-principal-clara: #8a0a1f;
+}
+
+body.perfil-iris {
+--cor-principal: #6c945c;
+    --cor-principal-clara: #5a8847;
+}
+body.perfil-astranobv {
+--cor-principal: #3b4b92;
+    --cor-principal-clara: #263163;
+}
+body.perfil-elle {
+--cor-principal: #ffffff;
+    --cor-principal-clara: #263163;
+}
+body.perfil-luna {
+--cor-principal: #fd5f37;
+    --cor-principal-clara: rgb(223, 83, 48);
+}
+
+body.perfil-mouscedes {
+--cor-principal: #ffb3c6;
+    --cor-principal-clara: #fca0b7;
+}
+
+body.perfil-pearl {
+--cor-principal: #4ea8de;
+    --cor-principal-clara: #4386af;
+}
+
+body.perfil-kala {
+--cor-principal: #b332d3;
+    --cor-principal-clara: #791679;
+}
+
+body.perfil-posea{
+--cor-principal: #b0dcff;
+    --cor-principal-clara: #93ceff;
 }
